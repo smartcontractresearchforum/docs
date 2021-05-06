@@ -1,18 +1,20 @@
+# SCRF: Template - Research Summary
+
 ---
 title: [Research Summary - XXX]
-description: >-
-  One or two sentence description
+description: One or two sentences of what the post is about.
 tags: [tag1, tag2, tag3]
 created: [2020-12-25]
 researcher: [full name]
 ---
 
-> ### TLDR:
+> ### TLDR
+>
 > Contains one to three bullets that distill the most condensed information about the key takeaways, notable results, or novel methodologies contained in the paper
 
 ### Core Research Question
 
-Provide a concise one-sentence statement of the core question being considered in the research paper
+Provide a concise one-sentence statement of the core question being considered in the research paper.
 
 ### Citation
 
@@ -20,9 +22,13 @@ A journal-style citation (MLA, APA, IEEE, etc.) of the authors. The precise form
 
 A link to the original research source on a non-paywall host; can be a SCRF-native host.
 
+Any citations to externally referenced works should either be included in the background section of the document or inserted as an inline hyperlink to the mentioned work where it is mentioned in the summary.
+
 ### Background
 
 Provide some context about the concepts and domain space(s) discussed in the research paper.
+
+The background section can include definitions, additional color, or references to prior works that are important to understand.
 
 ### Summary
 
@@ -48,7 +54,7 @@ Summarize the conclusions or key takeaways as included by the researchers.
 
 ### Implications and Follow-ups
 
-Summarize the implicit or explicit implications of the study. If the researchers include such a section, include a few of the most important points discussed. If not, insert some commentary of clear-cut or obvious implications of the work. 
+Summarize the implicit or explicit implications of the study. If the researchers include such a section, include a few of the most important points discussed. If not, insert some commentary of clear-cut or obvious implications of the work.
 
 Share any follow-up work discussed by the researchers.
 

@@ -1,44 +1,44 @@
 # Research Improvement Proposal
 
-_Refer to the [SCRF: Process - Research Improvement Process](./SCRF_Research_Improvement_Process.md) for instructions_
+_Refer to the [SCRF: Process - Research Improvement Process](./process_research_improvement_proposal.md) for instructions_
 
 ## Description
 
 _In no more than 3 paragraphs, please explain exactly what the project does._
 
-## Why is this good for:
+## Why is this good for
 
-* Content creation
-* Engagement
-* Discovery
-* Outreach
+- Content creation
+- Engagement
+- Discovery
+- Outreach
 
 ## Define Goals and Analytics
 
-* How does this project define success?
-* How is that success tracked?
+- How does this project define success?
+- How is that success tracked?
 
 ## Work Plan
 
-* How is the work done?
-* How is the work tracked?
-* How often do check-ins happen?
+- How is the work done?
+- How is the work tracked?
+- How often do check-ins happen?
 
 ## Resources
 
-* Who is working on this?
-* How much time does it take?
-* What tools would you need to complete this work?
-* How many hours per week?
-* Who is the owner?
+- Who is working on this?
+- How much time does it take?
+- What tools would you need to complete this work?
+- How many hours per week?
+- Who is the owner?
 
 ## Method
 
-* Consider the type of project you’re proposing and its scope. The more complicated, the more detail we’d like to see.
-  * How does this project define success?
-  * How can we check whether it’s on the way there.
-* How is the work done?
-* How will it interact with other processes?
+- Consider the type of project you’re proposing and its scope. The more complicated, the more detail we’d like to see.
+  - How does this project define success?
+  - How can we check whether it’s on the way there.
+- How is the work done?
+- How will it interact with other processes?
 
 ## Deliverables
 
