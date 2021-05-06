@@ -11,7 +11,7 @@
 
 ## Process Documents
 
-- [Research Improvement Proposal](en/process_research_improvement_proposal.md)
+- [Research Improvement Process](en/process_research_improvement_proposal.md)
 
 ## Project Proposals
 
