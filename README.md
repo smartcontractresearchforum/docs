@@ -19,5 +19,5 @@
 
 ## Reference Masterials
 
-- [Topic Taxonomy](en/reference_taxonomy.md)
+- [Glossary](en/terms_glosssary.md)
 - [Style Guide](en/reference_style_guide.md)
