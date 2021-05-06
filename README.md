@@ -17,7 +17,7 @@
 
 - [Research Improvement Proposal](en/project_research_improvement_proposal.md)
 
-## Reference Masterials
+## Reference Materials
 
 - [Topic Taxonomy](en/reference_taxonomy.md)
 - [Style Guide](en/reference_style_guide.md)
