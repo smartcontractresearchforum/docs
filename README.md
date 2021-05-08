@@ -19,5 +19,5 @@
 
 ## Reference Materials
 
-- [Topic Taxonomy](en/reference_taxonomy.md)
+- [Terms Glossary](en/reference_terms_glossary.md)
 - [Style Guide](en/reference_style_guide.md)
