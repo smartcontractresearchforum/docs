@@ -1,6 +1,6 @@
 # SCRF: Style Guide
 
-The SCRF Community Writing Style Guide summarizes the standards and best practices Writers should follow when contributing to Community Development resources.
+The SCRF Community Writing Style Guide summarizes the standards and best practices authors should follow when contributing to Community Development resources.
 
 ## Writing Intent and Tone
 
