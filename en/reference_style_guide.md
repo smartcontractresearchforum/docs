@@ -139,8 +139,8 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
 - Use the same [voice](https://en.wikipedia.org/wiki/Voice_%28grammar%29) for each item.
 - Use the same sentence type (statement, question, exclamation) for each item.
 - List items that include definitions should look like this:
-  - Team: Core team and Advisers are critical to SCRF's success.
-  - Community: Sentiment analysis is invaluable.
+  - **Team:** Core team and Advisers are critical to SCRF's success.
+  - **Community:** Sentiment analysis is invaluable.
 - Use dashes rather than asterisks for unordered lists.
   - Correct: -
   - Incorrect: *
