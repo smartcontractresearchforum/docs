@@ -18,10 +18,6 @@ SCRF content is designed to surface cutting-edge research and presents it more s
 
 Given the potential of blockchain and adjacent technologies, we seek to create as many opportunities to engage researchers as we can. Literature Reviews, Related Works, and Theses can take considerable time and effort for researchers and post-docs exploring this space. SCRF can be the place where long-term discussions can be had regarding their work, and researchers can be compensated for their time creating Research Summaries, which can be shared with the ecosystem.
 
-Our goal is to synthesize research, normalize concepts and terminology, and ultimately provide a strong backbone for engaging, objective conversations to take place.
-
-* [SCRF Research Summaries](https://www.smartcontractresearch.org/tag/summary)
-
 In addition to supporting researchers through grants, we’re also looking for moderators, editors, project managers, social media experts, among other roles. Feel free to reach out if you’re interested. 
 
 ## Compensation
