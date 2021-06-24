@@ -3,6 +3,7 @@
 ## Grants
 
 - [Research Associates](en/grants_general_contributors.md)
+- [Pan-African Micro-grants](en/grants_pan_african.md)
 
 ## Process Documents
 
