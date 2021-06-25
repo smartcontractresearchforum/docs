@@ -22,7 +22,7 @@ In addition to supporting researchers through grants, we’re also looking for m
 
 ## Compensation
 
-Grant recipients will receive USD 300 to write a single Research Summary or Use Case examination Research Summary.
+Grant recipients will receive USD 300 to write a single Research Summary or Use Case.
 
 We pay in cryptocurrency. For longer commitments, alternative arrangements can be made.
 
