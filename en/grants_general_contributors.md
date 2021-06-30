@@ -1,4 +1,4 @@
-# How to contribute to the Smart Contract Research Forum
+# How to apply for a Contributor Grant from the Smart Contract Research Forum
 
 ## What is SCRF?
 
@@ -6,7 +6,7 @@ The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCR
 
 Supporting blockchain research takes global coordination, carefully balanced incentives, a stream of novel research, strong editorial independence, and a critical mass of dedicated and professional forum moderators.
 
-We believe the forum will pay dividends for academia, industry, and emerging blockchain technologies. Concentrating unbiased blockchain research into a single, chain-agnostic, civil, and trustworthy space accelerates existing work in the field. It sparks the kind of collaborations between academia and industry that created the modern Internet.
+We believe the forum will pay dividends for academia, industry, and emerging blockchain technologies. Concentrating unbiased blockchain research into a single, _chain-agnostic, civil, and trustworthy space_ accelerates existing work in the field. It sparks the kind of collaborations between academia and industry that created the modern Internet.
 
 ## Our Researchers
 
@@ -14,7 +14,7 @@ Our core research team, the _Research Fellows_, have committed to working at lea
 
 Researchers who prefer occasional work and fewer meetings are referred to as _Research Associates_. There are no commitments required for being a Research Associate other than maintaining a light presence in our Chat and forum and occasionally contributing a comment or summary to SCRF. Research Associates who have completed several research summaries may be invited to become Research Fellows.
 
-To make SCRF the most compelling crypto-focused space online, we recognize that we have to compensate you for your time and expertise. **All work for SCRF is compensated.**
+To make SCRF the most compelling crypto-focused forum, we recognize that we have to compensate you for your time and expertise. **All work for SCRF is compensated.**
 
 ## What we are looking for
 
@@ -28,17 +28,17 @@ Given the existing body of research around blockchain and supporting technologie
 
 * [Some current examples](https://www.smartcontractresearch.org/tag/summary)
 
-In addition to researchers, we’re also looking for moderators, editors, project managers, social media experts, among other roles.
+In addition to researchers, we're also looking for moderators, editors, project managers, social media experts, among other roles.
 
 ## Compensation
 
-There’s a wide variety of work to be done at SCRF, from writing Research Summaries to copy editing and graphic design to various administrative roles. We support flexible payment schedules, honoraria, grants, and other arrangements.
+There's a wide variety of work to be done at SCRF, from writing Research Summaries to copy editing and graphic design to various administrative roles. We support flexible payment schedules, honoraria, grants, and other arrangements.
 
 As our researchers become more deeply engaged with the project, or take on larger pieces of work, we have longer-term relationships available, including salaried positions.
 
 _We pay in cryptocurrency. For longer commitments, alternative arrangements can be made._
 
-If you are unable to accept direct payments because of your university or funding agency, we can discuss alternative options. This could include:
+If you are unable to accept direct payments because of your university or funding agency, we can discuss alternative options. These could include:
 
 * funding a project
 * conference travel
@@ -46,7 +46,7 @@ If you are unable to accept direct payments because of your university or fundin
 * credits for compute resources, archive nodes, etc
 * supporting a blockchain-related organization or event of your choice
 
-We pay from $200 to $500 USD depending on the complexity of the content generated and the time involved. Researchers that commit to longer-term engagements and have produced a good body of work for the forum are encouraged to seek additional and more lucrative responsibilities.
+We pay from $200 to $500 USD for Research Summaries and other content types depending on the complexity of the work and the time involved. Researchers that commit to longer-term engagements, and have produced a good body of work for the forum, are encouraged to seek additional and more lucrative responsibilities.
 
 ## How we Communicate
 
