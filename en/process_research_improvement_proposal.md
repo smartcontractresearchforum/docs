@@ -10,11 +10,11 @@ When you're ready, create a new [ticket](https://github.com/orgs/smartcontractre
 
 Reach out to one of the SCRF team members on the chat and try to arrange some time to discuss the idea during our weekly calls.
 
-Here's a link to the [Project Plan Template](./SCRF_Research_Improvement_Proposal.md).
+Here's a link to the [Project Plan Template](./project_research_improvement_proposal.md).
 
 ## Method
 
-Create a copy of the [Project Plan Template](./SCRF_Research_Improvement_Proposal.md), fill out the relevant fields and then move it to the [Project Proposals](https://drive.google.com/drive/u/0/folders/1nk2Emr6pyGLHx0Hzy-_CfKZJnye2S1bS) directory. Create an issue in GitHub describing the proposal and link to your google doc.
+Create a copy of the [Project Plan Template](./project_research_improvement_proposal.md), fill out the relevant fields and then move it to the [Project Proposals](https://drive.google.com/drive/u/0/folders/1nk2Emr6pyGLHx0Hzy-_CfKZJnye2S1bS) directory. Create an issue in GitHub describing the proposal and link to your google doc.
 
 1. Fill out the form
 1. Talk about with Ops
@@ -30,7 +30,7 @@ Create a copy of the [Project Plan Template](./SCRF_Research_Improvement_Proposa
         1. They'll determine whether the project aligns with SCRF goals and scope
     1. Check in the [Research Team](https://github.com/orgs/smartcontractresearchforum/projects/4) pipeline to determine whether or not a pre-existing project already encompasses your suggestion
         1. If an existing project could encompass the suggestion, reach out to the creator in chat, to see if you could incorporate your ideas into theirs.
-        1. If an existing project does not encompass the suggestion, create a new issue with a link to your project plan (adapted from the [Project Plan Template](./SCRF_Research_Improvement_Proposal.m)) and a brief description of the project in the issue.
+        1. If an existing project does not encompass the suggestion, create a new issue with a link to your project plan (adapted from the [Project Plan Template](./project_research_improvement_proposal.md) and a brief description of the project in the issue.
 1. Create a Proposal
     1. Fill in a Project Plan Template
         1. Consider resources needed, potential scope, etc.
