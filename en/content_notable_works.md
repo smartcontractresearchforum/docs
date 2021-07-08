@@ -3,61 +3,60 @@
 Description of the **bounty program**. Something  something something... 
 
 # Table of Contents
-  * [Auditing and Security](#auditing-and-security)
-      - [The Security Reference Architecture for Blockchains: Towards a Standardized Model for Studying Vulnerabilities, Threats, and Defenses](#the-security-reference-architecture-for-blockchains--towards-a-standardized-model-for-studying-vulnerabilities--threats--and-defenses)
-      - [A Survey on Ethereum Systems Security: Vulnerabilities, Attacks, and Defenses](#a-survey-on-ethereum-systems-security--vulnerabilities--attacks--and-defenses)
-      - [A Survey on the Security of Blockchain Systems](#a-survey-on-the-security-of-blockchain-systems)
-      - [246 Findings From our Smart Contract Audits: An Executive Summary](#246-findings-from-our-smart-contract-audits--an-executive-summary)
-      - [Ethereum Smart Contract Security Best Practices](#ethereum-smart-contract-security-best-practices)
-      - [List of Ethereum Smart Contracts Post-Mortems](#list-of-ethereum-smart-contracts-post-mortems)
-  * [Oracles and Data](#oracles-and-data)
-      - [The Blockchain as a Software Connector](#the-blockchain-as-a-software-connector)
-      - [Town Crier: An Authenticated Data Feed for Smart Contracts](#town-crier--an-authenticated-data-feed-for-smart-contracts)
-      - [ChainLink: A Decentralized Oracle Network](#chainlink--a-decentralized-oracle-network)
-      - [ASTRAEA: A Decentralized Blockchain Oracle](#astraea--a-decentralized-blockchain-oracle)
-      - [Augur: A Decentralized Oracle and Prediction Market Platform](#augur--a-decentralized-oracle-and-prediction-market-platform)
-      - [From Oracles to Trustworthy Data On-chaining Systems](#from-oracles-to-trustworthy-data-on-chaining-systems)
-      - [Shintaku: An End-to-End-Decentralized General-Purpose Blockchain Oracle System](#shintaku--an-end-to-end-decentralized-general-purpose-blockchain-oracle-system)
-  * [Tooling and Languages](#tooling-and-languages)
-      - [Vyper: A security comparison with solidity based on common vulnerabilities](#vyper--a-security-comparison-with-solidity-based-on-common-vulnerabilities)
-      - [Safer smart contract programming with Scilla](#safer-smart-contract-programming-with-scilla)
-      - [A Survey of Tools for Analyzing Ethereum Smart Contracts](#a-survey-of-tools-for-analyzing-ethereum-smart-contracts)
-      - [Slither: A Static Analysis Framework For Smart Contracts](#slither--a-static-analysis-framework-for-smart-contracts)
-      - [Smashing Ethereum Smart Contracts for Fun and Real Profit](#smashing-ethereum-smart-contracts-for-fun-and-real-profit)
-      - [KEVM: A Complete Semantics of the Ethereum Virtual Machine](#kevm--a-complete-semantics-of-the-ethereum-virtual-machine)
-  * [Mechanism Design](#mechanism-design)
-      - [Mechanism Design Theory](#mechanism-design-theory)
-      - [Mechanism Theory](#mechanism-theory)
-      - [Market Structure in Bitcoin Mining](#market-structure-in-bitcoin-mining)
-      - [Quadratic Voting: How Mechanism Design Can Radicalize Democracy](#quadratic-voting--how-mechanism-design-can-radicalize-democracy)
-      - [Credible Neutrality as a Guiding Principle](#credible-neutrality-as-a-guiding-principle)
-      - [Combinatorial Information Market Design](#combinatorial-information-market-design)
-  * [Privacy](#privacy)
-      - [When the cookie meets the blockchain: Privacy risks of web payments via cryptocurrencies](#when-the-cookie-meets-the-blockchain--privacy-risks-of-web-payments-via-cryptocurrencies)
-      - [Tor: The Second Generation Onion Router](#tor--the-second-generation-onion-router)
-      - [Untraceable electronic mail, return addresses, and digital pseudonyms](#untraceable-electronic-mail--return-addresses--and-digital-pseudonyms)
-      - [Zerocash: Decentralized Anonymous Payments from Bitcoin](#zerocash--decentralized-anonymous-payments-from-bitcoin)
-      - [The Double Ratchet Algorithm](#the-double-ratchet-algorithm)
-  * [Governance and Coordination](#governance-and-coordination)
-      - [Quadratic Voting: How Mechanism Design Can Radicalize Democracy](#quadratic-voting--how-mechanism-design-can-radicalize-democracy-1)
-      - [An Economic Theory of Political Action in a Democracy](#an-economic-theory-of-political-action-in-a-democracy)
-      - [Liquid Democracy: An Algorithmic Perspective](#liquid-democracy-an-algorithmic-perspective)
-      - [Decentralized Network Governance: Blockchain Technology and the Future of Regulation](#decentralized-network-governance--blockchain-technology-and-the-future-of-regulation)
-  * [Scaling](#scaling)
-  * [Cryptography](#cryptography)
-  * [Consensus](#consensus)
-
+- [Auditing and Security](#auditing-and-security)
+    + [The Security Reference Architecture for Blockchains\: Towards a Standardized Model for Studying Vulnerabilities, Threats, and Defenses](#the-security-reference-architecture-for-blockchains-towards-a-standardized-model-for-studying-vulnerabilities-threats-and-defenses)
+    + [A Survey on Ethereum Systems Security\: Vulnerabilities, Attacks, and Defenses](#a-survey-on-ethereum-systems-security---vulnerabilities--attacks--and-defenses)
+    + [A Survey on the Security of Blockchain Systems](#a-survey-on-the-security-of-blockchain-systems)
+    + [246 Findings From our Smart Contract Audits\: An Executive Summary](#246-findings-from-our-smart-contract-audits---an-executive-summary)
+    + [Ethereum Smart Contract Security Best Practices](#ethereum-smart-contract-security-best-practices)
+    + [List of Ethereum Smart Contracts Post-Mortems](#list-of-ethereum-smart-contracts-post-mortems)
+- [Oracles and Data](#oracles-and-data)
+    + [The Blockchain as a Software Connector](#the-blockchain-as-a-software-connector)
+    + [Town Crier\: An Authenticated Data Feed for Smart Contracts](#town-crier---an-authenticated-data-feed-for-smart-contracts)
+    + [ChainLink\: A Decentralized Oracle Network](#chainlink---a-decentralized-oracle-network)
+    + [ASTRAEA\: A Decentralized Blockchain Oracle](#astraea---a-decentralized-blockchain-oracle)
+    + [Augur\: A Decentralized Oracle and Prediction Market Platform](#augur---a-decentralized-oracle-and-prediction-market-platform)
+    + [From Oracles to Trustworthy Data On-chaining Systems](#from-oracles-to-trustworthy-data-on-chaining-systems)
+    + [Shintaku\: An End-to-End-Decentralized General-Purpose Blockchain Oracle System](#shintaku---an-end-to-end-decentralized-general-purpose-blockchain-oracle-system)
+- [Tooling and Languages](#tooling-and-languages)
+    + [Vyper\: A security comparison with solidity based on common vulnerabilities](#vyper---a-security-comparison-with-solidity-based-on-common-vulnerabilities)
+    + [Safer smart contract programming with Scilla](#safer-smart-contract-programming-with-scilla)
+    + [A Survey of Tools for Analyzing Ethereum Smart Contracts](#a-survey-of-tools-for-analyzing-ethereum-smart-contracts)
+    + [Slither\: A Static Analysis Framework For Smart Contracts](#slither---a-static-analysis-framework-for-smart-contracts)
+    + [Smashing Ethereum Smart Contracts for Fun and Real Profit](#smashing-ethereum-smart-contracts-for-fun-and-real-profit)
+    + [KEVM\: A Complete Semantics of the Ethereum Virtual Machine](#kevm---a-complete-semantics-of-the-ethereum-virtual-machine)
+- [Mechanism Design](#mechanism-design)
+    + [Mechanism Design Theory](#mechanism-design-theory)
+    + [Mechanism Theory](#mechanism-theory)
+    + [Market Structure in Bitcoin Mining](#market-structure-in-bitcoin-mining)
+    + [Quadratic Voting\: How Mechanism Design Can Radicalize Democracy](#quadratic-voting---how-mechanism-design-can-radicalize-democracy)
+    + [Credible Neutrality as a Guiding Principle](#credible-neutrality-as-a-guiding-principle)
+    + [Combinatorial Information Market Design](#combinatorial-information-market-design)
+- [Privacy](#privacy)
+    + [When the cookie meets the blockchain\: Privacy risks of web payments via cryptocurrencies](#when-the-cookie-meets-the-blockchain---privacy-risks-of-web-payments-via-cryptocurrencies)
+    + [Tor\: The Second Generation Onion Router](#tor---the-second-generation-onion-router)
+    + [Untraceable electronic mail, return addresses, and digital pseudonyms](#untraceable-electronic-mail--return-addresses--and-digital-pseudonyms)
+    + [Zerocash\: Decentralized Anonymous Payments from Bitcoin](#zerocash---decentralized-anonymous-payments-from-bitcoin)
+    + [The Double Ratchet Algorithm](#the-double-ratchet-algorithm)
+- [Governance and Coordination](#governance-and-coordination)
+    + [Quadratic Voting\: How Mechanism Design Can Radicalize Democracy](#quadratic-voting---how-mechanism-design-can-radicalize-democracy-1)
+    + [An Economic Theory of Political Action in a Democracy](#an-economic-theory-of-political-action-in-a-democracy)
+    + [Liquid Democracy\: An Algorithmic Perspective](#liquid-democracy---an-algorithmic-perspective)
+    + [Decentralized Network Governance\: Blockchain Technology and the Future of Regulation](#decentralized-network-governance---blockchain-technology-and-the-future-of-regulation)
+- [Scaling](#scaling)
+- [Cryptography](#cryptography)
+- [Consensus](#consensus)
 
 ## Auditing and Security 
 
-####  The Security Reference Architecture for Blockchains: Towards a Standardized Model for Studying Vulnerabilities, Threats, and Defenses
+####  The Security Reference Architecture for Blockchains\: Towards a Standardized Model for Studying Vulnerabilities, Threats, and Defenses
 
    -   <https://arxiv.org/abs/1910.09775>
    -   Ivan Homoliak, Sarad Venugopalan, Daniël Reijsbergen, Qingze Hum, Richard Schumi, Pawel Szalachowski
    -   This paper proposes a 4-layer security reference architecture for blockchains and identifies known threats, countermeasures, and dependencies at each layer
    -   This paper is relevant because it is one of the first contributing towards the standardization of security threat analysis in the blockchain space
 
-#### A Survey on Ethereum Systems Security: Vulnerabilities, Attacks, and Defenses
+#### A Survey on Ethereum Systems Security\: Vulnerabilities, Attacks, and Defenses
 
  -   <https://arxiv.org/abs/1908.04507>
  -   Huashan Chen, Marcus Pendleton, Laurent Njilla, Shouhuai Xu
@@ -73,7 +72,7 @@ Description of the **bounty program**. Something  something something...
  -   This paper is relevant because it covers attacks in a wide time range (2009 to 2017)
     
 
-#### 246 Findings From our Smart Contract Audits: An Executive Summary
+#### 246 Findings From our Smart Contract Audits\: An Executive Summary
 
  -  <https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/>
  -   This blog post from Trail of Bits shares aggregate data of the findings in their audits
@@ -102,28 +101,28 @@ Description of the **bounty program**. Something  something something...
 -   This paper describes the blockchain as an intermediation layer between applications, and introduces the concept of the  _validation oracle_, which bridges external data into the siloed blockchain.
 -   Introduced a number of usecases in which oracles are now actively used, or are being developed towards.
 
-#### Town Crier: An Authenticated Data Feed for Smart Contracts
+#### Town Crier\: An Authenticated Data Feed for Smart Contracts
 
 -   <https://eprint.iacr.org/2016/168.pdf>
 -   Fan Zhang, Ethan Cecchetti, Kyle Croman, Ari Juels, Elaine Shi
 -   This paper introduces a trusted hardware backed oracle solution that allows for secure delivery of confidential information to Ethereum smart contracts.
 -   This application provides a mechanism for the execution of smart contracts on a public blockchain while preserving the end to end integrity of confidential data.
 
-#### ChainLink: A Decentralized Oracle Network
+#### ChainLink\: A Decentralized Oracle Network
 
 -  <https://link.smartcontract.com/whitepaper>
 -   Steve Ellis, Ari Juels, and Sergey Nazarov
 -   This paper introduces a framework for decentralized oracle networks, a reputation model using on-chain data, and describes the modular features necessary to generalize this framework for a broad variety of usecases.
 -   The authors identify decentralization at the data source and individual oracle level, and propose use cases such as off-chain computation.
 
-#### ASTRAEA: A Decentralized Blockchain Oracle
+#### ASTRAEA\: A Decentralized Blockchain Oracle
 
 -   <https://arxiv.org/pdf/1808.00528.pdf>
 -   John Adler, Ryan Berryhill, Andreas Veneris, Zissis Poulos, Neil Veira, and Anastasia Kastania
 -   Proposes a trustless, permissionless, and decentralized blockchain oracle based on voters and certifiers playing a game to certify truth value.
 -   The mechanism of this oracle was built with incentive alignment in mind for the actors within the system, and the authors conclude that all rational actors within the system behave honestly.
 
-#### Augur: A Decentralized Oracle and Prediction Market Platform
+#### Augur\: A Decentralized Oracle and Prediction Market Platform
 
 - <https://github.com/AugurProject/whitepaper/blob/master/v1/english/whitepaper.pdf>
 -   Jack Peterson, Joseph Krug, Micah Zoltu, Austin K. Williams, and Stephanie Alexander
@@ -137,7 +136,7 @@ Description of the **bounty program**. Something  something something...
 -   The authors introduced Trustworthy Data On-chaining, a novel holistic perspective on reliable data provisioning for smart contracts that allows for evaluating existing Oracle.
 -   The authors identify truthfulness as a fundamentally new requirement, which means that no execution of blockchain state transition is caused by untruthful data provisioning, but instead data is always provisioned in a well-intended way.
 
-#### Shintaku: An End-to-End-Decentralized General-Purpose Blockchain Oracle System
+#### Shintaku\: An End-to-End-Decentralized General-Purpose Blockchain Oracle System
 
 -   <https://gitlab.com/shintaku-group/paper/raw/master/shintaku.pdf>
 -   Ryuuji Kamiya
@@ -146,7 +145,7 @@ Description of the **bounty program**. Something  something something...
 
 ## Tooling and Languages
 
-#### Vyper: A security comparison with solidity based on common vulnerabilities
+#### Vyper\: A security comparison with solidity based on common vulnerabilities
 
    -   <https://arxiv.org/pdf/2003.07435.pdf>
    -   Mudabbir Kaleem, Anastasia Mavridou, Aron Laszka
@@ -168,7 +167,7 @@ Description of the **bounty program**. Something  something something...
    -   This paper is relevant because it gives a list of useful tools that developers could experiment with, as well as a starting point for researchers grasping the current state of the art.
    
 
-#### Slither: A Static Analysis Framework For Smart Contracts
+#### Slither\: A Static Analysis Framework For Smart Contracts
 
    -   <https://arxiv.org/pdf/1908.09878.pdf>
    -   Josselin Feist, Gustavo Grieco, Alex Groce
@@ -183,7 +182,7 @@ Description of the **bounty program**. Something  something something...
    -   This paper is relevant because Mythril is a widely used tool supporting automatic identification of certain classes of vulnerabilities. Github page: <https://github.com/ConsenSys/mythril>
     
 
-#### KEVM: A Complete Semantics of the Ethereum Virtual Machine
+#### KEVM\: A Complete Semantics of the Ethereum Virtual Machine
 
    -   <http://fslweb.cs.illinois.edu/FSL/papers/2018/hildenbrandt-saxena-zhu-rodrigues-daian-guth-moore-zhang-park-rosu-2018-csf/hildenbrandt-saxena-zhu-rodrigues-daian-guth-moore-zhang-park-rosu-2018-csf-public.pdf>
    -   Everett Hildenbrandt and Manasvi Saxena and Xiaoran Zhu and Nishant Rodrigues and Philip Daian and Dwight Guth and Brandon Moore and Yi Zhang and Daejun Park and Andrei Stefanescu and Grigore Rosu
@@ -214,7 +213,7 @@ Description of the **bounty program**. Something  something something...
    -   Provides a technical foundation for economic analysis of PoW protocols.
     
 
-#### Quadratic Voting: How Mechanism Design Can Radicalize Democracy
+#### Quadratic Voting\: How Mechanism Design Can Radicalize Democracy
 
    -   <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2003531>
    -   Steven Lalley and E. Glen Weyl
@@ -238,14 +237,14 @@ Description of the **bounty program**. Something  something something...
  
 ## Privacy
 
-#### When the cookie meets the blockchain: Privacy risks of web payments via cryptocurrencies
+#### When the cookie meets the blockchain\: Privacy risks of web payments via cryptocurrencies
 
    -   <https://arxiv.org/abs/1708.04748>
    -   Steven Goldfeder, Harry Kalodner, Dillon Reisman, and Arvind Narayanan
    -   This paper proposes a 4-layer security reference architecture (SRA) for blockchains and identifies known threats, countermeasures, and dependencies at each layer.
    -   This paper would be relevant for understanding how user behaviors with merchants can potentially impact the security of a blockchain via cookies deployed in cryptocurrency merchant APIs. 
 
-#### Tor: The Second Generation Onion Router
+#### Tor\: The Second Generation Onion Router
 
    - <https://www.nrl.navy.mil/itd/chacs/sites/www.nrl.navy.mil.itd.chacs/files/pdfs/Dingledine%20etal2004.pdf>
    -   Roger Dingledine, Nick Mathewson, and Paul Syverson
@@ -262,7 +261,7 @@ Description of the **bounty program**. Something  something something...
    -   Introduces the concept of a Mix-Net which is foundational concept often revisited in privacy design.
     
 
-#### Zerocash: Decentralized Anonymous Payments from Bitcoin
+#### Zerocash\: Decentralized Anonymous Payments from Bitcoin
 
    -   <https://ieeexplore.ieee.org/abstract/document/6956581>
    -   <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6956581>
@@ -283,7 +282,7 @@ Description of the **bounty program**. Something  something something...
 
 ## Governance and Coordination
 
-#### Quadratic Voting: How Mechanism Design Can Radicalize Democracy
+#### Quadratic Voting\: How Mechanism Design Can Radicalize Democracy
 
 -   <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2003531>
 -   Steven Lalley and E. Glen Weyl
@@ -304,7 +303,7 @@ Description of the **bounty program**. Something  something something...
 -   A study on liquid democracy to determine if it leads to better decision making than direct voting.
 -   Liquid democracy is an active area of exploration in crypto networks. 
 
-#### Decentralized Network Governance: Blockchain Technology and the Future of Regulation
+#### Decentralized Network Governance\: Blockchain Technology and the Future of Regulation
 
 -  <https://www.rug.nl/research/portal/files/120767599/fbloc_03_00012.pdf>
 -   Andrej Zwitter and Jilles Hazenberg
