@@ -1,9 +1,10 @@
 # SCRF Documentation
 
-## Grants
+## Grants, Bounties, and Open Positions
 
-- [Research Associates](en/grants_general_contributors.md)
+- [Research Associates Grants](en/grants_general_contributors.md)
 - [Pan-African Micro-grants](en/grants_pan_african.md)
+- [Hiring - Project Management](en/hiring_project_management.md)
 
 ## Process Documents
 
