@@ -41,7 +41,7 @@ Description of the **bounty program**. Something  something something...
   * [Governance and Coordination](#governance-and-coordination)
       - [Quadratic Voting: How Mechanism Design Can Radicalize Democracy](#quadratic-voting--how-mechanism-design-can-radicalize-democracy-1)
       - [An Economic Theory of Political Action in a Democracy](#an-economic-theory-of-political-action-in-a-democracy)
-      - [Liquid Democracy: An Algorithmic Perspective](#liquid-democracy--an-algorithmic-perspective)
+      - [Liquid Democracy: An Algorithmic Perspective](#liquid-democracy-an-algorithmic-perspective)
       - [Decentralized Network Governance: Blockchain Technology and the Future of Regulation](#decentralized-network-governance--blockchain-technology-and-the-future-of-regulation)
   * [Scaling](#scaling)
   * [Cryptography](#cryptography)
