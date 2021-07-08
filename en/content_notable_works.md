@@ -40,7 +40,7 @@ Description of the **bounty program**. Something  something something...
       - [The Double Ratchet Algorithm](#the-double-ratchet-algorithm)
   * [Governance and Coordination](#governance-and-coordination)
       - [Quadratic Voting: How Mechanism Design Can Radicalize Democracy](#quadratic-voting--how-mechanism-design-can-radicalize-democracy-1)
-      - [An Economic Theory of Political Action in a Democracy"](#an-economic-theory-of-political-action-in-a-democracy-)
+      - [An Economic Theory of Political Action in a Democracy](#an-economic-theory-of-political-action-in-a-democracy)
       - [Liquid Democracy: An Algorithmic Perspective](#liquid-democracy--an-algorithmic-perspective)
       - [Decentralized Network Governance: Blockchain Technology and the Future of Regulation](#decentralized-network-governance--blockchain-technology-and-the-future-of-regulation)
   * [Scaling](#scaling)
@@ -290,14 +290,14 @@ Description of the **bounty program**. Something  something something...
 -   Individuals pay for as many votes as they wish using a number of "voice credits" quadratic in the votes they buy.
 -   A canonical work that has inspired much discussion and design in emerging crypto protocol design.
 
-#### An Economic Theory of Political Action in a Democracy" 
+#### An Economic Theory of Political Action in a Democracy 
 
 -   <http://www.jstor.org/stable/1827369>
 -    Anthony Downs
 -   Introduces the modern rational voter theory
 -   Creates a framework for understanding the utility value of voting
 
-#### Liquid Democracy: An Algorithmic Perspective
+#### Liquid Democracy\: An Algorithmic Perspective
 
 -   <https://par.nsf.gov/servlets/purl/10063518>
 -   Anson Kahng, Simon Mackenzie, and Ariel D. Procaccia
