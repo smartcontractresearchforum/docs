@@ -3,14 +3,14 @@
 Description of the **bounty program**. Something  something something... 
 
 # Table of Contents
-  * [Auditing & Security](#auditing---security)
+  * [Auditing and Security](#auditing-and-security)
       - [The Security Reference Architecture for Blockchains: Towards a Standardized Model for Studying Vulnerabilities, Threats, and Defenses](#the-security-reference-architecture-for-blockchains--towards-a-standardized-model-for-studying-vulnerabilities--threats--and-defenses)
       - [A Survey on Ethereum Systems Security: Vulnerabilities, Attacks, and Defenses](#a-survey-on-ethereum-systems-security--vulnerabilities--attacks--and-defenses)
       - [A Survey on the Security of Blockchain Systems](#a-survey-on-the-security-of-blockchain-systems)
       - [246 Findings From our Smart Contract Audits: An Executive Summary](#246-findings-from-our-smart-contract-audits--an-executive-summary)
       - [Ethereum Smart Contract Security Best Practices](#ethereum-smart-contract-security-best-practices)
       - [List of Ethereum Smart Contracts Post-Mortems](#list-of-ethereum-smart-contracts-post-mortems)
-  * [Oracles & Data](#oracles---data)
+  * [Oracles and Data](#oracles-and-data)
       - [The Blockchain as a Software Connector](#the-blockchain-as-a-software-connector)
       - [Town Crier: An Authenticated Data Feed for Smart Contracts](#town-crier--an-authenticated-data-feed-for-smart-contracts)
       - [ChainLink: A Decentralized Oracle Network](#chainlink--a-decentralized-oracle-network)
@@ -18,7 +18,7 @@ Description of the **bounty program**. Something  something something...
       - [Augur: A Decentralized Oracle and Prediction Market Platform](#augur--a-decentralized-oracle-and-prediction-market-platform)
       - [From Oracles to Trustworthy Data On-chaining Systems](#from-oracles-to-trustworthy-data-on-chaining-systems)
       - [Shintaku: An End-to-End-Decentralized General-Purpose Blockchain Oracle System](#shintaku--an-end-to-end-decentralized-general-purpose-blockchain-oracle-system)
-  * [Tooling & Languages](#tooling---languages)
+  * [Tooling and Languages](#tooling-and-languages)
       - [Vyper: A security comparison with solidity based on common vulnerabilities](#vyper--a-security-comparison-with-solidity-based-on-common-vulnerabilities)
       - [Safer smart contract programming with Scilla](#safer-smart-contract-programming-with-scilla)
       - [A Survey of Tools for Analyzing Ethereum Smart Contracts](#a-survey-of-tools-for-analyzing-ethereum-smart-contracts)
@@ -38,7 +38,7 @@ Description of the **bounty program**. Something  something something...
       - [Untraceable electronic mail, return addresses, and digital pseudonyms](#untraceable-electronic-mail--return-addresses--and-digital-pseudonyms)
       - [Zerocash: Decentralized Anonymous Payments from Bitcoin](#zerocash--decentralized-anonymous-payments-from-bitcoin)
       - [The Double Ratchet Algorithm](#the-double-ratchet-algorithm)
-  * [Governance & Coordination](#governance---coordination)
+  * [Governance and Coordination](#governance-and-coordination)
       - [Quadratic Voting: How Mechanism Design Can Radicalize Democracy](#quadratic-voting--how-mechanism-design-can-radicalize-democracy-1)
       - [An Economic Theory of Political Action in a Democracy"](#an-economic-theory-of-political-action-in-a-democracy-)
       - [Liquid Democracy: An Algorithmic Perspective](#liquid-democracy--an-algorithmic-perspective)
@@ -48,7 +48,7 @@ Description of the **bounty program**. Something  something something...
   * [Consensus](#consensus)
 
 
-## Auditing & Security 
+## Auditing and Security 
 
 ####  The Security Reference Architecture for Blockchains: Towards a Standardized Model for Studying Vulnerabilities, Threats, and Defenses
 
@@ -93,7 +93,7 @@ Description of the **bounty program**. Something  something something...
  -   This post outlines a list of Ethereum smart contracts post-mortems
  -   This post is relevant because it provides lessons from real-world case studies. It is a state-of-the-art list that serves as a reference point for educating developers and auditors
 
-## Oracles & Data
+## Oracles and Data
 
 #### The Blockchain as a Software Connector
 
@@ -144,7 +144,7 @@ Description of the **bounty program**. Something  something something...
 -   This work defines the concept of end-to-end decentralization and presents a system architecture for implementing an oracle under such constraints
 -   This work extends the original Astraea oracle design and attempts to reduce its complexity to more rigorously handle the special case of the verifier’s dilemma.
 
-## Tooling & Languages
+## Tooling and Languages
 
 #### Vyper: A security comparison with solidity based on common vulnerabilities
 
@@ -281,7 +281,7 @@ Description of the **bounty program**. Something  something something...
        messages where the parties derive new keys from every double message, ensuring that interception of keys for a given double message will not enable decoding an entire chain of messages.
    -   Used in privacy focused messengers including Signal, Matrix and Status.
 
-## Governance & Coordination
+## Governance and Coordination
 
 #### Quadratic Voting: How Mechanism Design Can Radicalize Democracy
 
