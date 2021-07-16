@@ -34,6 +34,7 @@ We have [open bounties](gitcoin) available for anyone who can suggest additions,
   - [Combinatorial Information Market Design](#combinatorial-information-market-design)
 - [Privacy](#privacy)
   - [When the cookie meets the blockchain\: Privacy risks of web payments via cryptocurrencies](#when-the-cookie-meets-the-blockchain-privacy-risks-of-web-payments-via-cryptocurrencies)
+  - [PERIMETER: A network-layer attack on the anonymity of cryptocurrencies](#perimeter-a-network-layer-attack-on-the-anonymity-of-cryptocurrencies)
   - [Tor\: The Second Generation Onion Router](#tor-the-second-generation-onion-router)
   - [Untraceable electronic mail, return addresses, and digital pseudonyms](#untraceable-electronic-mail-return-addresses-and-digital-pseudonyms)
   - [Zerocash\: Decentralized Anonymous Payments from Bitcoin](#zerocash-decentralized-anonymous-payments-from-bitcoin)
