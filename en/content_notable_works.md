@@ -234,6 +234,13 @@ We have [open bounties](gitcoin) available for anyone who can suggest additions,
 - **Description:** This paper proposes a 4-layer security reference architecture (SRA) for blockchains and identifies known threats, countermeasures, and dependencies at each layer.
 - **Relevance:** This paper would be relevant for understanding how user behaviors with merchants can potentially impact the security of a blockchain via cookies deployed in cryptocurrency merchant APIs.
 
+### PERIMETER: A network-layer attack on the anonymity of cryptocurrencies
+
+- **Source:** <https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=fVgBFrUAAAAJ&citation_for_view=fVgBFrUAAAAJ:8k81kl-MbHgC>
+- **Authors:** Maria Apostolaki, Cedric Maire, Laurent Vanbever
+- **Description:** This paper presents a stealthier and harder-to-mitigate attack exploiting the interactions between the networking and application layers.
+- **Relevance:** It builds on a line of work on network-level attacks on anonymity, including “Hijacking Bitcoin” and “Bitcoin over Tor is not a good idea”.
+
 ### Tor\: The Second Generation Onion Router
 
 - **Source:** <https://www.nrl.navy.mil/itd/chacs/sites/www.nrl.navy.mil.itd.chacs/files/pdfs/Dingledine%20etal2004.pdf>
