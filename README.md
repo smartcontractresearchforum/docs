@@ -2,7 +2,7 @@
 
 ## Grants, Bounties, and 
 
-- [Impact Awards](en/grants_impact_award.md)
+- [Impact Award](en/grants_impact_award.md)
 - [Research Associates Grants](en/grants_general_contributors.md)
 - [Pan-African Micro-grants](en/grants_pan_african.md)
 
