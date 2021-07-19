@@ -16,6 +16,7 @@
 
 ## Reference Materials
 
+- [Notable Works](en/content_notable_works.md)
 - [Terms Glossary](en/reference_terms_glossary.md)
 - [Style Guide](en/reference_style_guide.md)
 
