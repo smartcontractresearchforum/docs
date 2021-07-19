@@ -1,6 +1,6 @@
 # SCRF: Notable Works
 
-We have [open bounties](gitcoin) available for anyone who can suggest additions, deletions, corrections or updates to this page. Please see [forum](https://www.smartcontractresearch.org/t/bounty-call-for-notable-works-key-scholarship/73) for details.
+We have open bounties available for anyone who can suggest additions, deletions, corrections or updates to this page. Please see [forum](https://www.smartcontractresearch.org/t/bounty-call-for-notable-works-key-scholarship/73) for details.
 
 ## Table of Contents
 
