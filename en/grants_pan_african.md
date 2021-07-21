@@ -24,7 +24,7 @@ In addition to supporting researchers through grants, we’re also looking for m
 
 Grant recipients will receive USD 300 to write a single Research Summary or Use Case.
 
-We pay in cryptocurrency. For longer commitments, alternative arrangements can be made.
+We pay in stablecoin cryptocurrencies like DAI or USDC. For longer commitments, alternative arrangements can be made.
 
 If you cannot accept direct payments because of your university or funding agency, we can discuss alternative options. This could include:
 
