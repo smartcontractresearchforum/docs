@@ -1,6 +1,6 @@
 # SCRF Documentation
 
-## Grants, Bounties, and 
+## Grants, Bounties, and Awards
 
 - [Impact Award](en/grants_impact_award.md)
 - [Research Associates Grants](en/grants_general_contributors.md)
