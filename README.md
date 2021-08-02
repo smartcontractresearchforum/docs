@@ -26,6 +26,7 @@
 
 ## Content Templates
 
+- [Discussion Posts](en/content_discussion_post_template.md)
 - [Mini-Posts](en/content_mini_post_template.md)
 - [Notable Works](en/content_notable_works_template.md)
 - [Research Summary](en/content_research_summary_template.md)
