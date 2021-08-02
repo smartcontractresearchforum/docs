@@ -2,11 +2,11 @@
 
 Description: The research or engagement teams can resurface older content by soliciting a long-form comment or short-form discussion post from the research team.
 
-There are three main ways in which a long-form comment can be used to create new content out of older existing content:
+There are three main ways in which these long-form comments can be used to create new content out of older existing content:
 
-1. A combination of concepts or models presented in distinct posts that can be compared or contrasted
-1. An update or new development that expands upon the body of work that was laid down in a previous post
-1. A new take or spin that can be phrased as a question that prompts the rethinking of a previous discussion post or research summary.
+- A combination of concepts or models presented in distinct posts that can be compared or contrasted
+- An update or new development that expands upon the body of work that was laid down in a previous post
+- A new take or spin that can be phrased as a question that prompts the rethinking of a previous discussion post or research summary.
 
 ## General Template
 
