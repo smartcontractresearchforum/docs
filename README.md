@@ -30,6 +30,7 @@ The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCR
 ## Process Documents
 
 - [Research Improvement Process](en/process_research_improvement_proposal.md)
+- [How to Get Compensated for Work](en/content_how_to_get_compensated_for_work.md)
 
 ## Project Proposals
 
