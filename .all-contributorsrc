@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ghettodev",
+      "name": "Richard Brown",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1900655?v=4",
+      "profile": "https://github.com/ghettodev",
+      "contributions": [
+        "content",
+        "doc",
+        "maintenance",
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "docs",
+  "projectOwner": "smartcontractresearchforum",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
