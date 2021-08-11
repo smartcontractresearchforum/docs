@@ -1,4 +1,4 @@
-# Identity & Reputation Panel Transcript
+# SCRF: Identity and Reputation Panel Transcript
 This is the transcript from the Identity & Reptutation panel that was organized by SCRF as part of the Smart Contract Summit. You can read more about the panel, the panelists, and the topic more broadly, check out the [forum post](https://www.smartcontractresearch.org/t/smart-contract-summit-2021-identity-and-reputation-panel/603). 
 
 **Eugene Leventhal:**
