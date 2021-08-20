@@ -25,6 +25,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "eleventh19",
+      "name": "Eugene Leventhal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/595464?v=4",
+      "profile": "https://github.com/eleventh19",
+      "contributions": [
+        "doc",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
