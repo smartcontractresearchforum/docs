@@ -8,7 +8,7 @@ The [Forum](https://www.smartcontractresearch.org/) is a place for discovering n
 
 ## Chat
 
-Behind the scenes, SCRF uses our [chat](https://discord.gg/yPgzMtP7) to coordinate. It’s a place to ask questions, find out about grants and bounties, share news, and get to know the community.
+Behind the scenes, SCRF uses our [chat](https://discord.gg/cRVjvJYybX) to coordinate. It’s a place to ask questions, find out about grants and bounties, share news, and get to know the community.
 
 Drop in, introduce yourself, and tell us what brings you to SCRF in our `#general` channel. As you progress from being a Community Member to a Contributor or a Core Team Member, make sure to ask about other channels.
 
