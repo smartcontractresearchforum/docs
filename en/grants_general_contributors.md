@@ -60,14 +60,14 @@ We pay from $200 to $500 USD for Research Summaries and other content types depe
 
 If you are an academic, a researcher, or an industry participant with deep insight into blockchain technologies and are comfortable with writing literature reviews, research summaries, long-form technical blog posts, or have even published original research; we would like to talk.
 
-Interested applicants should send us an [email](mailto:rich@smartcontractresearch.org) that outlines:
+Interested applicants should send us an [email](mailto:grants@smartcontractresearch.org) that outlines:
 
 * Why you are interested in the space.
 * Which projects you are most interested in, and why.
 * Any project or research affiliations you may have.
 * _And includes links to three of your best blog posts, articles, or other writing that is related to blockchain research._
 
-Please feel free to come and introduce yourself in our [Chat](https://discord.gg/7WPRb8FHvd) as well.
+Please feel free to come and introduce yourself in our [Chat](https://discord.gg/cRVjvJYybX) as well.
 
 Another great way to introduce yourself to us is to find a thread on the [SCRF website](https://www.smartcontractresearch.org/) and add a well-reseasoned or insightful comment to one of the discussions.
 
