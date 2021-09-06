@@ -16,7 +16,7 @@ If you cannot accept funds directly, we can discuss alternative options. This co
 
 - funding a project
 - conference travel
-- charitable donations to an endowment in lieu
+- charitable donations in lieu
 - credits for compute resources, archive nodes, etc.
 - supporting a blockchain-related organization or event of your choice
 
