@@ -8,7 +8,7 @@ The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCR
 
 To be considered for an SCRF Impact Award, the researcher's work must have already been covered in [Research Pulse](https://www.smartcontractresearch.org/tag/research-pulse), a [Research Summary](https://www.smartcontractresearch.org/tag/summary), or showcased in some other interaction on our forum. 
 
-## Compensation
+## Disbursements
 
 Award recipients will receive a USD 1,000 allocation in recognition of their contributions. We issue funds in cryptocurrency.
 
@@ -20,6 +20,10 @@ If you cannot accept funds directly, we can discuss alternative options. This co
 - credits for compute resources, archive nodes, etc.
 - supporting a blockchain-related organization or event of your choice
 
+## Award Winners 
+
+Impact Award grants are announced on our [forum](https://www.smartcontractresearch.org/t/scrf-impact-award/581).
+
 ## How we Communicate
 
 **Chat:** We use our [#general chat](https://discord.com/channels/784234332617048065/784234333111451670) to discuss new content, blockchain-related events, coordination, and project planning.
@@ -27,10 +31,6 @@ If you cannot accept funds directly, we can discuss alternative options. This co
 **Project Management:** All the work that SCRF produces is created collaboratively in a [public document pipeline](https://github.com/orgs/smartcontractresearchforum/projects/5). Please feel free to look around.
 
 **Live meetings:** We have several weekly meetings for pitching ideas, status updates, projects and processes, and planning forum engagement.
-
-## Award Winners 
-
-Impact Award grants are announced on our forum.
 
 ## What is SCRF?
 
