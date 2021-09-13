@@ -4,49 +4,69 @@ We have open bounties available for anyone who can suggest additions, deletions,
 
 ## Table of Contents
 
-- [Auditing and Security](#auditing-and-security)
-  - [The Security Reference Architecture for Blockchains\: Towards a Standardized Model for Studying Vulnerabilities, Threats, and Defenses](#the-security-reference-architecture-for-blockchains-towards-a-standardized-model-for-studying-vulnerabilities-threats-and-defenses)
-  - [A Survey on Ethereum Systems Security\: Vulnerabilities, Attacks, and Defenses](#a-survey-on-ethereum-systems-security-vulnerabilities-attacks-and-defenses)
-  - [A Survey on the Security of Blockchain Systems](#a-survey-on-the-security-of-blockchain-systems)
-  - [246 Findings From our Smart Contract Audits\: An Executive Summary](#246-findings-from-our-smart-contract-audits-an-executive-summary)
-  - [Ethereum Smart Contract Security Best Practices](#ethereum-smart-contract-security-best-practices)
-  - [List of Ethereum Smart Contracts Post-Mortems](#list-of-ethereum-smart-contracts-post-mortems)
-- [Oracles and Data](#oracles-and-data)
-  - [The Blockchain as a Software Connector](#the-blockchain-as-a-software-connector)
-  - [Town Crier: An Authenticated Data Feed for Smart Contracts](#town-crier-an-authenticated-data-feed-for-smart-contracts)
-  - [ChainLink: A Decentralized Oracle Network](#chainlink-a-decentralized-oracle-network)
-  - [ASTRAEA\: A Decentralized Blockchain Oracle](#astraea-a-decentralized-blockchain-oracle)
-  - [Augur\: A Decentralized Oracle and Prediction Market Platform](#augur-a-decentralized-oracle-and-prediction-market-platform)
-  - [From Oracles to Trustworthy Data On-chaining Systems](#from-oracles-to-trustworthy-data-on-chaining-systems)
-  - [Shintaku\: An End-to-End-Decentralized General-Purpose Blockchain Oracle System](#shintaku-an-end-to-end-decentralized-general-purpose-blockchain-oracle-system)
-- [Tooling and Languages](#tooling-and-languages)
-  - [Vyper\: A security comparison with solidity based on common vulnerabilities](#vyper-a-security-comparison-with-solidity-based-on-common-vulnerabilities)
-  - [Safer smart contract programming with Scilla](#safer-smart-contract-programming-with-scilla)
-  - [A Survey of Tools for Analyzing Ethereum Smart Contracts](#a-survey-of-tools-for-analyzing-ethereum-smart-contracts)
-  - [Slither\: A Static Analysis Framework For Smart Contracts](#slither-a-static-analysis-framework-for-smart-contracts)
-  - [Smashing Ethereum Smart Contracts for Fun and Real Profit](#smashing-ethereum-smart-contracts-for-fun-and-real-profit)
-  - [KEVM\: A Complete Semantics of the Ethereum Virtual Machine](#kevm-a-complete-semantics-of-the-ethereum-virtual-machine)
-- [Mechanism Design](#mechanism-design)
-  - [Mechanism Design Theory](#mechanism-design-theory)
-  - [Mechanism Theory](#mechanism-theory)
-  - [Market Structure in Bitcoin Mining](#market-structure-in-bitcoin-mining)
-  - [Credible Neutrality as a Guiding Principle](#credible-neutrality-as-a-guiding-principle)
-  - [Combinatorial Information Market Design](#combinatorial-information-market-design)
-- [Privacy](#privacy)
-  - [When the cookie meets the blockchain\: Privacy risks of web payments via cryptocurrencies](#when-the-cookie-meets-the-blockchain-privacy-risks-of-web-payments-via-cryptocurrencies)
-  - [PERIMETER: A network-layer attack on the anonymity of cryptocurrencies](#perimeter-a-network-layer-attack-on-the-anonymity-of-cryptocurrencies)
-  - [Tor\: The Second Generation Onion Router](#tor-the-second-generation-onion-router)
-  - [Untraceable electronic mail, return addresses, and digital pseudonyms](#untraceable-electronic-mail-return-addresses-and-digital-pseudonyms)
-  - [Zerocash\: Decentralized Anonymous Payments from Bitcoin](#zerocash-decentralized-anonymous-payments-from-bitcoin)
-  - [The Double Ratchet Algorithm](#the-double-ratchet-algorithm)
-- [Governance and Coordination](#governance-and-coordination)
-  - [Quadratic Voting\: How Mechanism Design Can Radicalize Democracy](#quadratic-voting-how-mechanism-design-can-radicalize-democracy)
-  - [An Economic Theory of Political Action in a Democracy](#an-economic-theory-of-political-action-in-a-democracy)
-  - [Liquid Democracy\: An Algorithmic Perspective](#liquid-democracy-an-algorithmic-perspective)
-  - [Decentralized Network Governance\: Blockchain Technology and the Future of Regulation](#decentralized-network-governance-blockchain-technology-and-the-future-of-regulation)
-- [Scaling](#scaling)
-- [Cryptography](#cryptography)
-- [Consensus](#consensus)
+- [SCRF: Notable Works](#scrf-notable-works)
+  - [Table of Contents](#table-of-contents)
+  - [Auditing and Security](#auditing-and-security)
+    - [The Security Reference Architecture for Blockchains\: Towards a Standardized Model for Studying Vulnerabilities, Threats, and Defenses](#the-security-reference-architecture-for-blockchains-towards-a-standardized-model-for-studying-vulnerabilities-threats-and-defenses)
+    - [A Survey on Ethereum Systems Security\: Vulnerabilities, Attacks, and Defenses](#a-survey-on-ethereum-systems-security-vulnerabilities-attacks-and-defenses)
+    - [A Survey on the Security of Blockchain Systems](#a-survey-on-the-security-of-blockchain-systems)
+    - [246 Findings From our Smart Contract Audits\: An Executive Summary](#246-findings-from-our-smart-contract-audits-an-executive-summary)
+    - [Ethereum Smart Contract Security Best Practices](#ethereum-smart-contract-security-best-practices)
+    - [List of Ethereum Smart Contracts Post-Mortems](#list-of-ethereum-smart-contracts-post-mortems)
+  - [Oracles and Data](#oracles-and-data)
+    - [The Blockchain as a Software Connector](#the-blockchain-as-a-software-connector)
+    - [Town Crier: An Authenticated Data Feed for Smart Contracts](#town-crier-an-authenticated-data-feed-for-smart-contracts)
+    - [ChainLink: A Decentralized Oracle Network](#chainlink-a-decentralized-oracle-network)
+    - [ASTRAEA\: A Decentralized Blockchain Oracle](#astraea-a-decentralized-blockchain-oracle)
+    - [Augur\: A Decentralized Oracle and Prediction Market Platform](#augur-a-decentralized-oracle-and-prediction-market-platform)
+    - [From Oracles to Trustworthy Data On-chaining Systems](#from-oracles-to-trustworthy-data-on-chaining-systems)
+    - [Shintaku\: An End-to-End-Decentralized General-Purpose Blockchain Oracle System](#shintaku-an-end-to-end-decentralized-general-purpose-blockchain-oracle-system)
+  - [Tooling and Languages](#tooling-and-languages)
+    - [Vyper\: A security comparison with solidity based on common vulnerabilities](#vyper-a-security-comparison-with-solidity-based-on-common-vulnerabilities)
+    - [Safer smart contract programming with Scilla](#safer-smart-contract-programming-with-scilla)
+    - [A Survey of Tools for Analyzing Ethereum Smart Contracts](#a-survey-of-tools-for-analyzing-ethereum-smart-contracts)
+    - [Slither\: A Static Analysis Framework For Smart Contracts](#slither-a-static-analysis-framework-for-smart-contracts)
+    - [Smashing Ethereum Smart Contracts for Fun and Real Profit](#smashing-ethereum-smart-contracts-for-fun-and-real-profit)
+    - [KEVM\: A Complete Semantics of the Ethereum Virtual Machine](#kevm-a-complete-semantics-of-the-ethereum-virtual-machine)
+  - [Mechanism Design](#mechanism-design)
+    - [Mechanism Design Theory](#mechanism-design-theory)
+    - [Mechanism Theory](#mechanism-theory)
+    - [Market Structure in Bitcoin Mining](#market-structure-in-bitcoin-mining)
+    - [Credible Neutrality as a Guiding Principle](#credible-neutrality-as-a-guiding-principle)
+    - [Combinatorial Information Market Design](#combinatorial-information-market-design)
+  - [Privacy](#privacy)
+    - [When the cookie meets the blockchain\: Privacy risks of web payments via cryptocurrencies](#when-the-cookie-meets-the-blockchain-privacy-risks-of-web-payments-via-cryptocurrencies)
+    - [PERIMETER: A network-layer attack on the anonymity of cryptocurrencies](#perimeter-a-network-layer-attack-on-the-anonymity-of-cryptocurrencies)
+    - [Tor\: The Second Generation Onion Router](#tor-the-second-generation-onion-router)
+    - [Untraceable electronic mail, return addresses, and digital pseudonyms](#untraceable-electronic-mail-return-addresses-and-digital-pseudonyms)
+    - [Zerocash\: Decentralized Anonymous Payments from Bitcoin](#zerocash-decentralized-anonymous-payments-from-bitcoin)
+    - [The Double Ratchet Algorithm](#the-double-ratchet-algorithm)
+  - [Governance and Coordination](#governance-and-coordination)
+    - [Quadratic Voting\: How Mechanism Design Can Radicalize Democracy](#quadratic-voting-how-mechanism-design-can-radicalize-democracy)
+    - [An Economic Theory of Political Action in a Democracy](#an-economic-theory-of-political-action-in-a-democracy)
+    - [Liquid Democracy\: An Algorithmic Perspective](#liquid-democracy-an-algorithmic-perspective)
+    - [Decentralized Network Governance\: Blockchain Technology and the Future of Regulation](#decentralized-network-governance-blockchain-technology-and-the-future-of-regulation)
+  - [Scaling](#scaling)
+  - [Cryptography](#cryptography)
+    - [A Graduate Course in Applied Cryptography](#a-graduate-course-in-applied-cryptography)
+    - [Method of providing digital signatures (Merkle trees)](#method-of-providing-digital-signatures-merkle-trees)
+    - [Merkling in Ethereum](#merkling-in-ethereum)
+    - [Verkle Trees](#verkle-trees)
+    - [Verkle trees (Blog post)](#verkle-trees-blog-post)
+    - [MiMC: Efficient Encryption and Cryptographic Hashing with Minimal Multiplicative Complexity [AGRRT16]](#mimc-efficient-encryption-and-cryptographic-hashing-with-minimal-multiplicative-complexity-agrrt16)
+    - [Baby Jubjub Elliptic Curve](#baby-jubjub-elliptic-curve)
+    - [Pedersen Hash [HBHW19]](#pedersen-hash-hbhw19)
+    - [POSEIDON: A New Hash Function for Zero-Knowledge Proof Systems [GKRRS19]](#poseidon-a-new-hash-function-for-zero-knowledge-proof-systems-gkrrs19)
+    - [How To Simulate It – A Tutorial on the Simulation Proof Technique](#how-to-simulate-it--a-tutorial-on-the-simulation-proof-technique)
+    - [Roll_up](#roll_up)
+    - [Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture (zk-SNARKs) [BCTV14b]](#succinct-non-interactive-zero-knowledge-for-a-von-neumann-architecture-zk-snarks-bctv14b)
+    - [On the Size of Pairing-based Non-interactive Arguments [GROTH16]](#on-the-size-of-pairing-based-non-interactive-arguments-groth16)
+    - [Bulletproofs: Short Proofs for Confidential Transactions and More [BBBPWM18]](#bulletproofs-short-proofs-for-confidential-transactions-and-more-bbbpwm18)
+    - [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings [MBKM19]](#sonic-zero-knowledge-snarks-from-linear-size-universal-and-updatable-structured-reference-strings-mbkm19)
+    - [PlonK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge [GWC19]](#plonk-permutations-over-lagrange-bases-for-oecumenical-noninteractive-arguments-of-knowledge-gwc19)
+    - [Scalable, transparent, and post-quantum secure computational integrity (zk-STARKs) [BBHR18]](#scalable-transparent-and-post-quantum-secure-computational-integrity-zk-starks-bbhr18)
+    - [Secure Multiparty Computation (MPC)](#secure-multiparty-computation-mpc)
+  - [Consensus](#consensus)
 
 ## Auditing and Security
 
@@ -303,5 +323,137 @@ We have open bounties available for anyone who can suggest additions, deletions,
 ## Scaling
 
 ## Cryptography
+
+### A Graduate Course in Applied Cryptography
+
+- **Source:** <http://toc.cryptobook.us/book.pdf>
+- **Authors:** ​​Dan Boneh and Victor Shoup
+- **Descripton:** A book that has relevant content for both beginning and advanced cryptographers; beginning readers can learn how cryptographic systems work and detailed proofs are provided for more advanced readers.
+- **Relevance:**  
+Some notable chapters:  
+Ch.8 - Hashing is used everywhere.  
+Ch.9.8 - TLS is the standard of [libp2p handshake protocol.](https://github.com/libp2p/specs/blob/master/tls/tls.md) (Ethereum 2.0)  
+Ch.15.2.1 - Edwards form of eliptic curve is used in zero knowledge circuits for its performance.  
+Ch.15.5.3 - Eliptic curve pairing is used in BLS signature.(aggregate signature to increase network throughput, Ethereum2.0)  
+Ch.19.3 - Eliptic curve digital signature algorithm (ECDSA) is used in transactions.  
+
+### Method of providing digital signatures (Merkle trees)
+
+- **Source:** <https://patents.google.com/patent/US4309569>
+- **Authors:** Ralph C. Merkle
+- **Description:** Original research detailing Merkle trees as a method of providing a digital signature for purposes of authentication of a message, which utilizes an authentication tree function of a one-way function of a secret number.
+- **Relevance:** Merkle trees allow for efficient and secure verification of different blocks of data, which is a foundational part of blockchain technology.
+
+### Merkling in Ethereum
+
+- **Source:** <https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/>
+- **Authors:** Vitalik Buterin
+- **Description:** How Merkle trees are used in Ethereum.
+- **Relevance:** A practical application of Merkle trees in a functional blockchain.
+
+### Verkle Trees
+
+- **Source:** <https://math.mit.edu/research/highschool/primes/materials/2018/Kuszmaul.pdf>
+- **Authors:** John Kuszmaul
+- **Description:** Original research detailing how large Merkle tree proofs can require huge bandwidth consumption and how Verkle trees can be an alternative.
+- **Relevance:** How/Why Verkle trees could replace Merkle trees for many applications.
+
+### Verkle trees (Blog post)
+
+- **Source:** <https://vitalik.ca/general/2021/06/18/verkle.html>
+- **Authors:** Vitalik Buterin
+- **Description:** A possible practical application of Verkle trees in a functional blockchain.
+- **Relevance:** An advantage to Verkle trees over Merkle trees is that proof sizes decrease by a factor of 6-8.
+
+### MiMC: Efficient Encryption and Cryptographic Hashing with Minimal Multiplicative Complexity [AGRRT16]
+
+- **Source:** <https://eprint.iacr.org/2016/492.pdf>
+- **Authors:** Martin Albrecht, Lorenzo Grassi, Christian Rechberger, Arnab Roy, and Tyge Tiessen
+- **Description:** An efficient hashing algorithm with few multiplications (lower multiplication complexity).
+- **Relevance:** The computation is *friendly* in scenarios such as: fully homomorphic encryption (FHE), zero knowledge proof (ZK), or secure multi-party computation (MPC).
+
+### Baby Jubjub Elliptic Curve
+
+- **Source:** <https://eips.ethereum.org/EIPS/eip-2494>
+- **Authors:** Barry WhiteHat, Jordi Baylina, and Marta Bell ́es
+- **Description:** Baby jubjub is the Ethereum variant of jubjub Edwards eliptic curve on Zcash. The jubjub curve and baby jubjub curve are generated from bls12-381 curve and bn254 curve, respctively. 
+- **Relevance:** Baby jubjub eliptic curve (and pairing based cryptography) is used in zero knowledge circuits for its performance. Baby jubjub is not implemented in EVM as of yet, and using on mainnet should be avoided.
+
+### Pedersen Hash [HBHW19]
+
+- **Source:** <https://raw.githubusercontent.com/zcash/zips/main/protocol/sapling.pdf>, page 60
+- **Authors:** Daira Hopwood, Sean Bowe, Taylor Hornby, and Nathan Wilcox
+- **Description:** It's a CRHF (collision resistant hash function) compared to MiMC. Also designed to be circuit friendly. The output of Pedersen hash is a compressed point on an elliptic curve.
+- **Relevance:** First proposed by the Zcash team, and it's now being used by open source toolkits on Blockchains as cryptographic primitives. The Ethereum variant of Pedersen Hash can be found [here.](https://iden3-docs.readthedocs.io/en/latest/_downloads/4b929e0f96aef77b75bb5cfc0f832151/Pedersen-Hash.pdf)
+
+### POSEIDON: A New Hash Function for Zero-Knowledge Proof Systems [GKRRS19]
+
+- **Source:** <https://eprint.iacr.org/2019/458.pdf>
+- **Authors:** Lorenzo Grassi1, Dmitry Khovratovich, Christian Rechberger, Arnab Roy, and Markus Schofnegger
+- **Description:** A family of hash functions defined over GF(p) objects. The circuit constraints needed in various zero knowledge proving system is significantly reduced with the use of POSEIDON hash.
+- **Relevance:** Some of the hashing algorithms inside Plonk, GROTH16, Bulletproofs, Redshift, or STARKs, can be replaced to further increase efficiency.
+
+### How To Simulate It – A Tutorial on the Simulation Proof Technique
+
+- **Source:** <https://eprint.iacr.org/2016/046.pdf>
+- **Authors:** Lindell, Yehuda.
+- **Description:** A tutorial about simulation which fills in the gaps people often overlooked when learning cryptography, especially zero-knowledge proof.
+- **Relevance:** The key from interactive zero knowledge scheme to non interactive zero knowledge scheme is the existence of simulator. The verifier can thus interact with the simulator instead of the prover. However, such simulation paradigm feels very arcane to newcomers. This tutorial paper provided a systematic way to learn it, and the importance to it.
+
+### Roll_up
+
+- **Source:** <https://github.com/barryWhiteHat/roll_up>
+- **Authors:** Barry Whitehat 
+- **Description:** The original work of rollups on Blockchain.
+- **Relevance:** It brought a new era on data compression on chain, and an innovation on general scalibility.
+
+### Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture (zk-SNARKs) [BCTV14b]
+
+- **Source:** <https://eprint.iacr.org/2013/879.pdf>
+- **Authors:** Eli Ben-Sasson, Alessandro Chiesa, Eran Tromer, Madars Virza
+- **Description:** Original research that makes improvements on previous zk-SNARK work.
+- **Relevance:** The two key contributions to previous zk-SNARK work are: a universal circuit generator that scales additively with program size and a zk-SNARK for arithmetic circuit satisfiability.
+
+### On the Size of Pairing-based Non-interactive Arguments [GROTH16]
+
+- **Source:** <https://eprint.iacr.org/2016/260.pdf>
+- **Authors:** Jens Groth
+- **Description:** The first widely used zk-SNARK construction on Blockchain, due to its succinctness and construction with quadratic arithmetic program.
+- **Relevance:** [GROTH16] is still the fastest proving system with smallest proof size. However, the requirement of a *trusted setup* is its Achille's heel.
+
+### Bulletproofs: Short Proofs for Confidential Transactions and More [BBBPWM18]
+
+- **Source:** <https://eprint.iacr.org/2017/1066.pdf>
+- **Authors:** Benedikt Bunz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, and Greg Maxwell
+- **Description:** Bulletproofs have a short proof size and no trusted setup.
+- **Relevance:** In blockchains, where proofs are transmitted over a network or stored for a long time, short proofs reduce overall cost. Famously used in Monero.
+
+### Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings [MBKM19]
+
+- **Source:** <https://eprint.iacr.org/2019/099.pdf>
+- **Authors:** Mary Maller, Sean Bowe, Markulf Kohlweiss, Sarah Meiklejohn
+- **Description:** Sonic is a zk-SNARK that supports a universal and continually updatable structured reference string, whose size scales linearly.
+- **Relevance:** Sonic addresses the tradeoff between universality and functional requirements of an untrusted setup.
+
+### PlonK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge [GWC19]
+
+- **Source:** <https://eprint.iacr.org/2019/953.pdf>
+- **Authors:** Ariel Gabizon, Aztec Zachary J. Williamson, Oana Ciobotaru
+- **Description:** States that the version of Sonic enabling fully succinct verification still requires relatively high proof construction overheads.
+- **Relevance:** Plonk aims to improve on Sonic, as it is a universal SNARK with fully succinct verification and significantly lower prover running time. It's the most promising proving system in the coming days on Ethereum.
+
+### Scalable, transparent, and post-quantum secure computational integrity (zk-STARKs) [BBHR18]
+
+- **Source:** <https://eprint.iacr.org/2018/046.pdf>
+- **Authors:** Eli Ben-Sasson, Iddo Bentov, Yinon Horesh, Michael Riabzev
+- **Description:** A transparent ZK system (ZK-STARK) in which verification scales exponentially faster than database size.
+- **Relevance:** Relevant to both scalability and privacy with respect to blockchains, in addition to being post-quantum secure as well.
+
+### Secure Multiparty Computation (MPC)
+
+- **Source:** <https://eprint.iacr.org/2020/300.pdf>
+- **Authors:** Lindell, Yehuda.
+- **Description:** A great up-to-date review about the importance of secure multiparty computation.
+- **Relevance:** One of the most apparent scenario is social recovery (via secret sharing) of wallet keys, which solved general user’s pain on private key and memonics (seed phrase) lost. It’s getting more and more likely that we’ll see some MPC solution mixed with layer 2 rollups, in order to gain some unique property under such combination, to solve issues such as MEV/frontrunning, where the relevant researches can already be found recently.
 
 ## Consensus
