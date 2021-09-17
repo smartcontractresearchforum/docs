@@ -36,6 +36,16 @@
         "doc",
         "projectManagement"
       ]
+    },
+    {
+      "login": "lw-scrf",
+      "name": "LW",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89587160?v=4",
+      "profile": "https://github.com/lw-scrf",
+      "contributions": [
+        "maintenance",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
