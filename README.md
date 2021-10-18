@@ -22,6 +22,7 @@ The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCR
 ## Open Positions
 
 - [Hiring - Project Management](en/hiring_project_management.md)
+- [Hiring - Research Project Management](en/hiring_research_project_management.md)
 
 ## Reference Materials
 
