@@ -30,6 +30,7 @@ Qualified candidates have:
 * Experience supporting an online community
 
 ## Compensation and Logistics
+
 * Fully remote
 * Hourly pay - negotiable, competitive
 * Part-time (10-15 hours) to start, opportunities to increase with time 
