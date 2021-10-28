@@ -37,10 +37,10 @@ To use the Request Network system, you will need an email address and an Ethereu
 3. All invoices must be submitted at least 2 full working days before the end of the calendar month in order to qualify for the monthly net 30 billing cycle.
 4. Create an invoice.
     1. For your invoice currency, choose USD.
-    2. We prefer USDC or DAI to be selected as the payment cryptocurrency.
-    3. Add a new client, using the email address “invoice(at)smartcontractresearch.org” as a client.
+    2. **We pay in the DAI stablecoin**. Please select it as the payment cryptocurrency.
+    3. Add a new client, using the email address "invoice(at)smartcontractresearch.org" as a client.
     4. Ensure that you provide your full name and your **_chat username in the memo field_**
 5. Include a detailed description of the work you’ve done for each line item.
-    * Example: “small research summary of Bitcoin Whitepaper,” USD 200...
+    * Example: "small research summary of Bitcoin Whitepaper," USD 200...
 6. Submit the invoice.
 7. Please get in touch with the Ops team on our [Chat](https://discord.gg/nJDwxv72) if you do not receive payment or have questions, concerns, or need an alternate arrangement.
