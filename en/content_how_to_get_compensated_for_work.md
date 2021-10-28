@@ -38,7 +38,7 @@ To use the Request Network system, you will need an email address and an Ethereu
 4. Create an invoice.
     1. For your invoice currency, choose USD.
     2. We prefer USDC or DAI to be selected as the payment cryptocurrency.
-    3. Add a new client, using the email address “rich(at)smartcontractresearch.org” as a client.
+    3. Add a new client, using the email address “invoice(at)smartcontractresearch.org” as a client.
     4. Ensure that you provide your full name and your **_chat username in the memo field_**
 5. Include a detailed description of the work you’ve done for each line item.
     * Example: “small research summary of Bitcoin Whitepaper,” USD 200...
