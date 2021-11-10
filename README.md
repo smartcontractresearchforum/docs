@@ -16,7 +16,7 @@ The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCR
 ## Grants, Bounties, and Awards
 
 - [Impact Award](en/grants_impact_award.md)
-- [Research Associates Grants](en/grants_general_contributors.md)
+- [Research Summary Grants](en/grants_general_contributors.md)
 - [Pan-African Micro-grants](en/grants_pan_african.md)
 
 ## Open Positions
