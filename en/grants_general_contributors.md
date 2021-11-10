@@ -1,4 +1,4 @@
-# How to apply for a Contributor Grant from the Smart Contract Research Forum
+# How to apply for a Research Summary Grant from the Smart Contract Research Forum
 
 ## What is SCRF?
 
