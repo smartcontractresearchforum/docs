@@ -32,11 +32,11 @@ _In no more than 3 paragraphs, please explain exactly what the project does._
 - How many hours per week?
 - Who is the owner?
 
-## Method
+## Detailed Method
 
-- Consider the type of project you’re proposing and its scope. The more complicated, the more detail we’d like to see.
+- Consider the type of project you're proposing and its scope. The more complicated, the more detail we'd like to see.
   - How does this project define success?
-  - How can we check whether it’s on the way there.
+  - How can we check whether it's on the way there.
 - How is the work done?
 - How will it interact with other processes?
 
@@ -45,5 +45,5 @@ _In no more than 3 paragraphs, please explain exactly what the project does._
 _Describe exactly what the project will produce._
 
 1. Develop key goals and analytics.
-   1. How does this project define success?
-   1. How is that success tracked?
+   1. How does this project measure success?
+   1. Where is that success tracked?
