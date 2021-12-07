@@ -48,3 +48,7 @@ Please send an email to info@smartcontractresearch.org that includes:
 * Your CV/resume
 * A short blurb (1-2 paragraphs) about why you're interested 
 * Links to previous work, githubs, etc.
+
+## Learn More About SCRF
+
+SCRF is an interactive forum supported by an active international community. SCRF’s members work together to advance actionable blockchain research. [Learn](https://github.com/smartcontractresearchforum/docs) more about SCRF, and discover ways to [get involved](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_connecting_with_scrf.md).
