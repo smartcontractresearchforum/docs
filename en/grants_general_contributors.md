@@ -10,9 +10,9 @@ We believe the forum will pay dividends for academia, industry, and emerging blo
 
 ## Our Researchers
 
-Our core research team, the _Research Fellows_, have committed to working at least 10 hours a week and attending regular weekly meetings. Generally, Research Fellows each represent a larger group of individuals such as a university blockchain club, company, or university and tend to have a Ph.D or are pursuing one. They have successfully published numerous research summaries for SCRF.
+Our core research team, the _Researchers_, have committed to working at least 10 hours a week and attending regular weekly meetings. Generally, Researchers each represent a larger group of individuals such as a university blockchain club, company, or university and tend to have a Ph.D or are pursuing one. They have successfully published numerous research summaries for SCRF.
 
-Researchers who prefer occasional work and fewer meetings are referred to as _Research Associates_. There are no commitments required for being a Research Associate other than maintaining a light presence in our Chat and forum and occasionally contributing a comment or summary to SCRF. Research Associates who have completed several research summaries may be invited to become Research Fellows.
+Researchers who prefer occasional work and fewer meetings are referred to as _Research Associates_. There are no commitments required for being a Research Associate other than maintaining a light presence in our Chat and forum and occasionally contributing a comment or summary to SCRF. Research Associates who have completed several research summaries may be invited to become Researchers.
 
 To make SCRF the most compelling crypto-focused forum, we recognize that we have to compensate you for your time and expertise. **All work for SCRF is compensated.**
 
