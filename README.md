@@ -11,7 +11,6 @@ The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCR
 
 - [Connecting with SCRF](en/content_connecting_with_scrf.md)
 - [Weekly Community Calls](en/content_community_calls.md)
-- [Reading Group](en/program_reading_group.md)
 
 ## Grants, Bounties, and Awards
 
