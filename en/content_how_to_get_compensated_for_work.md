@@ -33,7 +33,7 @@ SCRF pays invoices once per month at the end of the month. **_All invoices are d
 To use the Request Network system, you will need an email address and an Ethereum wallet.
 
 1. Please create a brand new Ethereum address (with no transaction history) for your first invoice. You can continue using the wallet for all subsequent transactions. We recommend you use [MetaMask](https://metamask.io/).
-2. Follow the instructions given for creating an account on [Request Network](https://request.network/en/).
+2. Follow the instructions given for creating an account on [Request Network](https://invoicing.request.network/).
 3. All invoices must be submitted at least 2 full working days before the end of the calendar month in order to qualify for the monthly net 30 billing cycle.
 4. Create an invoice.
     1. For your invoice currency, choose USD.
