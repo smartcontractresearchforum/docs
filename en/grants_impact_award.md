@@ -1,41 +1,27 @@
-# SCRF: Impact Award
+# SCRF Impact Award
 
-## Description
+The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) has created the Impact Award to honor researchers whose work represents exceptional achievement, particularly in underappreciated or novel areas of blockchain research.
 
-The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF)'s monthly Impact Award honors researchers whose work represents exceptional achievement, particularly in an underappreciated or novel area of blockchain research. It's our way of saying "thank you" once a month to researchers who are contributing valuable work to the ecosystem.
+## Overview
 
-## What we are looking for
+The SCRF Impact Award recognizes researchers who are contributing valuable work to the ecosystem. Impact Award grants are announced on SCRF’s [forum](smartcontractresearch.org) every month.
 
-To be considered for an SCRF Impact Award, the researcher's work must have already been covered in [Research Pulse](https://www.smartcontractresearch.org/tag/research-pulse), a [Research Summary](https://www.smartcontractresearch.org/tag/summary), or showcased in some other interaction on our forum. 
+## Eligibility
 
-## Disbursements
+Researchers whose work is featured in a [Research Pulse](https://www.smartcontractresearch.org/tag/research-pulse), [Research Summary](https://www.smartcontractresearch.org/tag/summary), or showcased in some other interaction on SCRF’s forum are eligible for recognition as a part of this program.
 
-Award recipients will receive a USD 1,000 allocation in recognition of their contributions. We issue funds in cryptocurrency.
+## Compensation & Logistics
 
-If you cannot accept funds directly, we can discuss alternative options. This could include:
+Award recipients will receive a $1,000 allocation in recognition of their contributions. SCRF issues funds in cryptocurrency. Follow the steps outlined in "[How to Get Compensated for Work](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_how_to_get_compensated_for_work.md)" to claim the _REWARD/AWARD/BOUNTY_after SCRF has announced the recipients.
 
-- funding a project
-- conference travel
-- charitable donations in lieu
-- credits for compute resources, archive nodes, etc.
-- supporting a blockchain-related organization or event of your choice
+If unable to accept funds directly, alternative options could include:
 
-## Award Winners 
+* Funding a project
+* Conference travel
+* Charitable donations to an endowment
+* Credits for compute resources, archive nodes, etc.
+* Direct support of a  blockchain-related organization or event of choice
 
-Impact Award grants are announced on our [forum](https://www.smartcontractresearch.org/t/scrf-impact-award/581).
+## Learn More About SCRF
 
-## How we Communicate
-
-**Chat:** We use our [#general chat](https://discord.com/channels/784234332617048065/784234333111451670) to discuss new content, blockchain-related events, coordination, and project planning.
-
-**Project Management:** All the work that SCRF produces is created collaboratively in a [public document pipeline](https://github.com/orgs/smartcontractresearchforum/projects/5). Please feel free to look around.
-
-**Live meetings:** We have several weekly meetings for pitching ideas, status updates, projects and processes, and planning forum engagement.
-
-## What is SCRF?
-
-The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) is where academics, researchers, and industry leaders from all over the world come together to discuss research, solicit thoughtful peer review, and find new projects on which to collaborate.
-
-Please feel free to come and introduce yourself in our [chat](https://discord.gg/7WPRb8FHvd). Another great way to introduce yourself to us is to find a thread on the [SCRF website](https://www.smartcontractresearch.org/) and add a well-reseasoned or insightful comment to one of the discussions.
-
-If you would like to get some deeper insight into how we do work and what we have on the go, you can also have a look at our [public board](https://github.com/orgs/smartcontractresearchforum/projects/5).
+SCRF is an interactive forum supported by an active international community. SCRF’s members work together to advance actionable blockchain research. [Learn](https://github.com/smartcontractresearchforum/docs) more about SCRF, and discover ways to [get involved](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_connecting_with_scrf.md).
