@@ -1,6 +1,3 @@
----
-tags: ready for approval, general, listed
----
 # Connecting with SCRF
 
 The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) employs different platforms for communicating. Every method outlined below is open to anyone interested in blockchain research or connecting with SCRF. At a high level, SCRF’s forum connects academia to industry by featuring timely, novel, and relevant blockchain and web3 research, whereas internally, SCRF uses chat and weekly meetings to build community and collectively work towards its mission.
