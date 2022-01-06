@@ -43,7 +43,7 @@ We have roles available for people with all levels of experience, whether it’s
 
 ## To Apply
 
-Please send an email to info@smartcontractresearch.org that includes:
+Please send an email to work@smartcontractresearch.org that includes:
 
 * Your CV/resume
 * A short blurb (1-2 paragraphs) about why you're interested 
