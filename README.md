@@ -22,6 +22,7 @@ The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCR
 ## Open Positions
 
 - [Hiring - Community Lead](en/hiring_community_lead.md)
+- [Hiring - Governance Project Management](en/hiring_governance_project_management.md)
 - [Hiring - Peer Reviewer](en/hiring_peer_reviewer.md)
 - [Hiring - Project Management](en/hiring_project_management.md)
 - [Hiring - Project Management Intern](en/hiring_project_management_intern.md)
