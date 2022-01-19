@@ -2,6 +2,10 @@
 
 The Smart Contract Research Forum (SCRF) is hiring for a part-time, paid Research Project Manager (PM). SCRF has [many initiatives](https://github.com/smartcontractresearchforum/docs) on the go, so our ideal candidate will dig in, take ownership, and help the team [stay on track](https://github.com/orgs/smartcontractresearchforum/projects/4).
 
+## SCRF Mission
+
+SCRF is a premier, open discourse hub dedicated to web3 advancement with tools in place to amplify the latest quality research, reward contributions, deliver insights, and facilitate industry connections. Composed of an active international community, SCRF connects academic researchers with blockchain innovators to collaborate on solutions.
+
 ## Role Summary
 
 SCRF is seeking a highly motivated individual who is curious about blockchain technologies and finds satisfaction in taking a project from an idea and turning it into a success.
@@ -44,13 +48,21 @@ SCRF is looking for candidates who have:
 * Formal research Project Management experience
 * Graduate level knowledge of technical disciplines related to blockchain or cryptocurrencies
 
-## Compensation and Logistics
+## Compensation & Logistics 
 
 * Fully remote
 * Hourly pay - negotiable, competitive
-* Part-time (10-15 hours) to start, opportunities to increase with time
+* Part-time (10-15 hours) to start, opportunities to increase with time 
 * Compensation in cryptocurrency preferred
+
+## How to Apply 
+
+To apply, please email [eugene@smartcontractresearch.org](mailto:eugene@smartcontractresearch.org) and include:
+
+* CV/resume
+* A short blurb (1-2 paragraphs) about why you’re interested
+* Links to previous work, Github, etc.
 
 ## Learn More About SCRF
 
-SCRF is an interactive forum supported by an active international community. SCRF's members work together to advance actionable blockchain research. [Learn](https://github.com/smartcontractresearchforum/docs) more about SCRF, and discover ways to [get involved](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_connecting_with_scrf.md).
+SCRF is an interactive forum supported by an active international community. SCRF’s members work together to advance actionable blockchain research. [Learn](https://github.com/smartcontractresearchforum/docs) more about SCRF, and discover ways to [get involved](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_connecting_with_scrf.md).
