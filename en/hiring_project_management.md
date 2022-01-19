@@ -1,10 +1,14 @@
-# SCRF: Job Description - Project Management
+# SCRF: Project Management Project Management
 
 ## What is SCRF?
 
-The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) is where academics, researchers, and industry leaders from all over the world come together to discuss research, solicit thoughtful peer review, and find new projects on which to collaborate. You can learn [more about SCRF here](https://github.com/smartcontractresearchforum/docs).
+The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) is where academics, researchers, and industry leaders from all over the world come together to discuss research, solicit thoughtful peer review, and find new projects on which to collaborate. 
 
-## Role Description
+## SCRF Mission
+
+SCRF is a premier, open discourse hub dedicated to web3 advancement with tools in place to amplify the latest quality research, reward contributions, deliver insights, and facilitate industry connections. Composed of an active international community, SCRF connects academic researchers with blockchain innovators to collaborate on solutions.
+
+## Role Summary
 
 We are looking for part-time, paid Project Managers of all skill levels who are excited by the prospect of supporting our community focused on open blockchain research. We have many [initiatives](https://github.com/orgs/smartcontractresearchforum/projects/4) on the go; we need people to dig in, take ownership, and help shepherd them to success.
 
@@ -26,7 +30,7 @@ New Project Managers start by joining our weekly meetings, taking notes, reviewi
 
 We have roles available for people with all levels of experience, whether it’s for students looking for their first role or those with 10+ years of experience. We want to work with people who are deeply passionate about the technology, are mission-aligned with SCRF, and want to support crypto by supporting open blockchain research. 
 
-## We're looking for
+SCRF is looking for candidates who have:
 
 * Clear communication skills and willingness to use chat, video, and email to coordinate
 * Ability to work with a fully remote, global team
@@ -34,20 +38,20 @@ We have roles available for people with all levels of experience, whether it’s
 * Some formal Project Management experience is a nice to have, *but not required*
 * Blockchain/cryptocurrency knowledge preferred, *but not required*
 
-## Specifics
+## Compensation & Logistics 
 
 * Fully remote
 * Hourly pay - negotiable, competitive
-* Part-time (~10-15 hours) to start, opportunities to increase with time 
+* Part-time (10-15 hours) to start, opportunities to increase with time 
 * Compensation in cryptocurrency preferred
 
-## To Apply
+## How to Apply 
 
-Please send an email to work@smartcontractresearch.org that includes:
+To apply, please email [eugene@smartcontractresearch.org](mailto:eugene@smartcontractresearch.org) and include:
 
-* Your CV/resume
-* A short blurb (1-2 paragraphs) about why you're interested 
-* Links to previous work, githubs, etc.
+* CV/resume
+* A short blurb (1-2 paragraphs) about why you’re interested
+* Links to previous work, Github, etc.
 
 ## Learn More About SCRF
 
