@@ -39,7 +39,7 @@ SCRF is looking for candidates who have:
 
 ## How to Apply 
 
-To apply, please email [work@smartcontractresearch.org](mailto:work@smartcontractresearch.org) and include:
+To apply, please email [eugene@smartcontractresearch.org](mailto:eugene@smartcontractresearch.org) and include:
 
 * CV/resume
 * A short blurb (1-2 paragraphs) about why you’re interested
