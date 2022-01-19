@@ -2,6 +2,10 @@
 
 The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) is hiring for a part-time, paid Project Management (PM) Intern. SCRF has many [projects](https://github.com/orgs/smartcontractresearchforum/projects/4) on the go. The ideal candidate is eager to learn how to manage and help with multiple SCRF projects simultaneously. 
 
+## SCRF Mission
+
+SCRF is a premier, open discourse hub dedicated to web3 advancement with tools in place to amplify the latest quality research, reward contributions, deliver insights, and facilitate industry connections. Composed of an active international community, SCRF connects academic researchers with blockchain innovators to collaborate on solutions.
+
 ## Role Summary
 
 SCRF is seeking a highly motivated individual who is curious about blockchain technologies and finds satisfaction in helping manage and lead group projects. 
@@ -21,6 +25,7 @@ The PM Intern is expected to assist with a variety of projects and attend regula
 ## Qualifications
 
 SCRF is looking for candidates who have:
+
 * Clear communication skills and willingness to use chat, video, and email to coordinate
 * Ability to work with a high-paced fully remote, globally distributed team
 * Some project management experience is desired, even if that is with course work or extracurricular activities (formal PM experience is desired but not required)
@@ -32,6 +37,14 @@ SCRF is looking for candidates who have:
 * Hourly pay - negotiable, competitive
 * Part-time (10-15 hours) to start, opportunities to increase with time 
 * Compensation in cryptocurrency preferred
+
+## How to Apply 
+
+To apply, please email [eugene@smartcontractresearch.org](mailto:eugene@smartcontractresearch.org) and include:
+
+* CV/resume
+* A short blurb (1-2 paragraphs) about why you’re interested
+* Links to previous work, Github, etc.
 
 ## Learn More About SCRF
 
