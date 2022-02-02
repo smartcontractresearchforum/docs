@@ -1,4 +1,4 @@
-# SCRF Interviews Episode 1 - Culture and Incentivization with Abbey and Nathan
+# SCRF Interviews | Culture and Incentivization - Abbey Titcomb and Nathan Schneider (Ep. 1)
 
 The [Smart Contract Research Forum](https://smartcontractresearch.org/) (SCRF) has created a transcript of the SCRF Interviews Episode #1 on Culture and Incentivization, featuring Prof. Nathan Schneider and Abbey Titcomb, for those interesting in learning about the nature of culture in decentralized communities.  
 
