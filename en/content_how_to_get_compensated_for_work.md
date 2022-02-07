@@ -24,7 +24,7 @@ Pay varies according to the complexity of the assignment and the time involved. 
 
 ## Tracking Hours
 
-SCRF pays contributors by the hour. Hours are tracked in a spreadsheet that is submitted once a month with your invoice (See below). Please share a copy of this sheet with your team lead.
+SCRF pays contributors by the hour. Hours are tracked in [a spreadsheet](https://docs.google.com/spreadsheets/d/19CmaqELKS_S2gWQIs2kddA91rv5zca-51mk_sOJ0gYs/edit?usp=sharing) that is submitted once a month with your invoice (see below). Please share a copy of this sheet with your team lead.
 
 ## Invoicing and Payment System
 
