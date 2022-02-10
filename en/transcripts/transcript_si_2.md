@@ -1,4 +1,4 @@
-# SCRF Interviews | Culture and Incentivization - Livia Deschermayer and Seth Frey (Ep. 2)
+# SCRF Interviews | Culture and Onboarding - Livia Deschermayer and Seth Frey (Ep. 2)
 
 The [Smart Contract Research Forum](https://smartcontractresearch.org/) (SCRF) has created a transcript of the SCRF Interviews Episode #2 on Culture and Onboarding, featuring Livia Deschermayer and Prof. Seth Frey, for those interested in learning about the nature of culture in decentralized communities.
 
