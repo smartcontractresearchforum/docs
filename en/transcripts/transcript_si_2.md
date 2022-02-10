@@ -8,15 +8,15 @@ This discussion is part of a three-part mini-series exploring the topic of Cultu
 
 **Eugene Leventhal:**
 
-**[0:08] **Hello, and welcome to today's episode of this SCRF Interviews podcast. We're still in our first mini-series, exploring the intersection of culture and incentives, and I'm very excited for today's conversation where we're going to be digging a little more into culture and specifically, onboarding as well, and what the intersection of those two topics looks like.
+**[0:08]** Hello, and welcome to today's episode of this SCRF Interviews podcast. We're still in our first mini-series, exploring the intersection of culture and incentives, and I'm very excited for today's conversation where we're going to be digging a little more into culture and specifically, onboarding as well, and what the intersection of those two topics looks like.
 
 **Eugene Leventhal:**
 
-**[0:26] **To begin, I'll ask our guests to introduce themselves, and then we'll jump right into the conversation. So, Livia, do you mind kicking off the intros?
+**[0:26]** To begin, I'll ask our guests to introduce themselves, and then we'll jump right into the conversation. So, Livia, do you mind kicking off the intros?
 
 **Livia Deschermayer:**
 
-**[0:32] **Yeah, thank you. Eugene. I’m Livia, so I'm part of The Commons Stack team where I go mostly for the cultural build where we've been implementing this process in the TEC, the Token Engineering Commons. And there, I lead the soft gov** **and culture of working group where we have been implementing the Ostrom Principles into our culture.
+**[0:32]** Yeah, thank you. Eugene. I’m Livia, so I'm part of The Commons Stack team where I go mostly for the cultural build where we've been implementing this process in the TEC, the Token Engineering Commons. And there, I lead the soft gov** **and culture of working group where we have been implementing the Ostrom Principles into our culture.
 
 **Livia Deschermayer:**
 
@@ -40,7 +40,7 @@ This discussion is part of a three-part mini-series exploring the topic of Cultu
 
 **Livia Deschermayer:**
 
-**[3:03] **I like to define culture as the tension between tradition and innovation, and I feel like both are so important, and having awareness of which elements compose the foundation of a community and what type of expanding movements are happening is really important for monitoring and addressing ecosystem health. So, just understanding where the community wants to move towards and what sets the foundation for the community, and maybe that is the role culture plays, having awareness of all the elements that play in a certain ecosystem.
+**[3:03]** I like to define culture as the tension between tradition and innovation, and I feel like both are so important, and having awareness of which elements compose the foundation of a community and what type of expanding movements are happening is really important for monitoring and addressing ecosystem health. So, just understanding where the community wants to move towards and what sets the foundation for the community, and maybe that is the role culture plays, having awareness of all the elements that play in a certain ecosystem.
 
 **Seth Frey:**
 
@@ -48,7 +48,7 @@ This discussion is part of a three-part mini-series exploring the topic of Cultu
 
 **Seth Frey:**
 
-**[4:00] **So when I'm looking at a community, I’m looking pretty much from the lens of what are their resources and sort of orienting my entire understanding of what they're up to and why they do what they do, around the fact that limited resources and the trust or the rules or the processes or enforcement or monitoring, that's necessary to ensure the kind of sustainable access and sharing and extraction of those resources and building of those resources.
+**[4:00]** So when I'm looking at a community, I’m looking pretty much from the lens of what are their resources and sort of orienting my entire understanding of what they're up to and why they do what they do, around the fact that limited resources and the trust or the rules or the processes or enforcement or monitoring, that's necessary to ensure the kind of sustainable access and sharing and extraction of those resources and building of those resources.
 
 **Seth Frey:** 
 
@@ -68,7 +68,7 @@ This discussion is part of a three-part mini-series exploring the topic of Cultu
 
 **Eugene Leventhal:**
 
-**[6:06] **And that makes me think a little bit about sort of, say, the chicken and the egg problem with humans and culture, sort of, do the humans bring—are they the ones setting a culture into an environment or is it at that intersection of the humans and the resources? Because I know prior to thinking about this more deeply, things like resources or asset mapping or community mapping, those things would seem very different than whatever this flowery thing that culture might be, that's hard to put a finger on. But it's so interesting that both of you kind of came in from the angle of the awareness of what's in the ecosystem or the specific resources.
+**[6:06]** And that makes me think a little bit about sort of, say, the chicken and the egg problem with humans and culture, sort of, do the humans bring—are they the ones setting a culture into an environment or is it at that intersection of the humans and the resources? Because I know prior to thinking about this more deeply, things like resources or asset mapping or community mapping, those things would seem very different than whatever this flowery thing that culture might be, that's hard to put a finger on. But it's so interesting that both of you kind of came in from the angle of the awareness of what's in the ecosystem or the specific resources.
 
 **Eugene Leventhal:**
 
@@ -122,13 +122,13 @@ But then there's this process of understanding what is the shared mission of tha
 
 **Eugene Leventhal:**
 
-**[14:24] **Yeah, and I would be interested in getting both of your perspective on the question of, sort of, the link between commitment to culture and the health of that culture. And in the crypto space, I'm thinking of the rage quit model and the fact that like, once you just get frustrated, it's like, “Nah, I've had enough of this, let me just go elsewhere and hang out.” And how does that change it? And, Seth, to think of some of the work that you've done with Nathan Schneider, if I'm remembering correctly, around effective voice and exit, just kind of taking those two perspectives just from your different worlds around.
+**[14:24]** Yeah, and I would be interested in getting both of your perspective on the question of, sort of, the link between commitment to culture and the health of that culture. And in the crypto space, I'm thinking of the rage quit model and the fact that like, once you just get frustrated, it's like, “Nah, I've had enough of this, let me just go elsewhere and hang out.” And how does that change it? And, Seth, to think of some of the work that you've done with Nathan Schneider, if I'm remembering correctly, around effective voice and exit, just kind of taking those two perspectives just from your different worlds around.
 
 Yeah. What tensions arise if I know it's easier or harder for me to leave an environment, does that actually help? Do elements of that consistently help culture or hurt it in some kind of way?
 
 **Seth Frey:**
 
-**[15:08] **So, in addition to my theory work, we have an exit invoice, a paper, me and Nathan Schneider. There is some data work with my student, Jingwen Zhang, and the two of us looked at Minecraft. So, Minecraft has a property of a lot of online organizations that you can just leave. There is thousands of community-run servers out there, and if you don't like one of them, you can go to another. And we had 50 million entry and exit events from 10 million people over a couple of hundred thousand servers. We were able to drill down and ask, “Okay, you just had this trajectory through all these servers, and they had all these different governance styles, which we're able to scrape by scraping the governance plug-ins that these servers had installed. Did you install social hierarchy, private property rights? Did you install punishment? Did you prevent bad behaviour? Or install tools to help you manage it; roll it back afterwards, you know, vandalism** **and such?
+**[15:08]** So, in addition to my theory work, we have an exit invoice, a paper, me and Nathan Schneider. There is some data work with my student, Jingwen Zhang, and the two of us looked at Minecraft. So, Minecraft has a property of a lot of online organizations that you can just leave. There is thousands of community-run servers out there, and if you don't like one of them, you can go to another. And we had 50 million entry and exit events from 10 million people over a couple of hundred thousand servers. We were able to drill down and ask, “Okay, you just had this trajectory through all these servers, and they had all these different governance styles, which we're able to scrape by scraping the governance plug-ins that these servers had installed. Did you install social hierarchy, private property rights? Did you install punishment? Did you prevent bad behaviour? Or install tools to help you manage it; roll it back afterwards, you know, vandalism** **and such?
 
 **Seth Frey:**
 
@@ -136,19 +136,19 @@ Yeah. What tensions arise if I know it's easier or harder for me to leave an env
 
 **Seth Frey:**
 
-**[16:50] **So, what's the bigger effect? Is it the governance system on who selects into it? Or is the people who select into a community, eventually changing and morphing a governance system to match their own values and alignment? We're able to show, it looks like an order of magnitude, stronger effect on – the first one: that the governance system seems to have a stronger effect on the people than the people self-selecting in.
+**[16:50]** So, what's the bigger effect? Is it the governance system on who selects into it? Or is the people who select into a community, eventually changing and morphing a governance system to match their own values and alignment? We're able to show, it looks like an order of magnitude, stronger effect on – the first one: that the governance system seems to have a stronger effect on the people than the people self-selecting in.
 
 **Seth Frey:**
 
 **[17:23]** Now, that’s just one study. It's one very specific domain, right? Minecraft is not all online organizations, but A) it illustrates a little bit of the power of data science to advance these questions in a way that meets space. Organizations just always had to kind of take it on faith or go by their gut, and it reflects a little bit the power of your governance system and the uniqueness of online communities, that exit is such an option, it ends up being an additional tool in the toolkit for people who are building meaning collectively in the online context.
 
-**Livia Deschermayer**:
+**Livia Deschermayer:**
 
 **[18:04]** Yeah, that is super interesting, especially having… You probably don't have so much the identity of the players, right?
 
 **Seth Frey:**
 
-**[18:14] **We have a UID that we know it was the same person who went from here to there to there. But right, we know nothing about the actual human being behind it. Is it some very proficient 13-year-old? Is it a group of dads? We don't really have this story. Overall demographics and our median age of Minecraft is probably 20-ish now.
+**[18:14]** We have a UID that we know it was the same person who went from here to there to there. But right, we know nothing about the actual human being behind it. Is it some very proficient 13-year-old? Is it a group of dads? We don't really have this story. Overall demographics and our median age of Minecraft is probably 20-ish now.
 
 But beyond that, you're right, it's a mystery. All we see are these trends.
 
@@ -156,17 +156,17 @@ But beyond that, you're right, it's a mystery. All we see are these trends.
 
 **[18:42]** So, Livia I was just wondering in terms of with that intersection of trying to think about commitment to culture and the health of it from what you've actually been seeing in different DAO’s, whether it's TEC-related activities or just out in the wild, so to say. But are there the elements where… I know MolochDAO is probably an example, where rage quitting helped to build a very specific culture and created a very specific environment versus other areas, and as Seth was kind of alluding to, are environments where it's like, “Well, we're the only ones left, so we clearly care about this kind of distilled culture.” Yeah, just kind of what else have you been seeing from just the examples of different DAO’s  and how that intersection plays out?
 
-**Livia Deschermayer**:
+**Livia Deschermayer:**
 
 **[19:24]** Yeah, I think off-boarding is so important as onboarding, right? Like, that people need to understand that they won't be harmed with the exit also. I think sometimes there is a lack of care when someone is leaving the process rather than when someone is entering. And in the TEC, we developed this offboarding ceremony for the stewards. That is just to acknowledge all the work they've done. And we give them an NFT of like, “awesome participation,” and just like have a session that everyone can share whatever they want to them, that other stewards can appreciate that work.
 
-**Livia Deschermayer**:
+**Livia Deschermayer:**
 
-**[20:12] **And we had a session in soft gov** **once to kind of bring this concept of death and how we usually have a very hard time talking about death. And how to… that is such a human aspect, and it’s such a part of our culture, too. So do we experienced some type of the grief feelings, (grieving feelings, is that how you say it?) or, I don't know, what are the emotions related to the exit of someone in the community. So that has been an interesting path we’ve been taking there.
+**[20:12]** And we had a session in soft governance to kind of bring this concept of death and how we usually have a very hard time talking about death. And how to… that is such a human aspect, and it’s such a part of our culture, too. So do we experienced some type of the grief feelings, (grieving feelings, is that how you say it?) or, I don't know, what are the emotions related to the exit of someone in the community. So that has been an interesting path we’ve been taking there.
 
-**Eugene Leventhal: **
+**Eugene Leventhal:**
 
-**[20:54] **It's really interesting to think of kind of specific actions and rituals that can help imbed culture. And I guess, is there, from either perspective just in terms of working with DAO’s or from your research perspective or any other angle, have you seen any kind of particular…I already imagine the answer is going to be “it depends”. But are there any kind of specific kind of rituals that correlate to culture building or is it all just depend on the nature of the culture that you're building, which I feel like it's a bit of a...
+**[20:54]** It's really interesting to think of kind of specific actions and rituals that can help imbed culture. And I guess, is there, from either perspective just in terms of working with DAO’s or from your research perspective or any other angle, have you seen any kind of particular…I already imagine the answer is going to be “it depends”. But are there any kind of specific kind of rituals that correlate to culture building or is it all just depend on the nature of the culture that you're building, which I feel like it's a bit of a...
 
 **Seth Frey:**
 
@@ -180,27 +180,27 @@ But I might be able to say something general, not exactly from the research, thi
 
 **Seth Frey:**
 
-**[22:26] **If you don’t like it, you just go somewhere else, you won’t get hurt. There’s a lot of other options, but I’d probably argue that you’re restricted to a pretty small part/subset of culture space. But then the more you add, let’s say other things, more intentional practices, the more you invest just day to day resources  in caring where people are at, the more of the potential space of possible cultures opens up to you, possibly even loaded things like healthy culture or stronger culture.
+**[22:26]** If you don’t like it, you just go somewhere else, you won’t get hurt. There’s a lot of other options, but I’d probably argue that you’re restricted to a pretty small part/subset of culture space. But then the more you add, let’s say other things, more intentional practices, the more you invest just day to day resources  in caring where people are at, the more of the potential space of possible cultures opens up to you, possibly even loaded things like healthy culture or stronger culture.
 
-**Livia Deschermayer**:
+**Livia Deschermayer:**
 
 **[23:01]** And I think also there is a natural movement, that when something ends, there is space for something else to emerge. And just keeping track of those movements on how rituals are probably wanting to maintain some sort of practice, or they are grounding people in an experience, they're providing a sense of belonging.
 
-**Livia Deschermayer**:
+**Livia Deschermayer:**
 
 **[23:29]** But then what is the opposite of that? What is that rituals block somehow? Maybe there is some openness, or there is something that wants to disrupt a certain pattern that might not be healthy, that needs to come from another angle. And then whenever there is a ritual for something that is ending, what is the space that is being opened for something innovative to come in? Or maybe for another type of practice or for another type of questioning, or for other people to bring other perspectives as well?
 
 **Seth Frey**
 
-**[24:09] **So, Livia, can I ask a little bit? So I have a sense of my knowledge about this kind of thing comes from right? There's structured observation and data and all these analyses. And then, you know, I have done activism in organizing. But, to be honest, think most of my knowledge from that route, from experience in the practitioner’s side of how to build strong and healthy cultures comes more from, “Oh wow, I messed that one up; that's a lesson learned.” I wouldn’t say that I've been doing it for quite long enough or quite with enough of a knack that my experience… to have seen just the knowledge I have from experience leading to great outcomes. And so, yeah, I'd love to hear, since this is your job, where are your sense of your knowledge comes from about the effectiveness of culture building?
+**[24:09]** So, Livia, can I ask a little bit? So I have a sense of my knowledge about this kind of thing comes from right? There's structured observation and data and all these analyses. And then, you know, I have done activism in organizing. But, to be honest, think most of my knowledge from that route, from experience in the practitioner’s side of how to build strong and healthy cultures comes more from, “Oh wow, I messed that one up; that's a lesson learned.” I wouldn’t say that I've been doing it for quite long enough or quite with enough of a knack that my experience… to have seen just the knowledge I have from experience leading to great outcomes. And so, yeah, I'd love to hear, since this is your job, where are your sense of your knowledge comes from about the effectiveness of culture building?
 
-**Livia Deschermayer**:
+**Livia Deschermayer:**
 
 **[25:01]** Well, I've been an actress for most of my life, since I was eleven, and I think that gave me first, tools to learn about myself, as like my body is my work tool. And I think also as a having like collectives trying to build something together.
 
 So, my background is mostly in theatre and then performance art and cinema also. But the theatre, I think, is the bulk of this art of coming together and creating something. And there is a lot of conflict, but you need to manage that somehow. And then sometimes there's structures where there is a very clear hierarchy with a directory that has all the power. Sometimes it's a more collaborative process where people are just coming with their own creations, and that needs to be merged into a final piece somehow.
 
-**Livia Deschermayer**:
+**Livia Deschermayer:**
 
 **[26:05] **And I think both the structures have different burdens and benefits; and I particularly appreciate more of the less hierarchical structure because I think it's more creative, the solutions that come up when people need to figure something out and just having that space for allowing individual creativity. So, I try to bring a lot of this into the spaces I'm in now because I think there's a lot of similarities, but I'm definitely learning so much day by day with all of the things that don't go so right or yeah, that we need to improvise.
 
@@ -214,7 +214,7 @@ So, my background is mostly in theatre and then performance art and cinema also.
 
 **Seth Frey:**
 
-**[27:45] **And so I'm a little wary of general prescriptions or practices or what happened over there informing what we should do today. When it comes to culture building in particular it’s a really great domain. The best we can do in terms of learning and learning with a minimum of mistakes, I think is learning with lots of small mistakes in daily practice. So having like fast, small, tiny, constant iteration or reflection in your own organization and its daily practices with a lot of feeling of the room and a lot of what you might call emotional intelligence is going to be the way to kind of systematically build something that makes sense for your organization, your culture without really costly mistakes.
+**[27:45]** And so I'm a little wary of general prescriptions or practices or what happened over there informing what we should do today. When it comes to culture building in particular it’s a really great domain. The best we can do in terms of learning and learning with a minimum of mistakes, I think is learning with lots of small mistakes in daily practice. So having like fast, small, tiny, constant iteration or reflection in your own organization and its daily practices with a lot of feeling of the room and a lot of what you might call emotional intelligence is going to be the way to kind of systematically build something that makes sense for your organization, your culture without really costly mistakes.
 
 **Seth Frey:**
 
@@ -252,9 +252,9 @@ I know that, and I wonder Livia, if this resonates with your general Web3 experi
 
 **Eugene Leventhal:**
 
-**[34:23] **And now on the flip side, at SCRF, we’re intentionally thinking of how do we set the tone of our culture and how do we embed that as early as possible in the onboarding process? I wonder for both of you, at what point in the onboarding journey is it the right time to start taking the cultural angle? Or is that a fundamentally wrong question, because no matter how you structure your onboarding, it’s already telling whoever is going through it something about your culture.
+**[34:23]** And now on the flip side, at SCRF, we’re intentionally thinking of how do we set the tone of our culture and how do we embed that as early as possible in the onboarding process? I wonder for both of you, at what point in the onboarding journey is it the right time to start taking the cultural angle? Or is that a fundamentally wrong question, because no matter how you structure your onboarding, it’s already telling whoever is going through it something about your culture.
 
-**Livia Deschermayer**:
+**Livia Deschermayer:**
 
 **[34:55]** Yeah, I think onboarding is some type of curation process, right? You have so much information and most of these communities have transparency as a value. So, there is a lot as soon as you enter and the space move so fast that you need some type of guidance from someone that is already immersed in that universe to tell you, like if you start here, you’re going to find your way and I’ll take you by the hand through the steps so you can feel welcome and that you belong and then slowly build that agency that I think is the most important part of like  being in a self-governing community. And I think the culture needs to be introduced very early and just the way that people interact with you is already part of that. Like If they're welcoming, that's probably part of their values, if you feel belonging, if you feel like you have access to things that you're interested in, if people are interested about you, like, how do you want to be treated, what are you interested in.? And I think especially the mission, vision and values need to be shared from the beginning because the person enters and understands where they're going and if they don't like where that's going, they should know as soon as possible. And if they like where that's going, they should know how to get aligned with that as soon as possible as well.
 
@@ -262,13 +262,13 @@ I know that, and I wonder Livia, if this resonates with your general Web3 experi
 
 **[36:33]** And I guess on that side, how much of it has been in terms of that needs to come through human-to-human interaction, of the only way I'm going to get that message across is if I get into a meeting with you and you tell me that as me being the new person to an ecosystem; or is that truly a multimodal message that you could send? Are there documentation or videos or whatnot or whatever that can actually help reinforce culture and not just provide process clarity?
 
-**Livia Deschermayer**:
+**Livia Deschermayer:**
 
-**[37:02] **Yeah, sure, I think we've been using a lot of Discord. And it's great to build bots and you can design experiences in many types of ways, and I think that's why a lot of DAO communities have been loving using Discord. But I think there's also a level of human-to-human interaction, that it's very important, just for people to feel... It's hard to feel welcome with a bot; and it's hard to feel like you belong if you don't have no one to talk to. And it's also not fun, I think. And I think fun, it's an important part of joining a community. You want some type of joy from being around people. And yeah, at least in the TEC, we've been experiencing the vibes of the community as being one of the main reasons why people join and stick around.
+**[37:02]** Yeah, sure, I think we've been using a lot of Discord. And it's great to build bots and you can design experiences in many types of ways, and I think that's why a lot of DAO communities have been loving using Discord. But I think there's also a level of human-to-human interaction, that it's very important, just for people to feel... It's hard to feel welcome with a bot; and it's hard to feel like you belong if you don't have no one to talk to. And it's also not fun, I think. And I think fun, it's an important part of joining a community. You want some type of joy from being around people. And yeah, at least in the TEC, we've been experiencing the vibes of the community as being one of the main reasons why people join and stick around.
 
 **Seth Frey:**
 
-**[38: 03] **Maybe it's valuable to get a couple of obvious things or more kind of clear cut of things out of the way before getting into the meat. You can't have onboarding in the culture until there’s culture, so culture is like a very bottom-up process, that for a leader is really more observational than directed. In many cases, it ideally is something that happened to the leadership or the organization, rather than something it built in any kind of goal directed way.
+**[38: 03]** Maybe it's valuable to get a couple of obvious things or more kind of clear cut of things out of the way before getting into the meat. You can't have onboarding in the culture until there’s culture, so culture is like a very bottom-up process, that for a leader is really more observational than directed. In many cases, it ideally is something that happened to the leadership or the organization, rather than something it built in any kind of goal directed way.
 
 **Seth Frey:**
 
@@ -282,23 +282,23 @@ So, there is going to be two reasons for that. Either culture building is really
 
 Onboarding, to me, it seems… I actually don't know what's the good news and what’s the bad news. If one of those is true, my gut is telling me - and what I'm learning as I talk to culture builders through interviews and informally and obviously through making my mistakes is, I think it's just a lot of work. The good news being that an organization just has to be intentional about fostering and encouraging it by hiring people like Livia. I don't know, what do you think, Livia?
 
-**Livia Deschermayer**:
+**Livia Deschermayer:**
 
 **[40:55]** Well, I think - you just said that it's very obvious, like, that culture is very obvious. I don't think it is. I think that is the main problem of… we are coming from such a wounded society that a lot of things that should be very basic for how we interact with one another seem not to be; and I think people have, including myself, many walls sometimes to interact with others or to feel vulnerable and to build meaningful connections that those connections will produce the value for what an economy might be about, and that culture is the base for any type of economic construction as well.
 
-**Livia Deschermayer**:
+**Livia Deschermayer:**
 
 **[41:55]** For any type of a value creation, you need to have some type of intentionality. And I think the more this is being brought up and more practices are being built and then people experience something here, something there, and they feel like, “Oh, this is possible, this is making me feel good. This is giving me insights. This is bringing points of reflections.” Like you mentioned earlier to have these quick iterations of like, what are some small mistakes and how can we reflect on those and what is a way of improving? Like, how many families have that? How many people had that and their own construction as human beings of like, “Oh, what happened? How can I reflect on that? How can I improve? How can I include others? How can I be more accepting and generous?” and all of these things. So, I think hopefully we're working towards making that more obvious.
 
-**Seth Frey **
+**Seth Frey**
 
-**[43:00] **That means a lot, actually. I mean, I realize there is a third option, which is the answer is both. Culture is complicated so, you need people with special training, with special skill sets if you want it to happen in your organization in a healthy, exciting, complimentary way to your rules. And it takes a lot of work, which means that the people with those special skill sets need a lot of your organization's resources and latitude in order to succeed at executing their skill set and have it actually amount to something. I guess, I think that’s the worst case scenario, in terms of A) systematic accumulation of knowledge and B) actually making it work.
+**[43:00]** That means a lot, actually. I mean, I realize there is a third option, which is the answer is both. Culture is complicated so, you need people with special training, with special skill sets if you want it to happen in your organization in a healthy, exciting, complimentary way to your rules. And it takes a lot of work, which means that the people with those special skill sets need a lot of your organization's resources and latitude in order to succeed at executing their skill set and have it actually amount to something. I guess, I think that’s the worst case scenario, in terms of A) systematic accumulation of knowledge and B) actually making it work.
 
-**Livia Deschermayer**:
+**Livia Deschermayer:**
 
 **[43:44]** Also, you mentioned now like, accumulating this systemic knowledge and from a point you were bringing about the Minecraft example too of like, having so many people in these digital spaces and having anons or people that have public identities or all mixed together and having the data perspective like, being able to gather so many data about the systems, gives this… It's like a combination of transparency with privacy, because you can see everything that's happening. You don't necessarily have people to point towards one thing or the other that happened either for better or for good.
 
-**Livia Deschermayer**:
+**Livia Deschermayer:**
 
 **[44:42]** But you have the perspective of how the system is moving according with the things that happen. So, it seems like now regaining the superpower to be able to touch on just the parts of the system that need to be improved, based on these loops that we're seeing and then change things from a systemic level and not from a personal level. So, yeah, it feels like it comes out of this, like taking things personal from a blame type of perspective, like a punishment-driven society to a more wholesome and change - like, being able to make changes in systemic levels.
 
@@ -362,11 +362,11 @@ Onboarding, to me, it seems… I actually don't know what's the good news and wh
 
 **[53:20]** Now what that means for DAO’s and what DAO’s are missing; I can go two directions: I can either pretend or not pretend like I know what I'm talking about. There's a lot to be said for pretending you know what you're talking about, but I think my first orientation and my hat in this conversation is more on the first side. I made it clear I'm still surprised and impressed that anyone in crypto space cares about this stuff, and I'm only still putting together my mental model to appreciate that if within crypto people, you're a DAO person, if you self-selected into this subspace of that larger space, then you've already got certain kind of values, commitments, ideology in place. And it still feels just so young and so early in the possibilities is so bafflingly large that I'm definitely much more in a position to learn from what's going on here than to really be able to tell you all anything.
 
-**Eugene  Leventhal:**
+**Eugene Leventhal:**
 
 **[54:30]** And unfortunately, I realize our time is slowly going to be coming to an end here, but I wanted to transition from that note to kind of flipping - and for both of you, whether it's Livia in the context of Web3 or Seth, more broadly in the context of communities, whether offline or online; and I guess really, the broader context can be for both of you because it comes back down to just such a fundamentally human coordination element to it. But what are you excited to see more experimentation towards or what kind of outcomes do you want to see people trying to shoot for when they are thinking about culture?
 
-**Eugene  Leventhal:**
+**Eugene Leventhal:**
 
 **[55:07]** If you're actually talking to someone, whether it's a researcher or someone whose job it is to build or be responsible for overseeing, building, whatever you want to call it, culture at an organization, what are the kind of things you hope those folks are saying and keeping top of mind as they do their explorations or their building?
 
@@ -376,7 +376,7 @@ Onboarding, to me, it seems… I actually don't know what's the good news and wh
 
 **Seth Frey:**
 
-**[55:37] **They can't benefit from systematic observation by a scientist. But if that's ever going to be possible, there is a fair chance it's going to be possible in DAO space. If there's a standardized technical back end, if a lot of DAOs are showing up basically with the same API in some sense at some level, and their structure is putting the importance of the culture in relief because it's so much traditional effort that got put into maintaining organizational process has been automated, then you’ve got DAOs as a perfect laboratory for the kind of systematic observation that science is capable of, and it becomes the kind of thing that's suddenly amenable to the ideal perfect form, the least bad possible form of knowledge building, which is the scientific approaches. So, my most exciting thing - you can tell I'm a scientist— is DAOs as a laboratory for gaining insights into culture building in general that have never been possible through systematic observation in any other kind of human social system. That's my dream.
+**[55:37]** They can't benefit from systematic observation by a scientist. But if that's ever going to be possible, there is a fair chance it's going to be possible in DAO space. If there's a standardized technical back end, if a lot of DAOs are showing up basically with the same API in some sense at some level, and their structure is putting the importance of the culture in relief because it's so much traditional effort that got put into maintaining organizational process has been automated, then you’ve got DAOs as a perfect laboratory for the kind of systematic observation that science is capable of, and it becomes the kind of thing that's suddenly amenable to the ideal perfect form, the least bad possible form of knowledge building, which is the scientific approaches. So, my most exciting thing - you can tell I'm a scientist— is DAOs as a laboratory for gaining insights into culture building in general that have never been possible through systematic observation in any other kind of human social system. That's my dream.
 
 **Livia Deschermayer:**
 
@@ -394,7 +394,7 @@ But yeah, I appreciate both of you taking the time to join and we will make sure
 
 So, thank you both.
 
-**Livia Deschermayer**:
+**Livia Deschermayer:**
 
 **[59:20]** Thanks, Eugene. 
 
