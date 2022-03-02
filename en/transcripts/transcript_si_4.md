@@ -33,7 +33,7 @@ This transcript was generated using the video version. The audio version timesta
 
 **Eugene Leventhal:**
 
-**[2:35]** Of course. Yeah. Thank you all for joining. And so, to kick off the conversation for today, I kind of want to start with the very high level question of, well, why is treasury hard in the first place? What is it about it that fundamentally makes it so complicated?
+**[02:35]** Of course. Yeah. Thank you all for joining. And so, to kick off the conversation for today, I kind of want to start with the very high level question of, well, why is treasury hard in the first place? What is it about it that fundamentally makes it so complicated?
 
 **Bull Trapper:**
 
@@ -77,7 +77,7 @@ This transcript was generated using the video version. The audio version timesta
 
 **Chris Berg:**
 
-**11:28** Bull, how have you found the community respond to that? I mean, that's a level of financial, I guess, sophistication or financial assurance that most protocols don't have, is that welcomed by the community or is that seen as an unnecessary constraint in the wild Web3 world?
+**[11:28]** Bull, how have you found the community respond to that? I mean, that's a level of financial, I guess, sophistication or financial assurance that most protocols don't have, is that welcomed by the community or is that seen as an unnecessary constraint in the wild Web3 world?
 
 **Bull Trapper:** 
 
