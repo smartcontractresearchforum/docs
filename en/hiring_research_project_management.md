@@ -1,6 +1,6 @@
 # SCRF Research Project Manager Job Description
 
-The Smart Contract Research Forum (SCRF) is hiring for a part-time, paid Research Project Manager (PM). SCRF has [many initiatives](https://github.com/smartcontractresearchforum/docs) on the go, so our ideal candidate will dig in, take ownership, and help the team [stay on track](https://github.com/orgs/smartcontractresearchforum/projects/4).
+The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) is hiring for a part-time, paid Research Project Manager (PM). SCRF has [many initiatives](https://github.com/smartcontractresearchforum/docs) on the go, so our ideal candidate will dig in, take ownership, and help the team [stay on track](https://github.com/orgs/smartcontractresearchforum/projects/4).
 
 ## SCRF Mission
 
