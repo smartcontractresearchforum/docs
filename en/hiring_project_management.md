@@ -1,4 +1,4 @@
-# SCRF: Project Management Project Management
+# SCRF: Project Management 
 
 ## What is SCRF?
 
