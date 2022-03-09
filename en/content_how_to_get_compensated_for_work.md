@@ -34,7 +34,7 @@ To use the Request Network system, you will need an email address and an Ethereu
 
 1. Use an Ethereum address. We recommend you use .
 2. Use an Ethereum address (SCRF recommends [MetaMask](https://metamask.io/) but you can use an exchange wallet if you plan on just transferring your funds to fiat right away)
-3. Follow the instructions given for creating an account on [Request Network](https://www.request.finance/?utm_source=website&utm_medium=requestnetwork&utm_campaign=homepage).
+3. Follow the instructions given for creating an account on [Request Network](https://app.request.finance/login).
 4. All invoices must be submitted at least 2 full working days before the end of the calendar month in order to qualify for the monthly net 30 billing cycle.
 5. Create an invoice.
     1. For your invoice currency, choose USD.
