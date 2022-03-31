@@ -1,7 +1,5 @@
 The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) has created a transcript of “SCRF Interviews | SCRF Highlights - Richard Brown and Eugene Leventhal (Ep. 7)”. For more information about the podcast, please click [here](https://www.smartcontractresearch.org/search?q=scrf%20interviews).
 
-This transcript was generated using the video version. The audio version timestamps are -20 seconds behind.
-
 **Eugene Leventhal:**
 
 **[0:07]** Hello and welcome to today's episode of SCRF Interviews. In a bit of a non-traditional one, we're changing our structure from just highlighting what research is taking place, bringing together industry practitioners and academics to taking some time to actually discuss what SCRF is all about. And we figured what better way to do that than me having a conversation with our co-founder and leader Richard Brown.
