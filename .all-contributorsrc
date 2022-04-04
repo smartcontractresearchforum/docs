@@ -55,6 +55,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "vsterling",
+      "name": "Victoria",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91158835?v=4",
+      "profile": "https://github.com/vsterling",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
