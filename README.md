@@ -28,7 +28,7 @@ The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCR
 - [Hiring - Project Manager](en/hiring_project_management.md)
 - [Hiring - Project Management Intern](en/hiring_project_management_intern.md)
 - [Hiring - Research Project Manager](en/hiring_research_project_management.md)
-- [Hiring - Social Media Manager] (en/hiring_social_media_manager.md)
+- [Hiring - Social Media Manager](en/hiring_social_media_manager.md)
 
 ## Reference Materials
 
