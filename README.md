@@ -1,6 +1,6 @@
 # SCRF Documentation
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## About Us
@@ -65,6 +65,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/eleventh19"><img src="https://avatars.githubusercontent.com/u/595464?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eugene Leventhal</b></sub></a><br /><a href="https://github.com/smartcontractresearchforum/docs/commits?author=eleventh19" title="Documentation">📖</a> <a href="#projectManagement-eleventh19" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/lw-scrf"><img src="https://avatars.githubusercontent.com/u/89587160?v=4?s=100" width="100px;" alt=""/><br /><sub><b>LW</b></sub></a><br /><a href="#maintenance-lw-scrf" title="Maintenance">🚧</a> <a href="https://github.com/smartcontractresearchforum/docs/commits?author=lw-scrf" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/marvino3"><img src="https://avatars.githubusercontent.com/u/90651952?v=4?s=100" width="100px;" alt=""/><br /><sub><b>marvino3</b></sub></a><br /><a href="https://github.com/smartcontractresearchforum/docs/commits?author=marvino3" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/vsterling"><img src="https://avatars.githubusercontent.com/u/91158835?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Victoria</b></sub></a><br /><a href="https://github.com/smartcontractresearchforum/docs/commits?author=vsterling" title="Documentation">📖</a></td>
   </tr>
 </table>
 
