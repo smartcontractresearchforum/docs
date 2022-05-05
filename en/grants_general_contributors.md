@@ -60,7 +60,7 @@ We pay from $200 to $500 USD for Research Summaries and other content types depe
 
 If you are an academic, a researcher, or an industry participant with deep insight into blockchain technologies and are comfortable with writing literature reviews, research summaries, long-form technical blog posts, or have even published original research; we would like to talk.
 
-Interested applicants should send us an [email](mailto:grants@scrf.io) that outlines:
+Interested applicants should send us an [email](mailto:content@scrf.io) that outlines:
 
 * Why you are interested in the space.
 * Which projects you are most interested in, and why.
