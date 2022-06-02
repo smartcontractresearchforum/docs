@@ -37,7 +37,7 @@ To use the Request Network system, you will need an email address and an Ethereu
 3. Follow the instructions given for creating an account on [Request Network](https://app.request.finance/login).
 4. All invoices must be submitted at least 2 full working days before the end of the calendar month in order to qualify for the monthly net 30 billing cycle.
 5. Create an invoice.
-    1. For your invoice currency, choose USD.
+    1. For your invoice currency, choose DAI.
     2. **We pay in the DAI stablecoin**. Please select it as the payment cryptocurrency.
     3. Add a new client, using the email address "invoice(at)scrf.io" as a client.
     4. Ensure that you provide your full name and your **_chat username in the memo field_**
