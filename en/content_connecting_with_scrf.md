@@ -14,7 +14,7 @@ Drop-in, introduce yourself, and tell us what brings you to SCRF in the #general
 
 ## Meetings
 
-The [Public Calendar](https://calendar.google.com/calendar/embed?src=c_45nqubmu17kcm9r1p8o5sqtte0%40group.calendar.google.com&ctz=America%2FNew_York) provides times and links to SCRF’s [Weekly Community Calls,](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_community_calls.md) Open Office Hours, and other recurring public meetings. Everyone is welcome to attend.
+The [Public Calendar]([https://calendar.google.com/calendar/embed?src=c_45nqubmu17kcm9r1p8o5sqtte0%40group.calendar.google.com&ctz=America%2FNew_York](https://calendar.google.com/calendar/u/0/embed?src=null@scrf.io&ctz=America/Los_Angeles)) provides times and links to SCRF’s [Weekly Community Calls,](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_community_calls.md) Open Office Hours, and other recurring public meetings. Everyone is welcome to attend.
 
 Public meetings are a place to hear news about SCRF, discuss blockchain topics, ask questions, and meet other members. Depending on your goals and interests, SCRF may invite you to attend other pertinent meetings.
 
