@@ -72,7 +72,7 @@ A record of payout recipients and their CredRank score.
 
 ### May 2022
 
-|User |Cred Rank |
+|User |Cred% |
 |:--- |:--- |
 | Larry-Bates | 8.30% |
 | jmcgirk | 9.10% |
