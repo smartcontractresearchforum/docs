@@ -1,5 +1,5 @@
 # SourceCred and SCRF
-A good starting point to understand the history of SourceCred at SCRF is the main Implementing SourceCred on the Forum topic. 
+A good starting point to understand the history of SourceCred at SCRF is the main [Implementing SourceCred on the Forum](https://www.smartcontractresearch.org/t/implementing-sourcecred-on-the-forum/1295) topic. 
 
 > “This tool allows a community to identify and incentivize online behaviors through reward mechanisms. As a community dedicated to connecting industry and academia in the web3 space, it seems appropriate that we implement web3 tools that allow us to accomplish our mission of facilitating and rewarding long-tail discussion and thoughtful contributions in the web3 research space.” 
 > - Paul Zube, Engagement Head SCRF
