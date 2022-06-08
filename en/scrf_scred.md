@@ -20,7 +20,7 @@ Each month you must Opt In. Please do so on the SCRF Discord Server
 - [#💲sourcecred-opt-in channel](https://discord.com/channels/784234332617048065/968202164247879730)
 
 ### Tracking CredRank
-At the end of each month the monthly [CredRank Logs](#) section of this document will be updated.
+At the end of each month the monthly [CredRank Logs](https://github.com/smartcontractresearchforum/docs/blob/main/en/scrf_scred.md#credrank-logs) section of this document will be updated.
 
 ## Monthly Payouts
 Each month, SCRF releases 5,000 DAI which is distributed to the community members who opt-in. Individual payouts are calculated based on Cred Rank and the amount of unclaimed DAI. 
