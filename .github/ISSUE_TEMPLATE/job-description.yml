@@ -1,0 +1,68 @@
+name: 💼 Job Description
+description: 
+title: "💼 Job Description"
+labels: []
+assignees:
+  - 
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this form!
+
+  - type: dropdown
+    id: vertical    
+    attributes:
+      label: JD Vertical
+      description: 
+      options:
+        - None (Default)
+        - Content
+        - Engagement
+        - Discovery
+        - Outreach
+        - Operations
+  
+  - type: dropdown
+    id: stage    
+    attributes:
+      label: Stage
+      description:
+      options:
+        - New idea proposal
+        - Working draft
+        - Request for Discovery
+        - Ready for Publication
+
+  - type: input
+    id: doc-url
+    attributes:
+      label: Link to Doc
+    validations:
+      required: true
+
+  - type: textarea
+    id: relatd-issues
+    attributes:
+      label: Related Issues
+      description: list all links to any related issues
+      
+  - type: textarea
+    id: next-steps
+    attributes:
+      label: Next Steps
+      description: Describe the next steps required to bring this forward
+
+  - type: textarea
+    id: scrf-team
+    attributes:
+      label: SCRF Team
+      description: List all SCRF team members involved with this document.
+
+  - type: input
+    id: approval-date
+    attributes:
+      label: Approval Date
+      description: By when does the approval need to be made?
+
+
