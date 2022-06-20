@@ -1,7 +1,7 @@
 name: 💼 Job Description
 description: Add a new job description
 title: "💼 Job Description"
-labels: 
+labels: []
 assignees:
   - vsterling
 body:
