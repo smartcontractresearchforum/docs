@@ -1,20 +1,14 @@
 name: 💼 Job Description
-description: 
+description: Add a new job description
 title: "💼 Job Description"
-labels: []
+labels: 
 assignees:
-  - 
+  - vsterling
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this form!
-
   - type: dropdown
     id: vertical    
     attributes:
       label: JD Vertical
-      description: 
       options:
         - None (Default)
         - Content
@@ -27,7 +21,6 @@ body:
     id: stage    
     attributes:
       label: Stage
-      description:
       options:
         - New idea proposal
         - Working draft
