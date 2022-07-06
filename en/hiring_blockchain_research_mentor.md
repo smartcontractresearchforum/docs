@@ -1,6 +1,6 @@
 # SCRF Blockchain Research Mentor
 
-The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) is hiring a part-time Blockchain Research Mentor to join the Content Team. The ideal candidate will contribute to mentoring content contributors at SCRF.
+The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) is hiring a part-time Blockchain Research Mentor to join the Content Team. The ideal candidate will contribute to mentoring content contributors at SCRF .
 
 SCRF is seeking a highly motivated individual who has insight into the state-of-the-art blockchain technology advancement, an interest in research discussions, and a passion for mentoring blockchain research enthusiasts.
 
