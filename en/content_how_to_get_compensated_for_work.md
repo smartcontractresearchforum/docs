@@ -1,6 +1,6 @@
 # How to Get Compensated for Work
 
-The [Smart Contract Research Forum](smartcontractresearch.org) (SCRF) has created “How to Get Compensated for Work” for individuals to learn about SCRF’s payment system.
+The [Smart Contract Research Forum](smartcontractresearch.org) (SCRF) has created "How to Get Compensated for Work" for individuals to learn about SCRF’s payment system.
 
 ## Overview
 
@@ -10,7 +10,7 @@ This document covers how to track hours, create an invoice, alternative payment 
 
 Anyone working for SCRF is expected to track their hours using the template sheet and process outlined below. Anyone submitting bounties or non-hours-based grants can ignore this step.
 
-* Make a copy of the [Hours Template Sheet](https://docs.google.com/spreadsheets/d/19CmaqELKS_S2gWQIs2kddA91rv5zca-51mk_sOJ0gYs/edit#gid=0) and title it ‘[Your Name] Hours’.
+* Make a copy of the [Hours Template Sheet](https://docs.google.com/spreadsheets/d/19CmaqELKS_S2gWQIs2kddA91rv5zca-51mk_sOJ0gYs/edit#gid=0) and title it '[Your Name] Hours'.
 * Track time worked in 30-minute increments on the spreadsheet copy.
 * Provide a detailed description of work completed for each line item.
 * Submit the template at the end of the month with an invoice.
