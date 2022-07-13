@@ -5,7 +5,7 @@
 
 ## Our Mission
 
-[SCRF](https://www.smartcontractresearch.org/)'s bold mission is to bring together researchers and builders to create groundbreaking web3 advancements. To succeed in this quest, SCRF facilitates resource and knowledge exchange, sponsors projects, and constructs collaborative forums. SCRF is comprised of an active international network of academics, industry architects, and desci advocates.
+[SCRF](https://www.smartcontractresearch.org/)'s bold mission is to bring together researchers and builders to create groundbreaking web3 advancements. To succeed in this quest, SCRF facilitates resource and knowledge exchange, sponsors projects, and constructs collaborative forums. SCRF is comprised of an active international network of academics, industry architects, and blockchain advocates.
 
 ## About SCRF
 
