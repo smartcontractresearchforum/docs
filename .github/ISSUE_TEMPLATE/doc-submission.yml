@@ -1,0 +1,11 @@
+name: 💼 Document Submission
+description: Add a new document to the doc repo
+title: "💼 Document Submission"
+assignees:
+  - vsterling
+body:
+  - type: textarea
+    id: text
+    attributes:
+      label: Document Details
+      description: Please include the URL to the document source
