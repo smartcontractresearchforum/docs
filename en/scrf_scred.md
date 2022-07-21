@@ -70,6 +70,36 @@ Second Friday of each month
 
 A record of payout recipients and their CredRank score.
 
+### June 2022
+
+|User |Cred% |
+|:--- |:--- |
+| JamesMcG | 9.40% |
+| Larry_Bates |	8.00% |
+| rlombreglia |	3.50% |
+| Valeriespina | 1.40% |
+| jyezie | 1.30% |
+| Fizzymidas | 1.30% |
+| Tolulope | 0.80% |
+| Samuel94 | 0.50% |
+| brian-alexakis-discourse | 0.50% |
+| ttaloute | 0.30% |
+| kingdamieth |	0.30% |
+| UmarKhanEth |	0.20% |
+| tomideadeoye | 0.20% |
+| elbeth | 0.10% |
+| Sami_B | 0.00% |
+| parseb | 0.00% |
+| notthatintodefi |	0.00% |
+| Marta_Crinejo | 0.00% |
+| Liberty |	0.00% |
+| ivanplazacic | 0.00% |
+| Ines_Santos_Silva | 0.00% |
+| Hermes_Corp |	0.00% |
+| GUA |	0.00% |
+| Gift82822546 | 0.00% |
+| Freakytainment | 0.00% |
+
 ### May 2022
 
 |User |Cred% |
