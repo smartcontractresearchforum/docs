@@ -17,8 +17,8 @@
 
 ## Contributor Resources
 
-- [Writing and Style Guide](en/reference_style_guide.md)
-- [Research Improvement Proposal](en/project_research_improvement_proposal.md)
+- [Writing Style Guide](en/reference_style_guide.md)
+- [Project Proposal Template](en/project_proposal_template.md)
 - [Research Improvement Process](en/process_research_improvement_proposal.md)
 - [Brand Assets](https://github.com/smartcontractresearchforum/docs/tree/main/assets/brand)
 
