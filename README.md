@@ -38,7 +38,9 @@
 
 ## Open Positions
 
-- [Hiring - Community Lead](en/hiring_community_lead.md)
+-  [Hiring - Blockchain Research Mentor](en/hiring_blockchain_research_mentor.md)
+-  [Hiring - Content Project Manager](en/hiring_content_project_manager.md)
+-  [Hiring - Community Lead](en/hiring_community_lead.md)
 
 ## Contributors ✨
 
