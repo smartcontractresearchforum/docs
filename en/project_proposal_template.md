@@ -14,11 +14,6 @@ Create a ticket or board in [GitHub](https://github.com/smartcontractresearchfor
 
 Link any related documents for this project here. This may include process docs, templates, resources, pilot brainstorms, etc.
 
-Examples:
-* [SCRF Project Proposal - DevCon VI Research Community Hub](https://docs.google.com/document/d/1BC4uG4Bnwq1Gz56fzedV8o3Wb58-KJRTN3cV1-99nSo/edit?usp=sharing)
-* [SCRF Reading Group Project Proposal](https://docs.google.com/document/d/1BjsOH_9e1_gzFLoWCJrwnfAOq_Y5zFlREdhZNu7zEuE/edit?usp=sharing)
-* [SCRF.io Portal Project Plan](https://docs.google.com/document/d/1dZl-3wXLCW5N0OORUtV5CegMx7-TBYAp0ExbuBDSL0U/edit?usp=sharing)
-
 ## Project Vision
 
 Describe in a paragraph the overall idea of the project, the vision, and who this would benefit. Include details about the high-level activities and outcomes.
