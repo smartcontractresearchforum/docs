@@ -1,6 +1,6 @@
-# SCRF Content Project Manager Job Description
+# SCRF Engagement Moderator Job Description
 
-The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) is hiring a part-time Content Project Manager to serve on the Engagement Team. This role will be responsible for driving engagement to and within the forum on select topic areas.
+The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) is hiring a part-time Engagement Moderator to serve on the Engagement Team. This role will be responsible for driving engagement to and within the forum on select topic areas.
 
 ## SCRF Mission
 
