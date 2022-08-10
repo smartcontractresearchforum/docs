@@ -17,7 +17,7 @@ The main focus of the role is to drive engagement on the forum through thoughtfu
 
 ## Responsibilities
 
-The Content Specialist will be expected to:
+The Engagement Moderator will be expected to:
 
 * Execute Go-to-Markets on research summaries in areas of expertise and/or interest
 * Identify trending threads to assist in marketing announcements on chat
