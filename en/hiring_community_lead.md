@@ -1,6 +1,6 @@
-# SCRF Community Lead Job Description
+# SCRF Community Manager Job Description
 
-The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) is hiring a part-time, paid Community Lead to join our Community Team. This role will oversee SCRF’s community, support community event planning, and propose new interactions beyond the SCRF community while engaging with an active international community in our chat. 
+The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) is hiring a part-time, paid Community Manager to join our Community Team. This role will support SCRF’s community, support community event planning, and propose new interactions beyond the SCRF community while engaging with an active international community in our chat. 
 
 ## SCRF Mission
 
@@ -8,7 +8,7 @@ SCRF is a premier, open discourse hub dedicated to web3 advancement with tools i
 
 ## Role Summary
 
-SCRF is seeking highly motivated individuals who are curious about blockchain technologies and find satisfaction in growing engaged communities. The main focus of the role is to help with community management and create social media.
+SCRF is seeking highly motivated individuals who are curious about blockchain technologies and find satisfaction in growing engaged communities. The main focus of the role is to help with community management.
 
 ## Responsibilities
 
