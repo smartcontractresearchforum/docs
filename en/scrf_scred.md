@@ -73,39 +73,38 @@ A record of payout recipients and their CredRank score.
 ### July 2022
 |User |Cred% |
 |:--- |:--- |
-
-| jyezie |	1.30% |
-| Larry |-Bates	7.70% |
+| jyezie | 1.30% |
+| Larry-Bates |	7.70% |
 | jmcgirk |	9.50% |
-| valeriespina |	1.40% |
-| Fizzymidas |	1.40% |
+| valeriespina | 1.40% |
+| Fizzymidas | 1.40% |
 | UmarKhanEth |	0.30% |
 | kingdamieth |	0.30% |
-| Hermes |-Corp	0.60% |
-| Woodrow |-Jackson	0.20% |
+| Hermes-Corp |	0.60% |
+| Woodrow-Jackson |	0.20% |
 | rlombreglia |	3.50% |
-| Austin |-jul	0.30% |
-| Tolulope |	0.90% |
+| Austin-jul |0.30% |
+| Tolulope | 0.90% |
 | Ulysses |	0.30% |
-| Samuel94 |	0.50% |
-| Sami |-B	0.60% |
-| brian |-alexakis-discourse	0.40% |
+| Samuel94 | 0.50% |
+| Sami-B | 0.60% |
+| brian-alexakis-discourse | 0.40% |
 | liberty7369 |	0.00% |
-| Ines_Santos_Silva |	0.00% |
+| Ines_Santos_Silva | 0.00% |
 | notthatintodefi |	0.00% |
-| Mr |-Nobody	0.30% |
-| Elbeth |	0.10% |
-| ivanplazacic |	0.00% |
-| osapeter |	0.00% |
-| Gift82822546 |	0.00% |
-| Freakytainment |	0.10% |
-| Harvesto |	0.20% |
-| adegbenga_iyinpemi |	0.00% |
-| Onah | chiebonam David	0.00% |
-| s |-ben	0.20% |
-| WaterLily |	0.00% |
-| Twan |	2.20% |
-| LTTOguns |	0.30% |
+| Mr-Nobody | 0.30% |
+| Elbeth | 0.10% |
+| ivanplazacic | 0.00% |
+| osapeter | 0.00% |
+| Gift82822546 | 0.00% |
+| Freakytainment | 0.10% |
+| Harvesto | 0.20% |
+| adegbenga_iyinpemi | 0.00% |
+| Onah chiebonam David | 0.00% |
+| s-ben | 0.20% |
+| WaterLily | 0.00% |
+| Twan | 2.20% |
+| LTTOguns | 0.30% |
 | GloriaOkoba |	0.30% |
 
 ### June 2022
