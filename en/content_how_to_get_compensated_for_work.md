@@ -21,12 +21,11 @@ To submit a Request invoice:
 2. Select DAI stablecoin as the payment cryptocurrency.
 3. Add a new client using the email address invoice@scrf.io.
 4. Complete further details with the following information:
-```
-  Smart Contract Research Forum
-  1250 Broadway
-  36th Fl
-  10001 New York
-```   
+  > Smart Contract Research Forum
+   1250 Broadway
+   36th Fl
+   10001 New York
+   
 5. Provide full name and chat username in the memo field.
 6. Attach a copy of [Your Name] [Hours Template Sheet](https://docs.google.com/spreadsheets/d/1pXZlO_mxAbKQ-0gifylb2chdUuU3OniBWllryJ48RAM/edit?usp=sharing) or provide a link to the sheet.
     * For anyone submitting bounties, it is not required to submit hours but please include a link to your submission.
@@ -41,7 +40,7 @@ Anyone submitting bounties or non-hours-based grants can ignore this step. Anyon
 * Provide a detailed description of work completed for each line item
 * Submit the template at the end of the month with an invoice
 
-## Compensation & Logistics
+## Compensation and Logistics
 
 If unable to accept funds directly, alternative compensation options may include:
 
