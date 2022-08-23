@@ -42,11 +42,17 @@ SCRF is looking for candidates who have:
 
 ## How to Apply 
 
-To apply, please email [onboarding@scrf.io](mailto:onboarding@scrf.io) and include:
+To apply for this role, please either email [work@scrf.io](mailto:work@scrf.io) or join SCRF's chat and follow the instructions below. Further application instructions are available on [💲start-here](https://discord.com/channels/784234332617048065/962841663246585896) and [🚅start-here](https://discord.com/channels/784234332617048065/968215614550323210) channels.
 
-* CV/resume
-* A short blurb (1-2 paragraphs) about why you’re interested
-* Links to previous work, Github, etc.
+To begin the application process:
+
+1. Join SCRF's [chat](https://discord.gg/vNmbPmYEwj).
+2. Use the [🎫apply-here](https://discord.com/channels/784234332617048065/968212285178916914) channel to start an application.
+3. Click on "Start Application".
+4. Follow the prompts, include the name of the role and a link to a CV, resume, or portfolio.
+5. Submit a blurb (1-2 paragraphs) about why you are interested in this position.
+
+The Onboarding and Hiring Teams will respond to the application with next steps to start working with SCRF. Reach out to [onboarding@scrf.io](mailto:onboarding@scrf.io) with any additional questions.
 
 ## Learn More About SCRF
 
