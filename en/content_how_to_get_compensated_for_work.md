@@ -28,7 +28,7 @@ SCRF pays contributors by the hour. Hours are tracked in [a spreadsheet](https:/
 
 ## Invoicing and Payment System
 
-SCRF pays invoices once per month at the end of the month. **_All invoices are due two business days before the end of the month._** If you forget to include an item, add it to your next invoice with a description. SCRF uses Request Network for payments. SCRF may process another round of payments mid-month (on the 15th) as needed as well. 
+SCRF pays invoices once per month at the end of the month. **_All invoices are due five business days before the end of the month._** If you forget to include an item, add it to your next invoice with a description. SCRF uses Request Network for payments. SCRF may process another round of payments mid-month (on the 15th) as needed as well. 
 
 To use the Request Network system, you will need an email address and an Ethereum wallet.
 
