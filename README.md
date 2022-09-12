@@ -13,6 +13,7 @@
 
 ## Getting Started
 
+- [How to Contribute](en/grants_general_contributors.md)
 - [How to Get Compensated](en/content_how_to_get_compensated_for_work.md)
 
 ## Contributor Resources
@@ -31,7 +32,6 @@
 ## Grants, Bounties, and Awards
 
 - [Impact Award](en/grants_impact_award.md)
-- [Research Summary Grant](en/grants_general_contributors.md)
 - [Pan-African Microgrants](en/grants_pan_african.md)
 - [Contributor Recognition and Rewards Initiative](en/grants_contributor_rewards.md)
 
