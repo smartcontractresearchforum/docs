@@ -1,4 +1,4 @@
-# How to apply for a Research Summary Grant from the Smart Contract Research Forum
+# How to Contribute
 
 ## What is SCRF?
 
@@ -7,14 +7,6 @@ The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCR
 Supporting blockchain research takes global coordination, carefully balanced incentives, a stream of novel research, strong editorial independence, and a critical mass of dedicated and professional forum moderators.
 
 We believe the forum will pay dividends for academia, industry, and emerging blockchain technologies. Concentrating unbiased blockchain research into a single, _chain-agnostic, civil, and trustworthy space_ accelerates existing work in the field. It sparks the kind of collaborations between academia and industry that created the modern Internet.
-
-## Our Researchers
-
-Our core research team, the _Researchers_, have committed to working at least 10 hours a week and attending regular weekly meetings. Generally, Researchers each represent a larger group of individuals such as a university blockchain club, company, or university and tend to have a Ph.D or are pursuing one. They have successfully published numerous research summaries for SCRF.
-
-Researchers who prefer occasional work and fewer meetings are referred to as _Research Associates_. There are no commitments required for being a Research Associate other than maintaining a light presence in our Chat and forum and occasionally contributing a comment or summary to SCRF. Research Associates who have completed several research summaries may be invited to become Researchers.
-
-To make SCRF the most compelling crypto-focused forum, we recognize that we have to compensate you for your time and expertise. **All work for SCRF is compensated.**
 
 ## What we are looking for
 
@@ -50,7 +42,7 @@ We pay depending on the complexity of the work and the time involved. Researcher
 
 ## How we Communicate
 
-**Chat:** We use our [#general chat](https://discord.com/channels/784234332617048065/784234333111451670) for discussions about content, blockchain-related events, coordination, and project planning.
+**Chat:** We use our [#general chat](https://discord.gg/cRVjvJYybX) for discussions about content, blockchain-related events, coordination, and project planning.
 
 **Project Management:** All the work that SCRF produces is created collaboratively in a [public document pipeline](https://github.com/orgs/smartcontractresearchforum/projects/5). Please feel free to look around.
 
@@ -71,4 +63,4 @@ Please feel free to come and introduce yourself in our [Chat](https://discord.gg
 
 Another great way to introduce yourself to us is to find a thread on the [SCRF website](https://www.smartcontractresearch.org/) and add a well-reseasoned or insightful comment to one of the discussions.
 
-If you would like to get some deeper insight into how we do work and what we have on the go, you can also have a look at our [public board](https://github.com/orgs/smartcontractresearchforum/projects/5).
+If you would like to get some deeper insight into how we do work and what we have on the go, you can also have a look at our [project boards](https://github.com/orgs/smartcontractresearchforum/projects).
