@@ -46,7 +46,7 @@ If you are unable to accept direct payments because of your university or fundin
 * credits for compute resources, archive nodes, etc
 * supporting a blockchain-related organization or event of your choice
 
-We pay from $200 to $500 USD for Research Summaries and other content types depending on the complexity of the work and the time involved. Researchers that commit to longer-term engagements, and have produced a good body of work for the forum, are encouraged to seek additional and more lucrative responsibilities.
+We pay depending on the complexity of the work and the time involved. Researchers that commit to longer-term engagements, and have produced a good body of work for the forum, are encouraged to seek additional and more lucrative responsibilities.
 
 ## How we Communicate
 
