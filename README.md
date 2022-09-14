@@ -36,12 +36,6 @@
 - [Contributor Recognition and Rewards Initiative](en/grants_contributor_rewards.md)
 
 
-## Open Positions
-
--  [Hiring - Blockchain Research Mentor](en/hiring_blockchain_research_mentor.md)
--  [Hiring - Engagement Moderator](en/hiring_content_project_manager.md)
--  [Hiring - Community Manager](en/hiring_community_lead.md)
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
