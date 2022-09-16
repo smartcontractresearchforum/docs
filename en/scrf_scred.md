@@ -70,6 +70,52 @@ Second Friday of each month
 
 A record of payout recipients and their CredRank score.
 
+### August 2022
+| User |Cred% |
+|:--- |:--- |
+| jmcgirk |	8.80% |
+| Larry_Bates |	7.20% |
+| rlombreglia |	3.20% |
+| Twan | 2.20% |
+| Fizzymidas | 1.30% |
+| Valeriespina | 1.30% |
+| jyezie | 1.20% |
+| Tolulope | 1.20% |
+| Ulysses | 0.90% |
+| Samuel94 | 0.90% |
+| Harvesto | 0.70% |
+| UmarKhanEth |	0.60% |
+| Freakytainment |0.60% |
+| Hermes-Corp |	0.60% |
+| GloriaOkoba |	0.50% |
+| brian-alexakis-discourse | 0.40% |
+| s-ben | 0.40% |
+| kingdamieth |	0.40% |
+| LTTOguns | 0.30% |
+| Henry | 0.30% |
+| Favvz | 0.20% |
+| parseb | 0.20% |
+| WaterLily | 0.20% |
+| Angle | 0.10% |
+| notthatintodefi | 0.10% |
+| Dansmage | 0.10% |
+| kdouglass |  0.10% |
+| chrisarch | 0.10% |
+| Sami_B | 0 |
+| nicklinck | 0 |
+| liberty7369 | 0 |
+| austin_jul | 0 |
+| J_Fraizer | 0 |
+| Gift82822546 | 0 |
+| Nicolasdamiens |  0 |
+| Idara_Effiong | 0 |
+| ivanplazacic | 0 |
+| Cunningham412 | 0 |
+| adegbenga_iyinpemi | 0 |
+| BenjaminMukoro | 0 |
+| MaryJude | 0 |
+| Never_in_trenches | 0 |
+
 ### July 2022
 |User |Cred% |
 |:--- |:--- |
