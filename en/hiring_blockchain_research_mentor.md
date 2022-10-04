@@ -45,7 +45,7 @@ Work at SCRF includes:
 
 ## How to Apply
 
-To apply for this role, please join SCRF's chat and follow the instructions below. Further application instructions are available on [💲start-here](https://discord.com/channels/784234332617048065/962841663246585896) and [🚅start-here](https://discord.com/channels/784234332617048065/968215614550323210) channels.
+To apply for this role, please either email [work@scrf.io](mailto:work@scrf.io) or join SCRF's chat and follow the instructions below. Further application instructions are available on [💲start-here](https://discord.com/channels/784234332617048065/962841663246585896) and [🚅start-here](https://discord.com/channels/784234332617048065/968215614550323210) channels.
 
 To begin the application process:
 

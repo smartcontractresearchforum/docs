@@ -64,7 +64,3 @@ Key reminders:
 * Group together payments from multiple bounties
 
 To learn about work opportunities at SCRF, look for announcements on the [forum](https://www.smartcontractresearch.org/), join the [💲start-here](https://discord.com/channels/784234332617048065/962841663246585896) channel, or look on GitHub for [open positions](https://github.com/smartcontractresearchforum/docs#open-positions).
-
-## Learn More About SCRF
-
-SCRF is an interactive forum supported by an active international community. SCRF's members work together to advance actionable blockchain research. [Learn](https://github.com/smartcontractresearchforum/docs)<span style="text-decoration:underline;"> </span>more about SCRF and discover ways to [get involved](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_connecting_with_scrf.md).
