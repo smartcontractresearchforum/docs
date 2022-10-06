@@ -40,7 +40,7 @@ Anyone submitting bounties or non-hours-based grants can ignore this step. Anyon
 * Make a copy of the [Hours Template Sheet](https://docs.google.com/spreadsheets/d/1pXZlO_mxAbKQ-0gifylb2chdUuU3OniBWllryJ48RAM/edit?usp=sharing) and title it '[Your Name] Hours'
 * Track time worked in 30-minute increments on the spreadsheet copy
 * Provide a detailed description of work completed for each line item
-* Submit the template at the end of the month with an invoice
+* Submit or share your hours with your supervisor for approval before you submit your invoice 
 
 ## Compensation and Logistics
 
@@ -63,7 +63,7 @@ Key reminders:
 * Check the chat for any announcements such as holidays that impact the invoice due date
 * The pay rate varies according to the complexity and time requirements of assignments
 * Only submit one invoice per billing cycle, even if both hourly and grant work was completed
-* Group together payments from multiple bounties
+* Group payments together from multiple bounties
 
 To learn about work opportunities at SCRF, look for announcements on the [forum](https://www.smartcontractresearch.org/), check the [project board](https://github.com/orgs/smartcontractresearchforum/projects/4) for active initiatives that may be of interest, join the [💲start-here](https://discord.com/channels/784234332617048065/962841663246585896) channel, or look on GitHub for [open positions](https://github.com/smartcontractresearchforum/docs#open-positions).
 
