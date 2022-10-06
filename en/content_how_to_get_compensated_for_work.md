@@ -8,7 +8,9 @@ This document covers how to create an invoice, track hours, alternative payment 
 
 ## Invoicing and Payment System
 
-SCRF officially pays invoices at the end of each month, after the work has been performed and billed. In certain situations, SCRF may process another round of payments mid-month. **All invoices are due five full business days before the end of the month**. Any billable hours for the month that were forgotten or performed after the invoice was submitted can be added to the next invoice with a description. SCRF uses Request Network for all payments.
+SCRF officially pays invoices at the end of each month, after the work has been performed and billed. In certain situations, SCRF may process another round of payments mid-month. **All invoices are due five full business days before the end of the month. Please submit your hours for approval before submitting your invoice.**
+
+Any billable hours for the month that were forgotten or performed after the invoice was submitted can be added to the next invoice with a description. SCRF uses Request Network for all payments.
 
 How to get set up:
 
@@ -63,4 +65,7 @@ Key reminders:
 * Only submit one invoice per billing cycle, even if both hourly and grant work was completed
 * Group together payments from multiple bounties
 
-To learn about work opportunities at SCRF, look for announcements on the [forum](https://www.smartcontractresearch.org/), join the [💲start-here](https://discord.com/channels/784234332617048065/962841663246585896) channel, or look on GitHub for [open positions](https://github.com/smartcontractresearchforum/docs#open-positions).
+To learn about work opportunities at SCRF, look for announcements on the [forum](https://www.smartcontractresearch.org/), check the [project board](https://github.com/orgs/smartcontractresearchforum/projects/4) for active initiatives that may be of interest, join the [💲start-here](https://discord.com/channels/784234332617048065/962841663246585896) channel, or look on GitHub for [open positions](https://github.com/smartcontractresearchforum/docs#open-positions).
+
+## Learn More About SCRF
+SCRF is an interactive forum supported by an active international community. SCRF’s members work together to advance actionable blockchain research. [Learn more about SCRF](https://github.com/smartcontractresearchforum/docs) and discover ways to [get involved](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_connecting_with_scrf.md).
