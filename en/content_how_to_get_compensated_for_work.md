@@ -1,6 +1,6 @@
 # How to Get Compensated for Work
 
-The [Smart Contract Research Forum](http://smartcontractresearch.org) (SCRF) created How to Get Compensated for Work to guide contributors through SCRF's payment system.
+The [Smart Contract Research Forum](http://smartcontractresearch.org) (SCRF) created a 'How to Get Compensated for Work' guide to help SCRF contributors navigate the payment system.
 
 ## Overview
 
