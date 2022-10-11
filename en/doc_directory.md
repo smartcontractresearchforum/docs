@@ -11,7 +11,7 @@ SCRF's Document Directory is a comprehensive guide of all SCRF documentation.
 
 ## Events
 
-* [Weekly Community Calls](en/content_community_calls)
+* [Weekly Community Calls](content_community_calls.md)
 
 ## Contributor Resources
 
