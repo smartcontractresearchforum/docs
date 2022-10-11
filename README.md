@@ -22,6 +22,7 @@
 - [Research Improvement Proposal](en/project_research_improvement_proposal.md)
 - [Research Improvement Process](en/process_research_improvement_proposal.md)
 - [Brand Assets](https://github.com/smartcontractresearchforum/docs/tree/main/assets/brand)
+- [Docs Directory](en/doc_directory.md)
 
 ## Forum
 
@@ -59,6 +60,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-- [Docs Directory](en/doc_directory.md)
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
