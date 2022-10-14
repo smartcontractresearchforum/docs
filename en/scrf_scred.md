@@ -77,7 +77,6 @@ A record of payout recipients and their CredRank score.
 
 | User |Cred% |
 |:--- |:--- |
-| jmcgirk |	8.80% |
 | JamesMcG | 8.40% |
 | Larry-Bates | 6.70% |
 | Twan | 2.20% |
