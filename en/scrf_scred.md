@@ -70,7 +70,72 @@ Second Friday of each month
 
 A record of payout recipients and their CredRank score.
 
-### August 2022
+## September 2022
+
+<details>
+    <summary> Open Table</summary>
+
+| User |Cred% |
+|:--- |:--- |
+| jmcgirk |	8.80% |
+| JamesMcG | 8.40% |
+| Larry-Bates | 6.70% |
+| Twan | 2.20% |
+| Ulysses | 1.40% |
+| Fizzymidas | 1.20% |
+| Samuel94 | 1.10% |
+| Harvesto | 0.90% |
+| Freakytainment | 0.70% |
+| Henry | 0.70% |
+| UmarKhanEth | 0.60% |
+| Hermes-Corp | 0.60% |
+| cashkid18 | 0.60% |
+| GloriaOkoba | 0.60% |
+| s-ben | 0.50% |
+| kingdamieth | 0.50% |
+| Angle | 0.40% |
+| brian-alexakis | 0.40% |
+| LTTOguns | 0.30% |
+| ttaloute | 0.30% |
+| WaterLily | 0.30% |
+| Chrisarch | 0.30% |
+| ode | 0.20% |
+| Gift82822546 | 0.10% |
+| ivanplazacic | 0.10% |
+| BenjaminMukoro | 0.10% |
+| Yeoriton56 | 0.10% |
+| charliecodes | 0.00% |
+| Max | 0.00% |
+| nicklinck | 0.00% |
+| liberty7369 | 0.00% |
+| austin_jul | 0.00% |
+| 0xsimo | 0.00% |
+| J_Fraizer | 0.00% |
+| Nicolasdamiens | 	0.00% |
+| Idara_Effiong | 0.00% |
+| D4th | 0.00% |
+| Kvngdrvy | 0.00% |
+| Cunningham412 | 0.00% |
+| Iyinpemi | 0.00% |
+| Mansion | 0.00% |
+| MaryJude | 0.00% |
+| Never_in_trenches | 0.00% |
+| MaryDee | 0.00% |
+| Lisayanky | 0.00% |
+| Rukku_l | 0.00% |
+| Smasherworldwide | 0.00% |
+| Humphery | 0.00% |
+| adegbenga_iyinpemi | 0.00% |
+
+
+</details>
+</br>
+
+## August 2022
+
+<details>
+    <summary> Open Table</summary>
+
 | User |Cred% |
 |:--- |:--- |
 | jmcgirk |	8.80% |
@@ -116,7 +181,14 @@ A record of payout recipients and their CredRank score.
 | MaryJude | 0 |
 | Never_in_trenches | 0 |
 
-### July 2022
+</details>
+<br>
+
+## July 2022
+
+<details>
+    <summary> Open Table</summary>
+
 |User |Cred% |
 |:--- |:--- |
 | jmcgirk	| 9.50% |
@@ -153,7 +225,13 @@ A record of payout recipients and their CredRank score.
 | Onah chiebonam David	| 0.00% |
 | WaterLily	| 0.00% |
 
-### June 2022
+</details>
+<br>
+
+## June 2022
+
+<details>
+    <summary> Open Table</summary>
 
 |User |Cred% |
 |:--- |:--- |
@@ -183,7 +261,13 @@ A record of payout recipients and their CredRank score.
 | Gift82822546 | 0.00% |
 | Freakytainment | 0.00% |
 
-### May 2022
+</details>
+<br>
+
+## May 2022
+
+<details>
+    <summary> Open Table</summary>
 
 |User |Cred% |
 |:--- |:--- |
@@ -204,8 +288,4 @@ A record of payout recipients and their CredRank score.
 | Sami_B | 0.00% |
 | brian-alexakis-discourse | 0.50% |
 
-
-
-
-
-
+</details>
