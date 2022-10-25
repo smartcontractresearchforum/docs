@@ -19,10 +19,10 @@
 
 ## Contributor Resources
 
-- [SCRF GitHub Issue Form Directory](issue_forms_directory.md)
 - [Writing Style Guide](en/reference_style_guide.md)
 - [Brand Assets](https://github.com/smartcontractresearchforum/docs/tree/main/assets/brand)
 - [Docs Directory](en/doc_directory.md)
+- [SCRF GitHub Issue Form Directory](issue_forms_directory.md)
 
 ## Forum
 
