@@ -2,6 +2,9 @@
 
 SCRF's Document Directory is a comprehensive guide of all SCRF documentation.
 
+# About SCRF
+* [Mission and Principles](mission_and_principles.md)
+
 ## Awards, Bounties, Grants
 
 * [Research Summary Grants](grants_general_contributors.md)
@@ -26,10 +29,17 @@ SCRF's Document Directory is a comprehensive guide of all SCRF documentation.
 * [Mini-Posts](content_mini_post_template.md)
 * [Notable Works](content_notable_works_template.md)
 
+## SCRF Documentation
+
+* [Converting Google Docs to Markdown](converting_google_docs_to_markdown.md)
+
 ## Web3 Reference Materials
 
 * [Notable Works](content_notable_works.md)
 * [Terms Glossary](reference_terms_glossary.md)
 
 ## SCRF Reference Materials
+
 * [Writing Style Guide](reference_style_guide.md)
+
+## Archive

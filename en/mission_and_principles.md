@@ -1,0 +1,17 @@
+# Mission and Principles
+The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) has created a Mission and Principles guide to help anyone describing or referring to SCRF to have access to the latest messaging. 
+
+## Mission
+
+[SCRF](https://www.smartcontractresearch.org)'s bold mission is to bring together researchers and builders to create groundbreaking web3 advancements through actionable research. To succeed in this quest, SCRF facilitates resource and knowledge exchange, sponsors projects, and constructs collaborative forums. SCRF is comprised of an active international network of academics, industry architects, and blockchain advocates.
+
+SCRF was founded in early 2021 by [Richard Brown](https://www.linkedin.com/in/richardgbrown/), former Head of Community at [MakerDAO](https://makerdao.com/en/), and [Sergey Nazarov](https://www.linkedin.com/in/sergeydnazarov/), the co-founder of [Chainlink](https://chain.link/). Since its inception, SCRF has sponsored notable research projects such as [Professor Seth Frey](https://twitter.com/enfascination)’s literature review on [building culture across disciplines](https://www.smartcontractresearch.org/t/project-update-building-culture-in-decentralized-organizations-intentionally-and-systematically/1358), Metagov’s Govbase [open database project](https://www.smartcontractresearch.org/t/introducing-govbase-an-open-database-for-governance-models/924), [Professor Nathan Schneider](https://twitter.com/ntnsndr)’s [CommunityRule](https://www.smartcontractresearch.org/t/introducing-the-exit-to-community-collective/1246) and [Modpol](https://www.smartcontractresearch.org/t/modpol-is-a-self-governance-toolkit-for-communities-in-online-worlds/1195) projects, and [TalentDAO](https://twitter.com/talentDAO_)’s research on exploring [leadership patterns in DAOs](https://www.smartcontractresearch.org/t/proposal-leadership-in-decentralized-organizations-principles-and-practices/1293). SCRF has also provided support to the [CMU Cryptography Seminar](https://twitter.com/cmucrypto), helped organize a [mini-conference on DeSci](https://opscientia.notion.site/DeSci-EthDenver-21-c74fc532cccc4979b9cf7977b4ee17ea) with Foresight Institute and OpSci at ETHDenver 2022, and co-organized the first DeSci Day in Amsterdam in April 2022 with DeSci Labs/Foundation, VitaDAO, Molecule, LabDAO, Foresight Institute, and Science Coins. 
+## Principles
+1. Access to research should be open and accessible to academics and practitioners alike.
+2. Research should be directly connected  to real-world problems, which is why we facilitate the implementation and usability of research. 
+3. Frequently, knowledge creation isn’t properly incentivized. At SCRF, we provide academics and practitioners ample opportunities to receive compensation for amplifying their research and sharing their thoughts and opinions.
+4. Anyone with the drive and desire should be able to contribute meaningfully to research. 
+5. Important conversations are created around research. That is why we built the Forum. We want to hear what you think, what relevant context an author did not cover, and what are the potential future implications.
+## Learn More About SCRF
+
+The Smart Contract Research Forum (SCRF) is a grants-funded organization dedicated to advancing research while serving the web3 space. [Learn](https://github.com/smartcontractresearchforum/docs) more about SCRF, and discover ways to [get involved](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_connecting_with_scrf.md).
