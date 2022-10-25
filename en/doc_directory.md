@@ -19,7 +19,7 @@ SCRF's Document Directory is a comprehensive guide of all SCRF documentation.
 ## Transcripts
 
 * [SCRF Governance Implementation Panel Transcript](transcripts/scrf_governance_implementation_panel_transcript.md)
-
+* [SCRF Privacy and SNARKS Panel Transcript](transcripts/scrf_privacy_and_snarks_panel_transcript.md)
 
 ## Contributor Resources
 
