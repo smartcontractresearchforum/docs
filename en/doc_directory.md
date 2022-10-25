@@ -16,6 +16,11 @@ SCRF's Document Directory is a comprehensive guide of all SCRF documentation.
 
 * [Weekly Community Calls](content_community_calls.md)
 
+## Transcripts
+
+* [SCRF Governance Implementation Panel Transcript](transcripts/scrf_governance_implementation_panel_transcript.md)
+
+
 ## Contributor Resources
 
 * [How to Get Compensated for Work](content_how_to_get_compensated_for_work.md)
