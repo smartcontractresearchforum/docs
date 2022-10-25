@@ -19,15 +19,12 @@
 ## Contributor Resources
 
 - [Writing Style Guide](en/reference_style_guide.md)
-- [Research Improvement Proposal](en/project_research_improvement_proposal.md)
-- [Research Improvement Process](en/process_research_improvement_proposal.md)
 - [Brand Assets](https://github.com/smartcontractresearchforum/docs/tree/main/assets/brand)
 - [Docs Directory](en/doc_directory.md)
 
 ## Forum
 
-- [Research Summary Grant](en/grants_general_contributors.md)
-- [Web3 Terms Glossary](en/reference_terms_glossary.md)
+- [Web3 Glossary](en/reference_terms_glossary.md)
 
  
 ## Grants, Bounties, and Awards
@@ -35,7 +32,7 @@
 - [Impact Award](en/grants_impact_award.md)
 - [Pan-African Microgrants](en/grants_pan_african.md)
 - [Contributor Recognition and Rewards Initiative](en/grants_contributor_rewards.md)
-
+- [Research Summary Grant](en/grants_general_contributors.md)
 
 ## Contributors ✨
 
