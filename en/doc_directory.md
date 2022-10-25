@@ -28,7 +28,7 @@ SCRF's Document Directory is a comprehensive guide of all SCRF documentation.
 * [How to Get Compensated for Work](content_how_to_get_compensated_for_work.md)
 * [Research Improvement Process](process_research_improvement_proposal.md)
 * [Research Improvement Proposal](project_research_improvement_proposal.md)
-* [SCRF GitHub Issue Requests Directory](issue_forms_directory.md)
+* [GitHub Issue Requests Directory](issue_forms_directory.md)
 
 ## Forum Templates
 
