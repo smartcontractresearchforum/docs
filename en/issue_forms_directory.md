@@ -53,4 +53,4 @@ For the latest please see the [Full List of Docs Issue Forms](https://github.com
 
 For the latest please see the [Full List of Operations Issue Forms](https://github.com/smartcontractresearchforum/operations/issues/new/choose).
 
-- [Project Proposal](https://github.com/smartcontractresearchforum/operations/issues/new?assignees=&labels=Ops%3A+Proposal&template=Project+Proposal+form.yml&title=%5BProposal%5D%3A+) - Please use this form to propose your project for review. The decision of the review will be communicated to you.
+- [Project Proposal](https://github.com/smartcontractresearchforum/operations/issues/new?assignees=&labels=Ops%3A+Proposal&template=Project+Proposal+form.yml&title=%5BProposal%5D%3A+7) - Please use this form to propose your project for review. The decision of the review will be communicated to you.
