@@ -23,7 +23,7 @@ For the latest please see the [Full List of IT Issue Forms](https://github.com/s
 For the latest please see the [Full List of Discovery Issue Forms](https://github.com/smartcontractresearchforum/discovery/issues/new/choose).
 
 ## Communications
-- [Announcement Request]() - If you have something to share with the SCRF community let us know!
+- [Announcement Request](https://github.com/smartcontractresearchforum/discovery/issues/new?assignees=SirAh0&labels=announcement&template=announcement-request.yml&title=%5B%F0%9F%93%A3Announcement%5D-+%3Cadd+name+here%3E+) - If you have something to share with the SCRF community let us know!
 
 ## Calendar
 - [Calendar Event](https://github.com/smartcontractresearchforum/discovery/issues/new?assignees=SirAh0&labels=&template=calendar.yml&title=%F0%9F%93%85+-+New+Event) - Add an event to the SCRF calendar.
