@@ -22,6 +22,7 @@ SCRF's Document Directory is a comprehensive guide of all SCRF documentation.
 * [SCRF Privacy and SNARKS Panel Transcript](transcripts/scrf_privacy_and_snarks_panel_transcript.md)
 * [SCRF Central Bank Digital Currency (CBDC) and Blockchain Panel Transcript](transcripts/scrf_central_bank_digital_currency_cbdc_and_blockchain_panel_transcript.md)
 * [SCRF Identity and Reputation Panel Transcript](transcripts/scrf_identity_and_reputation_panel_transcript.md)
+* [SCRF Governance Theory Panel Transcript](transcripts/scrf_governance_theory_panel_transcript.md)
 
 ## Contributor Resources
 
