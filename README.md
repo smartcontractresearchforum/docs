@@ -9,7 +9,7 @@
 
 ## About SCRF
 
-- [Mission and Principles](mission_and_principles.md)
+- [Mission and Principles](en/mission_and_principles.md)
 - [Connecting with SCRF](en/content_connecting_with_scrf.md)
 
 ## Getting Started
