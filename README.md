@@ -26,7 +26,7 @@
 
 ## Forum
 
-- [Innovation Post Template](innovation_post_template.md)
+- [Innovation Post Template](en/innovation_post_template.md)
 - [Web3 Glossary](en/reference_terms_glossary.md)
 
 
