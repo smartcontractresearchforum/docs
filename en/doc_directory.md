@@ -37,6 +37,7 @@ SCRF's Document Directory is a comprehensive guide of all SCRF documentation.
 * [Discussion Posts](content_discussion_post_template.md)
 * [Mini-Posts](content_mini_post_template.md)
 * [Notable Works](content_notable_works_template.md)
+* [Innovation Post Template](innovation_post_template.md)
 
 ## SCRF Documentation
 

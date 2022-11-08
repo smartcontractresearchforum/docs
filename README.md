@@ -27,6 +27,7 @@
 ## Forum
 
 - [Web3 Glossary](en/reference_terms_glossary.md)
+- [Innovation Post Template](innovation_post_template.md)
 
  
 ## Grants, Bounties, and Awards
