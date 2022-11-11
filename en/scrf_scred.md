@@ -70,6 +70,75 @@ Second Friday of each month
 
 A record of payout recipients and their CredRank score.
 
+## October 2022
+
+<details>
+    <summary> Open Table</summary>
+
+| User |Cred% |
+|:--- |:--- |
+| jmcgirk	| 7.70% |
+| Larry-Bates	| 6.20% |
+| Twan	| 2.10% |
+| Ulysses	| 1.90% |
+| Tolulope	| 1.40% |
+| Harvesto 	| 1.40% |
+| Fizzymidas	| 1.20% |
+| Samuel94	| 1.20% |
+| jyezie	| 1.00% |
+| Henry	| 1.00% |
+| Freakytainment	| 0.90% |
+| Austin-jul	| 0.70% |
+| Idara-Effiong	| 0.70% |
+| cashkid18	| 0.70% |
+| GloriaOkoba	| 0.70% |
+| Angle	| 0.60% |
+| Sami-B	| 0.50% |
+| kingdamieth	| 0.50% |
+| Hermes-Corp	| 0.50% |
+| brian-alexakis	| 0.40% |
+| s-ben	| 0.40% |
+| drllau	| 0.40% |
+| tomideadeoye	| 0.40% |
+| tebogonong	| 0.40% |
+| WaterLily	| 0.40% |
+| Chrisarch	| 0.40% |
+| Humphery	| 0.40% |
+| LTTOguns	| 0.30% |
+| wmflies	| 0.30% |
+| BenjaminMukoro	| 0.30% |
+| Never-in-trenches	| 0.30% |
+| lisayanky	| 0.30% |
+| Yeoriton	| 0.30% |
+| Sword-of-Owmens	| 0.30% |
+| parseb	| 0.20% |
+| J_Fraizer	| 0.10% |
+| Gift82822546	| 0.10% |
+| ivanplazacic	| 0.10% |
+| Loni-Grace	| 0.10% |
+| Maryjane-Okorie	| 0.10% |
+| FINE-8385	| 0.00% |
+| liberty7369	| 0.00% |
+| Raha	| 0.00% |
+| Nicolasdamiens 	| 0.00% |
+| Vivian20	| 0.00% |
+| D4th	| 0.00% |
+| Cunningham412	| 0.00% |
+| Mansion	| 0.00% |
+| Iyadola	| 0.00% |
+| MaryJude 	| 0.00% |
+| MaryDee	| 0.00% |
+| Rukku-L	| 0.00% |
+| Smasherworldwide 	| 0.00% |
+| Prudy	| 0.00% |
+| Ottononi	| 0.00% |
+| Ma_cati	| 0.00% |
+| Livinus_Oluchukwu	| 0.00% |
+| Tessy	| 0.00% |
+
+</details>
+</br>
+
 ## September 2022
 
 <details>
