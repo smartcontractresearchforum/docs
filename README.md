@@ -23,7 +23,7 @@
 - [Writing Style Guide](en/reference_style_guide.md)
 - [Brand Assets](https://github.com/smartcontractresearchforum/docs/tree/main/assets/brand)
 - [GitHub Issue Requests Directory](en/issue_forms_directory.md)
-- [Project Proposal](project_proposal_template.md)
+- [Project Proposal](en/project_proposal_template.md)
 
 ## Forum
 
