@@ -59,4 +59,5 @@ SCRF's Document Directory is a comprehensive guide of all SCRF documentation.
 
 ## Discovery
 
+* [SCRF.io Portal Project Plan](scrf_io_portal_project_plan.md)
 * [Research Pulse Newsletter Project](research_pulse_newsletter_project.md)
