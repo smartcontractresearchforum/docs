@@ -56,3 +56,7 @@ SCRF's Document Directory is a comprehensive guide of all SCRF documentation.
 
 * [Research Improvement Process](process_research_improvement_proposal.md)
 * [Research Improvement Proposal](project_research_improvement_proposal.md)
+
+## Discovery
+
+* [Research Pulse Newsletter Project](research_pulse_newsletter_project.md)
