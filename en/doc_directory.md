@@ -41,6 +41,7 @@ SCRF's Document Directory is a comprehensive guide of all SCRF documentation.
 ## SCRF Documentation
 
 * [Converting Google Docs to Markdown](converting_google_docs_to_markdown.md)
+* [Transcript Template](transcript_template.md)
 
 ## Web3 Reference Materials
 
