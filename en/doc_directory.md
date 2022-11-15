@@ -2,7 +2,8 @@
 
 SCRF's Document Directory is a comprehensive guide of all SCRF documentation.
 
-# About SCRF
+## About SCRF
+
 * [Mission and Principles](mission_and_principles.md)
 
 ## Awards, Bounties, Grants
