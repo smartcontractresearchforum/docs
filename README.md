@@ -30,15 +30,6 @@
 - [Innovation Post Template](en/innovation_post_template.md)
 - [Web3 Glossary](en/reference_terms_glossary.md)
 
-
- 
-## Grants, Bounties, and Awards
-
-- [Impact Award](en/grants_impact_award.md)
-- [Pan-African Microgrants](en/grants_pan_african.md)
-- [Contributor Recognition and Rewards Initiative](en/grants_contributor_rewards.md)
-- [Research Summary Grant](en/grants_general_contributors.md)
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
