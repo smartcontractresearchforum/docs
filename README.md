@@ -32,7 +32,7 @@
 
 ## Projects
 
-- [Public Goods Student Association](project_public_goods_student_association.md)
+- [Public Goods Student Association](en/project_public_goods_student_association.md)
 
 ## Contributors ✨
 
