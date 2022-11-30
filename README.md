@@ -30,6 +30,10 @@
 - [Innovation Post Template](en/innovation_post_template.md)
 - [Web3 Glossary](en/reference_terms_glossary.md)
 
+## Projects
+
+- [Public Goods Student Association](project_public_goods_student_association.md)
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
