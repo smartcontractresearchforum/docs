@@ -28,7 +28,7 @@
 ## Forum
 
 - [Innovation Post Template](en/innovation_post_template.md)
-- [SCRF Moderation Process](en/scrf_moderation_process.md)
+- [SCRF Moderation Guidelines](en/scrf_moderation_guidelines.md)
 
 ## Projects
 

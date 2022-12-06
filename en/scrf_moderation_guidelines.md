@@ -1,4 +1,4 @@
-# SCRF Moderation Process
+# SCRF Moderation Guidlines
 
 The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) has created a Moderator Workflow to provide moderators with guidelines to ensure comments and posts on the forum align with SCRF's standards.
 
