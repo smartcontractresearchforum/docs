@@ -28,13 +28,14 @@ SCRF's Document Directory is a comprehensive guide of all SCRF documentation.
 
 * [Weekly Community Calls](content_community_calls.md)
 
-## Forum Templates
+## Forum 
 
 * [Research Summary](content_research_summary_template.md)
 * [Discussion Posts](content_discussion_post_template.md)
 * [Mini-Posts](content_mini_post_template.md)
 * [Notable Works](content_notable_works_template.md)
 * [Innovation Post Template](innovation_post_template.md)
+* [SCRF Moderation Process](scrf_moderation_process.md)
 
 ## SCRF Documentation
 
@@ -57,7 +58,7 @@ SCRF's Document Directory is a comprehensive guide of all SCRF documentation.
 ## Web3 Reference Materials
 
 * [Notable Works](content_notable_works.md)
-* [Terms Glossary](reference_terms_glossary.md)
+* [Web3 Glossary](scrf_web3_glossary.md)
 
 
 ## Archive

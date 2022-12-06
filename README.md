@@ -28,11 +28,14 @@
 ## Forum
 
 - [Innovation Post Template](en/innovation_post_template.md)
-- [Web3 Glossary](en/reference_terms_glossary.md)
+- [SCRF Moderation Process](en/scrf_moderation_process.md)
 
 ## Projects
 
 - [Public Goods Student Association](en/project_public_goods_student_association.md)
+
+## Web3
+- [Web3 Glossary](en/scrf_web3_glossary.md)
 
 ## Contributors ✨
 
