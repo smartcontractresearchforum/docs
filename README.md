@@ -24,6 +24,7 @@
 - [Brand Assets](https://github.com/smartcontractresearchforum/docs/tree/main/assets/brand)
 - [GitHub Issue Requests Directory](en/issue_forms_directory.md)
 - [Project Proposal](en/project_proposal_template.md)
+- [SCRF Terms and Titles](en/scrf_terms_and_titles.md)
 
 ## Forum
 
