@@ -70,6 +70,135 @@ Second Friday of each month
 
 A record of payout recipients and their CredRank score.
 
+## December 2022
+
+<details>
+    <summary> Open Table</summary>
+
+| User |Cred% |
+|:--- |:--- |
+| jmcgirk |	6.10% |
+| Larry-Bates	5.20% |
+| Ulysses |	2.60% |
+| Progrezz |	1.50% |
+| Harvesto |	1.40% |
+| Henry |	1.30% |
+| Samuel94 |	1.20% |
+| Humphery |	1.20% |
+| Idara |-Effiong	1.10% |
+| Tolulope |	1.10% |
+| Fizzymidas |	1.00% |
+| Cashkid18 |	1.00% |
+| freakytainment |	0.90% |
+| Angle |	0.80% |
+| jyezie |	0.80% |
+| Desotech |	0.70% |
+| Mansion |	0.70% |
+| GloriaOkoba |	0.70% |
+| Chrisarch |	0.70% |
+| Austin |-jul	0.60% |
+| WaterLily |	0.50% |
+| Yeoriton56 |	0.50% |
+| Sami-B |	0.40% |
+| brian |-alexakis	0.40% |
+| s-ben |	0.40% |
+| Jmax |	0.40% |
+| kingdamieth |	0.40% |
+| tomideadeoye |	0.40% |
+| LTTOguns |	0.40% |
+| Raphking |	0.40% |
+| Lisayanky |	0.40% |
+| Amazingdez |	0.40% |
+| Sword-of-Owmens |	0.40% |
+| Favvz |	0.30% |
+| BenjaminMukoro |	0.30% |
+| Never-in-trenches |	0.30% |
+| Ivyprogress |	0.30% |
+
+
+</details>
+</br>
+
+## November 2022
+
+<details>
+    <summary> Open Table</summary>
+
+| User |Cred% |
+|:--- |:--- |
+| jmcgirk |	6.90% |
+| Larry |-Bates	5.60% |
+| Ulysses |	2.40% |
+| Twan |	1.90% |
+| Harvesto |	1.50% |
+| Samuel94 |	1.40% |
+| Tolulope |	1.30% |
+| Henry |	1.30% |
+| gearlad |	1.20% |
+| Fizzymidas |	1.10% |
+| Idara |-Effiong	0.90% |
+| freakytainment |	0.90% |
+| Cashkid18 |	0.90% |
+| Humphery |	0.80% |
+| Angle |	0.80% |
+| Progrezz |	0.70% |
+| GloriaOkoba |	0.70% |
+| Austin |-jul	0.70% |
+| Chrisarch |	0.60% |
+| WaterLily |	0.50% |
+| tomideadeoye |	0.50% |
+| jmax |	0.50% |
+| Yeoriton56 |	0.40% |
+| Sword-of-Owmens |	0.40% |
+| stallonaking |	0.40% |
+| s-ben |	0.40% |
+| Mansion |	0.40% |
+| LTTOguns |	0.40% |
+| kingdamieth |	0.40% |
+| brian |-alexakis	0.40% |
+| Never |-in-trenches	0.30% |
+| Lisayanky |	0.30% |
+| Favvz |	0.30% |
+| Amazingdez |	0.30% |
+| Raphking |	0.20% |
+| parseb |	0.20% |
+| Maryjane |-Okorie	0.20% |
+| Loni_Grace |	0.20% |
+| Jas-mine |	0.20% |
+| J-Fraizer |	0.20% |
+| Gift82822546 |	0.20% |
+| desotech |	0.20% |
+| BenjaminMukoro |	0.20% |
+| Nicolasdamiens |	0.10% |
+| Lucas |	0.10% |
+| Lanedot |	0.10% |
+| Kvngdrvy |	0.10% |
+| ivanplazacic |	0.10% |
+| elbeth |	0.10% |
+| DIVINE |	0.10% |
+| Cindy |	0.10% |
+| UFC |	0.00% |
+| Tessy |	0.00% |
+| Smasherworldwide |	0.00% |
+| Prudy |	0.00% |
+| Ottononi |	0.00% |
+| Mma |	0.00% |
+| MaryJude |	0.00% |
+| MaryDee |	0.00% |
+| Luminous |	0.00% |
+| Livinus |-Oluchukwu	0.00% |
+| liberty7369 |	0.00% |
+| Judi |	0.00% |
+| Iyadola |	0.00% |
+| Hellenstans |-eth	0.00% |
+| Great |	0.00% |
+| Emmanuella |	0.00% |
+| Danesifav |	0.00% |
+| D4th |	0.00% |
+
+</details>
+</br>
+
 ## October 2022
 
 <details>
