@@ -95,7 +95,7 @@ A record of payout recipients and their CredRank score.
 | User |Cred% |
 |:--- |:--- |
 | jmcgirk |	6.90% |
-| Larry |-Bates	5.60% |
+| Larry-Bates |	5.60% |
 | Ulysses |	2.40% |
 | Twan |	1.90% |
 | Harvesto |	1.50% |
@@ -104,14 +104,14 @@ A record of payout recipients and their CredRank score.
 | Henry |	1.30% |
 | gearlad |	1.20% |
 | Fizzymidas |	1.10% |
-| Idara |-Effiong	0.90% |
+| Idara-Effiong |	0.90% |
 | freakytainment |	0.90% |
 | Cashkid18 |	0.90% |
 | Humphery |	0.80% |
 | Angle |	0.80% |
 | Progrezz |	0.70% |
 | GloriaOkoba |	0.70% |
-| Austin |-jul	0.70% |
+| Austin-jul |	0.70% |
 | Chrisarch |	0.60% |
 | WaterLily |	0.50% |
 | tomideadeoye |	0.50% |
@@ -123,8 +123,8 @@ A record of payout recipients and their CredRank score.
 | Mansion |	0.40% |
 | LTTOguns |	0.40% |
 | kingdamieth |	0.40% |
-| brian |-alexakis	0.40% |
-| Never |-in-trenches	0.30% |
+| brian-alexakis |	0.40% |
+| Never-in-trenches |	0.30% |
 | Lisayanky |	0.30% |
 | Favvz |	0.30% |
 | Amazingdez |	0.30% |
