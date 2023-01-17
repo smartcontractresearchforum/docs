@@ -130,7 +130,7 @@ A record of payout recipients and their CredRank score.
 | Amazingdez |	0.30% |
 | Raphking |	0.20% |
 | parseb |	0.20% |
-| Maryjane |-Okorie	0.20% |
+| Maryjane-Okorie |	0.20% |
 | Loni_Grace |	0.20% |
 | Jas-mine |	0.20% |
 | J-Fraizer |	0.20% |
@@ -154,7 +154,7 @@ A record of payout recipients and their CredRank score.
 | MaryJude |	0.00% |
 | MaryDee |	0.00% |
 | Luminous |	0.00% |
-| Livinus |-Oluchukwu	0.00% |
+| Livinus-Oluchukwu |	0.00% |
 | liberty7369 |	0.00% |
 | Judi |	0.00% |
 | Iyadola |	0.00% |
