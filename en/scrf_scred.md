@@ -5,7 +5,9 @@ A good starting point to understand the history of SourceCred at SCRF is the mai
 > - Paul Zube, Engagement Head SCRF
 
 ## How to Participate
-In order to earn Cred simply create an account at the [SCRF Forum](https://www.smartcontractresearch.org/) and start contributing. All of the likes you give, likes you get, content you create, and content that gets shared will earn you Cred. Then, every month SCRF releases an amount of DAI to the community according to the earned Cred Rank. 
+**PLEASE NOTE:** DAI is no longer being issued for Cred as of January 2023. You may still partake in SourceCred in order to gain reputation in terms of forum contribution. 
+
+In order to earn Cred simply create an account at the [SCRF Forum](https://www.smartcontractresearch.org/) and start contributing. All of the likes you give, likes you get, content you create, and content that gets shared will earn you Cred. 
 
 More information about how SourceCred calculates Cred can be found in the following SCRF presentations.
 - [SourceCred - Node and Edge Weights](https://docs.google.com/presentation/d/1C2AjRJyujYJvccnChtWzw-0Ox83AQLy60Jp8FnWu6Eo/edit?usp=sharing)
@@ -13,46 +15,12 @@ More information about how SourceCred calculates Cred can be found in the follow
 - [SCRF - SourceCred Poll Results and Whats Next](https://docs.google.com/presentation/d/1nkhX9kZv-coVmsxCyBzkZEYIfzNj-DZdRfbNW0Wbgdk/edit?usp=sharing)
 
 ### Opting In
-Before you can Opt In to receive a DAI payment it is required that the First Time Opt In Form be completed. This form only needs to be filled out once. Please ensure that the wallet address supplied is compatible with DAI.
+Before you can Opt In to accrue Cred it is required that the First Time Opt In Form be completed. This form only needs to be filled out once. 
 - [First Time Opt In Form](https://forms.gle/36iaJNrBAcCqLj3B9)
 
 Each month you must Opt In. Please do so on the SCRF Discord Server 
 - [#💲sourcecred-opt-in channel](https://discord.com/channels/784234332617048065/968202164247879730)
 
-### Tracking CredRank
-At the end of each month the monthly [CredRank Logs](https://github.com/smartcontractresearchforum/docs/blob/main/en/scrf_scred.md#credrank-logs) section of this document will be updated.
-
-## Monthly Payouts
-Each month, SCRF releases 5,000 DAI which is distributed to the community members who opt-in. Individual payouts are calculated based on Cred Rank and the amount of unclaimed DAI. 
-
-DAI that would go to members who do not opt-in are returned to a shared pool of DAI. This shared pool is distributed amongst those who opt-in. 
-
-For the month of May 2022, the calculations used were based on the [SCRF - SourceCred Poll Results and Whats Next](https://docs.google.com/presentation/d/1nkhX9kZv-coVmsxCyBzkZEYIfzNj-DZdRfbNW0Wbgdk/edit?usp=sharing) presentation. 
-
-Future methods of calculating individual DAI amounts are open for discussion in the monthly SCRF Community Committee meeting.
-
-## Monthly SCRF Community Committee Meeting
-For more information about SCRF public meetings please see [SCRF Meetings](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_connecting_with_scrf.md#meetings).
-
-**Description**
-Come join the community and share your voice!
-_Topics include_
-Changing Node and Edge Weights
-Adjusting DAI Disbursement
-Effects of SourceCred on the SCRF Forum Community
-Open forum to submit ideas, concerns or other opinions
-
-**Location**
-https://meet.google.com/zar-oyrc-xko
-
-**Duration**
-1 Hour
-
-**When**
-Second Friday of each month
-
-**Start Time**
-10:00am PST
 
 ## SCRF & SourceCred Resources
 ### Presentations
