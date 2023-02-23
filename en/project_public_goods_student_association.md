@@ -6,7 +6,7 @@ The Public Goods Student Association (PGSA) is an intiative from SCRF, supported
 
 Beyond this Spring, the PGSA will partner with appropraite hackathon groups over the summer to provide a pathway for students to apply their knowledge by building the future of public goods. For the 2023-2024 Academic Year, the PGSA will partner with a variety of student groups around the world to build more educational materials and resources around the variuos topics that fall under the bucket of public goods. 
 
-###**Schedule Spring 2023** 
+### **Schedule Spring 2023** 
 To register, please RSVP via this form. 
 
 All sessions will be hosted from 12p-1p EST/UTC-5, unless indicated otherwise, and will feature at least one relevant industry practioner who can provide some context for that day's topic and lead a Q&A with students. 
