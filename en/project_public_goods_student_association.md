@@ -1,47 +1,44 @@
 # Public Goods Student Association Overview
 
-## SCRF Overview
+## Overview
 
-[SCRF](https://scrf.io/)'s bold mission is to bring together researchers and builders to create groundbreaking web3 advancements. To succeed in this quest, SCRF facilitates resource and knowledge exchange, sponsors projects, and constructs collaborative forums. The org comprises an active international network of academics, industry architects, and blockchain advocates.
+The Public Goods Student Association (PGSA) is an intiative from SCRF, supported by Gitcoin and Lobby3 DAO, meant to bring together students from around the world who want to learn more about public goods but aren't sure where to get started. From March 16-April 27, there will be a weekly virtual seminar open to any students who want to delve into specific public goods topics. In addition to these weekly sessions, the PGSA will support the creation of various materials (such as reading lists or curricula) to help guide students in their learning journey. 
 
-SCRF was founded roughly two years ago and has supported research curation and discussion since then. [The forum](https://smartcontractresearch.org/) was launched early in 2021, and SCRF released the [Research Pulse](https://scrf.substack.com/), a list of curated research from 300+ resources weekly since February 2021.
+Beyond this Spring, the PGSA will partner with appropraite hackathon groups over the summer to provide a pathway for students to apply their knowledge by building the future of public goods. For the 2023-2024 Academic Year, the PGSA will partner with a variety of student groups around the world to build more educational materials and resources around the variuos topics that fall under the bucket of public goods. 
 
-## Project Overview
+###**Schedule Spring 2023** 
+To register, please RSVP via this form. 
 
-### Goal
+All sessions will be hosted from 12p-1p EST/UTC-5, unless indicated otherwise, and will feature at least one relevant industry practioner who can provide some context for that day's topic and lead a Q&A with students. 
 
-The goal of this project is to bring together students from around the world to learn about public goods and to contribute towards solving the biggest problems.
+- March 9 - Introducting the PGSA _(Twitter Space)_
+- March 16 - Intro to Public Goods _(video call)_
+- March 23 - DeSci and Public Goods _(video call)_
+- March 30 - Climate and Public Goods _(video call)_
+- April 6 - Funding Public Goods _(video call)_
+- April 13 - Health and Public Goods _(video call)_
+- April 20 - Existential Risks and Public Goods _(video call)_
+- April 27 - Governing Public Goods & Planning for Summer/Fall 2023 _(video call)_
 
-### Problem
-
-There are currently no organized onboarding pathways for students to get into public goods or to have any kind of structured learning pathway as they explore the various challenges pertaining to public goods.
-
-There are many organizations interested in supporting education, development, or research on public goods, but there aren't easy ways to connect with many clubs.
-
-### Proposed Project
-
-The SCRF team wants to build out the global Public Goods Student Association as a space for students to connect with others interested in these topics, learn from experts, and have opportunities to get directly involved in new or existing projects.
-
-To accomplish this, the SCRF team will:
-
-* Reach out to 50+ universities globally
-* Organize a weekly seminar starting in January 2023
-* Run an ideation event in early February 2023
-* Set up a virtual 6-8 week hackathon, targeting Spring 2023
-* Create repositories of open problems, bounties, and job opportunities
-* Hire interns to help manage and grow the various activities
+For more information, email eugene@scrf.io.
 
 ## Resources
 
 ### What are Public Goods?
 
-This is by no means a comprehensive explanation, but below are some pointers to get started.
+This is by no means a comprehensive explanation, but below are some pointers to get started. The PGSA project team will continuie to update this as we gather more resources. 
 
 Public goods refer to things that are [nonexcludable and nonrivalrous](https://www.lawinsider.com/dictionary/nonexcludable). Here's a [Khan Academy link](https://www.khanacademy.org/economics-finance-domain/microeconomics/market-failure-and-the-role-of-government/externalities-topic/a/public-goods-cnx) and a [Stanford Encyclopedia of Philosophy link](https://plato.stanford.edu/entries/public-goods/) for more context and a talk from [Vitalik on the subject of funding public goods](https://protocol.ai/blog/transcription-vitalik-buterin-funding-the-commons/).
 
 ### Links
 
 Funding the Commons [Youtube playlist](https://www.youtube.com/playlist?list=PLhuBigpl7lqtMdPkejuo3mHdLFX53ftXJ)
+
+## SCRF Overview
+
+[SCRF](https://scrf.io/)'s bold mission is to bring together researchers and builders to create groundbreaking web3 advancements. To succeed in this quest, SCRF facilitates resource and knowledge exchange, sponsors projects, and constructs collaborative forums. The org comprises an active international network of academics, industry architects, and blockchain advocates.
+
+SCRF was founded roughly two years ago and has supported research curation and discussion since then. [The forum](https://smartcontractresearch.org/) was launched early in 2021 and started the Public Goods Student Association Spring 2023. 
 
 ## Learn More About SCRF
 
