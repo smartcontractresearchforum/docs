@@ -34,12 +34,6 @@ Public goods refer to things that are [nonexcludable and nonrivalrous](https://w
 
 Funding the Commons [Youtube playlist](https://www.youtube.com/playlist?list=PLhuBigpl7lqtMdPkejuo3mHdLFX53ftXJ)
 
-## SCRF Overview
-
-[SCRF](https://scrf.io/)'s bold mission is to bring together researchers and builders to create groundbreaking web3 advancements. To succeed in this quest, SCRF facilitates resource and knowledge exchange, sponsors projects, and constructs collaborative forums. The org comprises an active international network of academics, industry architects, and blockchain advocates.
-
-SCRF was founded roughly two years ago and has supported research curation and discussion since then. [The forum](https://smartcontractresearch.org/) was launched early in 2021 and started the Public Goods Student Association Spring 2023. 
-
 ## Learn More About SCRF
 
 The Smart Contract Research Forum (SCRF) is a grants-funded organization dedicated to advancing research while serving the web3 space. [Learn](https://github.com/smartcontractresearchforum/docs) more about SCRF, and discover ways to [get involved](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_connecting_with_scrf.md)
