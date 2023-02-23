@@ -11,7 +11,7 @@ To register, please RSVP via this form.
 
 All sessions will be hosted from 12p-1p EST/UTC-5, unless indicated otherwise, and will feature at least one relevant industry practioner who can provide some context for that day's topic and lead a Q&A with students. 
 
-- March 9 - Introducting the PGSA _(Twitter Space)_
+- March 9 - Introducing the PGSA _(Twitter Space)_
 - March 16 - Intro to Public Goods _(video call)_
 - March 23 - DeSci and Public Goods _(video call)_
 - March 30 - Climate and Public Goods _(video call)_
