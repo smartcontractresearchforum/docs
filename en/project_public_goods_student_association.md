@@ -9,16 +9,16 @@ Beyond this Spring, the PGSA will partner with appropriate hackathon groups over
 ### **Schedule Spring 2023** 
 To register, please RSVP via this form. 
 
-All sessions will be hosted from 12p-1p EST/UTC-5, unless indicated otherwise, and will feature at least one relevant industry practitioner who can provide some context for that day's topic and lead a Q&A with students. 
+All virtual seminars will be hosted from 12p-1p EST/UTC-5 as video calls, unless indicated otherwise, and will feature at least one relevant industry practitioner who can provide some context for that day's topic and lead a Q&A with students. 
 
 - March 9 - Introducing the PGSA _(Twitter Space)_
-- March 16 - Intro to Public Goods _(video call)_
-- March 23 - DeSci and Public Goods _(video call)_
-- March 30 - Climate and Public Goods _(video call)_
-- April 6 - Funding Public Goods _(video call)_
-- April 13 - Health and Public Goods _(video call)_
-- April 20 - Existential Risks and Public Goods _(video call)_
-- April 27 - Governing Public Goods & Planning for Summer/Fall 2023 _(video call)_
+- March 16 - Intro to Public Goods
+- March 23 - DeSci and Public Goods
+- March 30 - Climate and Public Goods
+- April 6 - Funding Public Goods
+- April 13 - Health and Public Goods
+- April 20 - Existential Risks and Public Goods
+- April 27 - Governing Public Goods & Planning for Summer/Fall 2023
 
 For more information, email eugene@scrf.io.
 
