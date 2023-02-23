@@ -2,14 +2,14 @@
 
 ## Overview
 
-The Public Goods Student Association (PGSA) is an intiative from SCRF, supported by Gitcoin and Lobby3 DAO, meant to bring together students from around the world who want to learn more about public goods but aren't sure where to get started. From March 16-April 27, there will be a weekly virtual seminar open to any students who want to delve into specific public goods topics. In addition to these weekly sessions, the PGSA will support the creation of various materials (such as reading lists or curricula) to help guide students in their learning journey. 
+The Public Goods Student Association (PGSA) is an initiative from SCRF, supported by Gitcoin and Lobby3 DAO, meant to bring together students from around the world who want to learn more about public goods but aren't sure where to get started. From March 16-April 27, there will be a weekly virtual seminar open to any students who want to delve into specific public goods topics. In addition to these weekly sessions, the PGSA will support the creation of various materials (such as reading lists or curricula) to help guide students in their learning journey. 
 
-Beyond this Spring, the PGSA will partner with appropraite hackathon groups over the summer to provide a pathway for students to apply their knowledge by building the future of public goods. For the 2023-2024 Academic Year, the PGSA will partner with a variety of student groups around the world to build more educational materials and resources around the variuos topics that fall under the bucket of public goods. 
+Beyond this Spring, the PGSA will partner with appropriate hackathon groups over the summer to provide a pathway for students to apply their knowledge by building the future of public goods. For the 2023-2024 Academic Year, the PGSA will partner with a variety of student groups around the world to build more educational materials and resources around the various topics that fall under the bucket of public goods. 
 
 ### **Schedule Spring 2023** 
 To register, please RSVP via this form. 
 
-All sessions will be hosted from 12p-1p EST/UTC-5, unless indicated otherwise, and will feature at least one relevant industry practioner who can provide some context for that day's topic and lead a Q&A with students. 
+All sessions will be hosted from 12p-1p EST/UTC-5, unless indicated otherwise, and will feature at least one relevant industry practitioner who can provide some context for that day's topic and lead a Q&A with students. 
 
 - March 9 - Introducing the PGSA _(Twitter Space)_
 - March 16 - Intro to Public Goods _(video call)_
