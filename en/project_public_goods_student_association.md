@@ -11,14 +11,14 @@ To register, please RSVP via this form.
 
 All virtual seminars will be hosted from 12p-1p EST/UTC-5 as video calls, unless indicated otherwise, and will feature at least one relevant industry practitioner who can provide some context for that day's topic and lead a Q&A with students. 
 
-- March 9 - Introducing the PGSA _(Twitter Space)_
-- March 16 - Intro to Public Goods
-- March 23 - DeSci and Public Goods
-- March 30 - Climate and Public Goods
-- April 6 - Funding Public Goods
-- April 13 - Health and Public Goods
-- April 20 - Existential Risks and Public Goods
-- April 27 - Governing Public Goods & Planning for Summer/Fall 2023
+- March 8 - Introducing the PGSA _(Twitter Space)_
+- March 15 - Intro to Public Goods
+- March 22 - DeSci and Public Goods
+- March 29 - Climate and Public Goods
+- April 5 - Funding Public Goods
+- April 12 - Health and Public Goods
+- April 19 - Existential Risks and Public Goods
+- April 26 - Governing Public Goods & Planning for Summer/Fall 2023
 
 For more information, email eugene@scrf.io.
 
