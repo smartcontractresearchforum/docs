@@ -11,7 +11,6 @@ To register, please RSVP via [this form](https://docs.google.com/forms/d/e/1FAIp
 
 All virtual seminars will be hosted from 12p-1p EST/UTC-5 as video calls, unless indicated otherwise, and will feature at least one relevant industry practitioner who can provide some context for that day's topic and lead a Q&A with students. 
 
-- March 8 - Introducing the PGSA _(Twitter Space)_
 - March 15 - Intro to Public Goods
 - March 22 - DeSci and Public Goods
 - March 29 - Climate and Public Goods
