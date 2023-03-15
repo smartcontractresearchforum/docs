@@ -9,7 +9,7 @@ Beyond this Spring, the PGSA will partner with appropriate hackathon groups over
 ### **Schedule Spring 2023** 
 To register, please RSVP via [this form](https://docs.google.com/forms/d/e/1FAIpQLScqomCAuwxiFtAmzqi2Ur1eAIwy5tfwQuJuBKAZ9d6C6W2nGw/viewform?usp=sf_link). 
 
-All virtual seminars will be hosted from 12p-1p EST/UTC-5 as video calls, unless indicated otherwise, and will feature at least one relevant industry practitioner who can provide some context for that day's topic and lead a Q&A with students. 
+All virtual seminars will be hosted from 1p-2p EST/UTC-4 as video calls, unless indicated otherwise, and will feature at least one relevant industry practitioner who can provide some context for that day's topic and lead a Q&A with students. 
 
 - March 15 - Intro to Public Goods
 - March 22 - DeSci and Public Goods
