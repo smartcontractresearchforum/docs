@@ -12,10 +12,10 @@ To register, please RSVP via [this form](https://docs.google.com/forms/d/e/1FAIp
 All virtual seminars will be hosted from 1p-2p EST/UTC-4 as video calls, unless indicated otherwise, and will feature at least one relevant industry practitioner who can provide some context for that day's topic and lead a Q&A with students. 
 
 - March 15 - Intro to Public Goods
-- March 22 - DeSci and Public Goods
-- March 29 - Climate and Public Goods
-- April 5 - Funding Public Goods
-- April 12 - Health and Public Goods
+- March 22 - DeSci and Public Goods (featuring contributors from DeSci Labs, DeSci World, and Gitcoin's DeSci Grant Rounds) 
+- March 29 - Public Goods Governance Experiments & Building a Pipeline for Students into Public Goods (featuring contributors from Public Nouns)
+- April 5 - Funding Public Goods 
+- April 12 - Health and Public Goods (featuring contributors Athena DAO)
 - April 19 - Existential Risks and Public Goods
 - April 26 - Governing Public Goods & Planning for Summer/Fall 2023
 
