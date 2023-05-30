@@ -11,6 +11,7 @@ We have open bounties available for anyone who can suggest additions, deletions,
   - [246 Findings From our Smart Contract Audits\: An Executive Summary](#246-findings-from-our-smart-contract-audits-an-executive-summary)
   - [Ethereum Smart Contract Security Best Practices](#ethereum-smart-contract-security-best-practices)
   - [List of Ethereum Smart Contracts Post-Mortems](#list-of-ethereum-smart-contracts-post-mortems)
+  - [EEA EthTrust Security Levels Specfication v1](#eee-ethtrust-security-levels-specification)
 - [Oracles and Data](#oracles-and-data)
   - [The Blockchain as a Software Connector](#the-blockchain-as-a-software-connector)
   - [Town Crier: An Authenticated Data Feed for Smart Contracts](#town-crier-an-authenticated-data-feed-for-smart-contracts)
@@ -110,6 +111,13 @@ We have open bounties available for anyone who can suggest additions, deletions,
 - **Authors:** OpenZeppelin
 - **Description:** This post outlines a list of Ethereum smart contracts post-mortems
 - **Relevance:** This post is relevant because it provides lessons from real-world case studies. It is a state-of-the-art list that serves as a reference point for educating developers and auditors
+
+### EEA EthTrust Security Levels Specification
+
+- **Source:** <https://entethalliance.org/specs/ethtrust-sl/>
+- **Authors:** Enterprise Ethereum Alliance (EthTrust Security Levels Working Group)
+- **Description:** An industry-developed set of requirements for (Solidity) smart contract audits, to provide a basis for ensuring that audits meet a reasonable level of quality  in identifying potential vulnerabilities (three levels, from automatable tests to a full audit of code, business logic and documentation).
+- **Relevance:** This specification was developed and is maintained by a stnadardisation group with active participation from multiple security audit firms alongside other stakeholders with relevant expertise.
 
 ## Oracles and Data
 
